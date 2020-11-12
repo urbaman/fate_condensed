@@ -21,38 +21,38 @@ Il tuo PG è definito da vari elementi:
 * **Tocchi finali:** I dettagli personali del tuo eroe
 
 ### Aspects
-Aspects are short phrases that describe who your character is or what is important to them. They can relate to your character’s physical or mental qualities, history, beliefs, training, relationships, or even particularly important equipment.
+Gli **Aspetti** sono delle brevi frasi che descrivono chi è il tuo personaggio o quello che per lui è importante- Essi possono essere collegati a qualità fisiche o mentali del personaggio, alla sua storia, alle sue convinzioni, al suo addestramento o anche, in modo particolare, a equipaggiamento particolarmente importante.
 
-The first thing to know about them is: Aspects are true (see page XX for a discussion of this). In other words, how you define your character is real and true in the story you’re telling. If you write down that your character is a Precog Sniper, then they are a precog sniper. You’ve told everyone that your character sees the future and is a crack shot with a rifle.
+La prima cosa da sapere su di essi è questa: **gli Aspetti sono veri**. In  altre parole, il modo in cui definisci il tuo personaggio è reale e vero nel contesto della storia che vi accingete a raccontare. Se scrivi che il tuo personaggio è un **Cecchino precog**, allora è un cecchino precog. Hai detto a tutti che il tuo personaggio vede il futuro ed è un tiratore scelto con un fucile.
 
-You’ll also use aspects in play to change the story. They give you permission to improve your dice rolls and establish facts about the world. Lastly, aspects can earn you fate points if they create complications for your character—so to make the most versatile aspects, you should aim for ones that are double-edged, working both for you and against you.
+Inoltre, utilizzerai gli aspetti per influenzare la storia. Ti forniscono il permesso di migliorare i tuoi tiri di dado e stabilire fatti riguardo al mondo. In ultimo, gli aspetti possono fareti guadagnare **punti fato** se creano complicazioni per il tuo personaggio, quindi per creare aspetti più versatili possibile dovresti puntare a crearli a doppio taglio, in modo che lavorino sia a tuo favore che contro di te.
 
-To learn more about aspects and what makes a good one, consider reading some of Aspects and Fate Points (page XX).
+Per imparare di più sugli aspetti e come crearne di buoni, consigliamo di leggere parte del capitolo _Aspetti e Punti Fato_.
 
-To begin, you’ll give your character five aspects: a high concept, a trouble, a relationship, and two free aspects. Start with the high concept and go from there.
+**Per cominciare, fornirai il tuo personaggio di cinque aspetti:** concetto base, problema, relazione e due aspetti liberi. Inizia col concetto base e continua da lì.
 
-High Concept
-Your high concept is a broad description of the character, covering the vital bits. It’s how you would open your pitch for the character when telling a friend about them.
+#### Concetto base
+Il tuo **concetto base** è un'ampia descrizione del personaggio, riguardante le parti essenziali. È come inizieresti a presentarlo quando ne parli a un amico.
 
-Trouble
-Next is your character’s trouble—something that makes your character’s life more complicated. It could be a personal weakness, family entanglements, or other obligations. Pick something you’ll enjoy roleplaying!
+#### Problema
+Poi viene il **problema** del personaggio: qualcosa che rende la vita del tuo personaggio più complicata. Potrebbe riguardare una debolezza personale, coinvolgimenti famigliari o altri tipi di obblighi. Scegli qualcosa che ti interessa mettere in scena!
 
-Relationship
-Your relationship describes a connection with another PC. They may already know one another, or have just met.
+#### Relationship
+La tua relazione descrive una connessione con un altro PG. Possono già conoscersi, o essersi appena incontrati.
 
-Good relationship aspects should introduce or hint at conflict, or at least an imbalance that gives the relationship a little momentum. This doesn’t mean they are openly antagonistic, but they shouldn’t be all roses either.
+Dei buoni aspetti di relazione dovrebbero introdurre o contenere indizi di un conflitto, o almeno uno squilibrio che dia un po' di slancio alla relazione. Questo non significa rendere i due personaggi apertamente antagonisti, ma non dovrebbero essere nemmeno tutte rose e fiori.
 
-If you wish, you can wait to write down relationship aspects until everyone has more or less completed their characters.
+Se lo desideri, puoi aspettare che tutti abbiano pressappoco terminato i propri personaggi per scrivere le relazioni.
 
-Free Aspects
-You can make your character’s last two aspects anything you want—there are no restrictions beyond the obligation to fit the setting. Choose anything which you think will make your character more interesting, more fun to play, or better connected to the world they occupy.
+#### Aspetti liberi
+Puoi creare gli ultimi due aspetti del tuo personaggio come vuoi, non ci sono restrizioni a parte l'obbligo di aderire all'ambientazione. Scegli qualsiasi cosa pensi che renderà il tuo personaggio più interessante, più piacevole da interpretare o meglio connesso al mondo in cui vive.
 
-Skills
-While aspects define who your character is, skills show what they can do. Each skill describes a broad activity your character might have learned through study and practice or simply have an innate talent for. A character with Burglary is capable, to some degree, at all manner of crime relating to the fine art of burgling—casing a joint, bypassing security, pick-pocketing, and lock-picking.
+### Abilità
+Mentre gli aspetti definiscono chi è il tuo personaggio, le **abilità** mostrano cosa possono fare. Ogni abilità descrive un'ampia attività che il personaggio può aver imparato tramite gli studi o la pratica o nella quale ha semplicemente un talento innato. Un personaggio con Furtività è competente, a un certo livello, in tutti i tipi di crimine correlati alla fine arte del furto: studiare un piano, superare la sicurezza, borseggiare e scassinare.
 
-Each skill has a rating. The higher the rating, the better the character is at the skill. As a whole, your character’s skills will show you what actions they are built for, which ones they’ll get by on, and which aren’t their forte.
+Ogni abilità ha un valore. Più altro il valore, più competente il personaggio in tale abilità. Nella loro interezza, le abilità del personaggio mostreranno per quali azioni cono stati costruiti, quali azioni se la cavano e quali non sono il loro forte.
 
-You’ll choose your character’s skill ratings, arranged in a pyramid with the highest-rated skill at Great (+4), as follows:
+Sceglierai i valori delle abilità del tuo personaggio, organizzate in ua piramide con l'abilità più alta in valore a Ottimo (+4), come segue:
 
 One Great (+4) skill
 Two Good (+3) skills
