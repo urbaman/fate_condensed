@@ -1,16 +1,18 @@
-# Getting Started
-## Define Your Setting
-Any game of Fate starts with defining your setting. This might be a concept your GM is bringing to the table, a popular media property the players are familiar with, or a collaborative world-building exercise involving everyone at the table. The setting discussion may be quick and light on detail, or may involve a detailed full session with the whole group, or anything in between.
+# Per comindiare
+## Definire la vostra ambientazione
 
-Your choice of setting forms the basis of the table’s consensus about what is true, and what is acceptable in play and in character concepts. If your setting doesn’t have flying people in it, then a player deciding to make a flying-person character doesn’t pass muster. If your world involves shadowy organizations and deep conspiracies, players may expect story-lines free of clear-cut good-and-evil conflicts and devoid of farcical murder-clowns. It’s up to you!
+Qualsiasi partita di _Fate_ comincia con la definizione dell'ambientazione. Potrebbe essere un concetto portato al tavolo dal vostro GM, una proprietà mediatica popolare famigliare ai giocatori, o un esercizio di costruzione del mondo collaborativo che coinvolge tutti al tavolo. La discussione dell'ambientazione può essere veloce e leggera nei dettagli, oppure coinvolgere un'inera sessione con tutto il gruppo, o qualcosa nel mezzo.
 
-Create Your Characters
-Who Are You?
-Once you’ve decided on a setting, it’s time for the players to make characters—also called PCs. Each player takes on the role of one of the heroes of your story, controlling all their actions. You get to build the character you want to see in the world. Keep in mind that Fate characters are competent, dramatic, and willing to engage with the adventures ahead.
+La vostra scelta dell'ambientazione forma le basi per il consenso al tavolo su ciò che è vero e su ciò che è accetabile in gioco e nei concetti dei personaggi. Se la vostra ambientazione non prevede persone volanti, allora un giocatore che sceglie di creare un personaggio con capacità di volo non verrebbe approvato. Se il vostro mondo prevede organizzazioni ombra e cospirazioni profonde, i giocatori possono aspettarsi trame scevre di conflitti ben chiari tra bene e male e prive di farseschi assassini-pagliacci. Dipende da voi!
 
-Your PC is made up of several elements:
+## Create Your Characters
+### Who Are You?
 
-Aspects: phrases describing who your hero is
+Una volta decisa l'ambientazione, è tempo che i giocatori creino i personaggi, noti anche come PG. Ogni giocatore veste i panni di uno degli eroi della vostra storia, controllandone ogni azione. Dovete creare i personaggi che volete vedere nel mondo. Tenete a mente che i personaggi in _Fate_ sono competenti, drammatici e volenterosi di affrontare le avventure che li aspettano.
+
+Il tuo PG è definito da vari elementi:
+
+* *Aspeti:* frasi che descrivono chi è il tuo personaggio
 Skills: your hero’s areas of relative expertise
 Stunts: remarkable things your hero does
 Stress: your hero’s ability to keep calm and carry on
