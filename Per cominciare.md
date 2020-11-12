@@ -12,14 +12,15 @@ Una volta decisa l'ambientazione, è tempo che i giocatori creino i personaggi, 
 
 Il tuo PG è definito da vari elementi:
 
-* *Aspeti:* frasi che descrivono chi è il tuo personaggio
-Skills: your hero’s areas of relative expertise
-Stunts: remarkable things your hero does
-Stress: your hero’s ability to keep calm and carry on
-Consequences: the wounds, physical and mental, your hero can endure
-Refresh: a measure of your hero’s narrative agency
-Finishing Touches: your hero’s personal details
-Aspects
+* *Aspetti:* frasi che descrivono chi è il tuo eroe
+* *Skills:* le aree di relativa competenza del tuo eroe
+* *Talenti:* cose straordinarie che fa il tuo eroe
+* *Stress:* l'abilità del tuo eroe di mantenere la calma e andare avanti
+* *Conseqguenze:* le ferite, fisiche e mentali, che il tuo personaggio sopporta
+* *Recupero:* una misura dell'autorità narrativa del tuo eroe
+* *Tocchi finali:* I dettagli personali del tuo eroe
+
+♯## Aspects
 Aspects are short phrases that describe who your character is or what is important to them. They can relate to your character’s physical or mental qualities, history, beliefs, training, relationships, or even particularly important equipment.
 
 The first thing to know about them is: Aspects are true (see page XX for a discussion of this). In other words, how you define your character is real and true in the story you’re telling. If you write down that your character is a Precog Sniper, then they are a precog sniper. You’ve told everyone that your character sees the future and is a crack shot with a rifle.
