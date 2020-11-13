@@ -140,16 +140,21 @@ Si seguito trovate le descrizioni delle abilità.
 
 **Volontà**: Resistenza mentale, l'abilità di resistere alle tentazioni e di sopportare i traumi. I talenti di Volontà ti permettono di ignorare le conseguenze mentali, sopportare l'agonia mentale di poteri sconosciuti e rimanere fermo contro nemici che ti provocano. In aggiunta, un valore alto in Volontà ti fornisce ulteriori slot di stress e conseguenze mentali.
 
-#### Alternative Skill Lists
-When building your own implementation of Fate, the first thing to think about is whether or not you’ll keep the same skill list. Often you can work with the one given, combining, changing, or splitting apart a few of the skills given. But it’s possible that the granularity of the default example skill list we’ve given above isn’t to your liking. Here are some things to think about.
+#### Elenchi di abilità alternativi
 
-The default skill list has 19 skills in it, and players rate their characters above the Mediocre (+0) default in 10 of them. If you change the number of skills, you may want to change how the ratings are allocated.
-Our default skills are focused on answering the question “what can you do?”—but your list doesn’t need to follow in line with that. You might want a list focused on “What do you believe?”, the question “How do you do things?” (as with approaches in Fate Accelerated), job-roles in a crew of grifters and thieves, and so on.
-Skill ratings in Fate are structured to support character niches. That’s why, in the default, players start with a “pyramid” shape. Make sure niche protection is possible in whatever new list you create.
-The best starting skill should come in around Great (+4). You can alter this up or down as you see fit, but make sure to keep an eye on what that means for the difficulty and opposing skill ratings your PCs will face.
-Fred decides he wants to do a space-faring Fate game with a shorter skill list that’s focused on action-words. He settles on this 9-item skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and Will. He also likes the idea of a “diamond” shape for skill ratings rather than a pyramid, so he has players rate their starting skills as follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average (+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and core competencies due to the fat middle of his diamond, while still enjoying some niche protections at the top of the diamond’s “point.”
+Quando progettate la vostra implementazione di _Fate_, la prima cosa a cui pensare è se mantenere l'elenco delle abilità così com'è. Spesso potete lavorare su quella fornita, combinando, cambiando o separando alcune delle abilità presenti. Però è possibile che la granularità dell'elenco di esempio che abbiamo fornito non è di vostro gradimento. Ecco alcune cose su cui ragionare.
 
-If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see page XX.
+L'elenco di base contiene 19 abilità, e i giocatori valorizzano i propri personaggi oltre il valore di Mediocre (+0) in 10 di esse. Se volete modificare il numero di abilità, potreste voler modificare come i vaslori vengono allocati.
+
+Le nostre abilità di base si concentrano nel rispondere alla domanda "cosa puoi fare?", ma il vostro elenco potrebbe non deve per forza seguire questa linea. Potreste volere un elenco che si concentra su "In cosa credi?", o sulla domanda "Come fasi le cose?" (come gli approcci in _Fate Accelerato_), o sui ruoli professionali in una squadra di ladri e truffatori, e così via.
+
+I valori delle abilità in _Fate_ sono strutturati per supportare gli specifici ambiti dei personaggi. È per questo che, di base, i giocatori cominciano con una forma a "piramide". Assicuratevi che la protezione degli ambiti specifici sia possibile in qualsiasi nuovo elenco creiate.
+
+Il valore dell'abilità inizialmente pià alta covrebbe rimanere intorno a Ottimo (+4). Potete variarlo in alto o in basso, ma asscuratevi di tenere in considerazione ciò che significa rispetto alle difficoltà e delle abilità oppositive che i vostri PG affronteranno.
+
+Frederico decide che vuole una partita di _Fate_ ambientata nello spazio con un elenco di abilità più corto, che si concentri su parole d'azione. Si ritrova con questo elenco di nove voci: Combattere, Conoscere, Percepire, Pilotare, Eludere, Parlare, Trafficare. Inoltre, gli piace l'idea di una forma "a diamante" per i valori delle abilità piuttosto che una piramide, quindi i giocatori valorizzeranno le proprie abilità come segue: 1 a Ottimo (+4), 2 a Buono (+3), 3 a Discreto (+2), 2 a Medio (+1), e 1 a Mediocre (+0). I suoi PG avranno molta sovrapposizione di ambiti d'azione e competenze di base a causa dell'ampio centro di questo diamante, mentre possono comunque godersi un po' di protezione degli ambiti specifici in cima alla "punta" del diamante.
+
+Se state prendendo in considerazione di definirvi l'elenco delle abilità per la vostra partita e cercate idee, potete trovarne qualcuno qui.
 
 ### Refresh
 Your refresh is the minimum number of fate points (page XX) your character begins with at the start of each session. Your character begins with a refresh of 3.
