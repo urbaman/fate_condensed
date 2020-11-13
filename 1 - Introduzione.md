@@ -8,7 +8,7 @@ A proposito, ecco ciò di cui *avete* bisogno per giocare:
 
 Per giocare a ***Fate Condensato***, avrai bisogno di qualche amico, da 2 a 6, e uno di voi prenderà le parti del Game Master (GM), di qualche dado, qualche segnalino, strumenti per scrivere, carta, e qualcosa su cui scrivere piccole annotazioni (per esempio, post-it).
 
-Quando i personaggi eseguono delle azioni, ***Fate Condensato*** impiega i **Dadi Fate**<sup>(TM)</suop>. I Dadi Fate sono dadi a sei facce con due 0 facce, due + facce e due - facce. Un set di quattro dadi può bastare, ma l'ideale sarebbe un set per giocatore. Esistono delle alternative, come l'utilizzo di normali dadi a sei facce (1-2 = -, 3-4 = 0, 5-6 = +), oppure il **Deck of Fate**, che utilizza delle carte al posto dei dadi. Utilizzeremo il verbo "tirare" lungo tutto il manuale, per semplicità.
+Quando i personaggi eseguono delle azioni, ***Fate Condensato*** impiega i **Dadi Fate**(TM). I Dadi Fate sono dadi a sei facce con due 0 facce, due + facce e due - facce. Un set di quattro dadi può bastare, ma l'ideale sarebbe un set per giocatore. Esistono delle alternative, come l'utilizzo di normali dadi a sei facce (1-2 = -, 3-4 = 0, 5-6 = +), oppure il **Deck of Fate**, che utilizza delle carte al posto dei dadi. Utilizzeremo il verbo "tirare" lungo tutto il manuale, per semplicità.
 
 ### Per i veterani
 
