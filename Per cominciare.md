@@ -50,7 +50,7 @@ Puoi creare gli ultimi due aspetti del tuo personaggio come vuoi, non ci sono re
 ### Abilità
 Mentre gli aspetti definiscono chi è il tuo personaggio, le **abilità** mostrano cosa possono fare. Ogni abilità descrive un'ampia attività che il personaggio può aver imparato tramite gli studi o la pratica o nella quale ha semplicemente un talento innato. Un personaggio con Furtività è competente, a un certo livello, in tutti i tipi di crimine correlati alla fine arte del furto: studiare un piano, superare la sicurezza, borseggiare e scassinare.
 
-Ogni abilità ha un valore. Più altro il valore, più competente il personaggio in tale abilità. Nella loro interezza, le abilità del personaggio mostreranno per quali azioni cono stati costruiti, quali azioni se la cavano e quali non sono il loro forte.
+Ogni abilità ha un **valore**. Più altro il valore, più competente il personaggio in tale abilità. Nella loro interezza, le abilità del personaggio mostreranno per quali azioni cono stati costruiti, quali azioni se la cavano e quali non sono il loro forte.
 
 Sceglierai i valori delle abilità del tuo personaggio, organizzate in ua piramide con l'abilità più alta in valore a Ottimo (+4), come segue:
 
@@ -156,53 +156,59 @@ Frederico decide che vuole una partita di _Fate_ ambientata nello spazio con un 
 
 Se state prendendo in considerazione di definirvi l'elenco delle abilità per la vostra partita e cercate idee, potete trovarne qualcuno qui.
 
-### Refresh
-Your refresh is the minimum number of fate points (page XX) your character begins with at the start of each session. Your character begins with a refresh of 3.
+### Recupero
+Il vostro **recupero** è il minimo numero di **punti fato** coi quali il vostro personaggio comincia all'inizio di ogni sessioone. Il vostro personaggio comincia con un recupero pari a 3.
 
-Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
+In ogni sessione, Each session, inizi con un numero di punti fato almeno uguale al tuo recupero. Assicurati di tenere traccia dei punti fato che ti sono rimasti al termine della sessione: se hai più punti fato rispetto al tuo recupero, inizierai la sessione seguente con i punti fato con cui hai terminato questa sessione.
 
-Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
+Carlo ha guadagnato molti punti fato durante la sessione di oggi, terminando con 5 punti fato. Il sduo recupero è 2, quindi Carlo comincerà la prossima sessione con 5 punti fato. Purtroppo Etan termina la stessa sessione con solo un punto fato. Il suo recupero è 3, per questo comincerà la prossima sessione con 3 punti fato, non solo con quello rimastogli.
 
-### Stunts
-While every character has access to all the skills—even if they are Mediocre (+0) at most of them—your character has some unique stunts. Stunts are the cool techniques, tricks, or bits of equipment that make your character unique and interesting. Where skills are about a character’s broad competencies, stunts are about specific areas of excellence; most of them give you a bonus in particular circumstances or let you do something that other characters simply can’t.
+### Talenti
 
-Your character begins with three free stunt slots. You don’t have to define them all right away, and may fill them in as you play. You may purchase more stunts by spending 1 refresh each, to a minimum of 1 refresh.
+Sebbene ogni personaggio abbia accesso a tutte le abilità, anche se hanno valore Mediocre(+0) nella maggiorparte di esse, il tuo personaggio ha qualche **talento** uinico. I talenti sono tecniche, trucchi o pezzi di equipaggiamento straordinari che rendono il tuo personaggio unico e interessante. Mentre le abilità sono le competenze generiche del personaggio, i talenti sono aree specifiche di eccellenza; la maggior parte di essi fonriscono al personaggio un bonus in una particolare circostanza o gli permettono di fare qualcosa che altri personaggi semplicemente non possono fare.
 
-#### Writing Stunts
-You write your own stunts when building a character. Broadly, there are two types of stunts.
+Il tuo personaggio inizia il gioco con tre talenti gratuiti. Non devi definirli tutti subito, e puoi riempirli mentre giochi. Puoi acquisire più talenti spendendo 1 punto di recupero, fino a un minimo di 1 in recupero.
 
-Bonus-granting stunts: The first type of stunt gives you a +2 bonus when you use a named skill within certain parameters, usually limited to a specific type of action (page XX) and type of narrative circumstance.
+#### Scrivere i talenti
 
-Write this type of stunt as follows:
+Scrivi i tuoi stessi talenti quando crei il tuo personaggio. In generale ci sono due tipi di talenti.
 
-Because I [describe how you are amazing or have a cool bit of gear], I get a +2 when I use [pick a skill] to [pick one: overcome, create an advantage, attack, defend] when [describe a circumstance].
+**Talenti che forniscono un bonus**: Il primo tipo di talent **ti fornisce un bonus di +2** quando utilizzi una precisa abilità entro certi parametri, limitandosi normalmente a un'unica azione e tipo di circostanza narrativa.
 
-Example Bonus-Granting Stunt: Because I am a military-trained sniper, I get a +2 when I use Shoot to attack when I have a target In My Sights.
+Scrivi questo tipo di talento come seguue:
 
-Rule-changing stunts: The second type of stunt changes the rules of the game. This is a broad category that includes, but is not limited to, the following:
+Poiché io **[descrivi in che modo sei straordinario o hai un particolare pezzo di equipaggiamento]**, ottengo +2 quando utilizzo **[scegli un'abilità]** per **[scegli uno: supero un ostacolo, creo un vantaggio, attacco, difendo]** quando **[descrivi una circostanza]**.
 
-Swapping which skills are used in a given situation. For instance, a researcher might use Academics to perform a ritual, while anyone else would use Lore.
-Using an action with a skill that isn’t normally used with it. For instance, allowing a character to use Stealth to backstab an opponent from the shadows (which would typically be a use of Fight).
-Giving a character a different kind of bonus to skills that’s roughly equivalent to a +2. For instance, when a skilled orator creates an advantage with Rapport, it gets an extra free invoke.
-Allowing a character to declare a minor fact is always true. For instance, a survivalist always has survival items like matches on their person, even under unlikely circumstances. This type of stunt establishes that you do not need to invoke for story details (page XX) for the given fact.
-Allowing a character to make a specific rules exception. For instance, a character might have two more stress boxes or another mild consequence slot.
-Write this type of stunt as follows:
+**Esempio di talento che fornisce un bonus:** Poiché sono un cecchino con addestramento militare, ottengo +2 quando utilizzo Sparare per attaccare quando ho un bersaglio ***Nel Mirino***.
 
-Because I [describe how you are amazing or have a cool bit of gear], I can [describe your amazing feat], but only [describe a circumstance or limitation].
+**Talenti che cambiano le regole**: Il secondo tipo di talento cambia le regole del gioco. Si tratta di una categoria ampia che include, ma non è limitata a, le possibilità seguenti:
 
-Example Rule-Changing Stunt: Because I don’t believe in magic, I can ignore the effects of a supernatural ability, but only once per game session.
+* **Cambiare l'abilità utilizzata in una situazione particolare**. Per esempio, un ricercatore potrebbe utilizzare Accademiche per eseguire un rituale, mentre chiunque altro utilizzerebbe Folclore.
+* **Utilizzare un'azione con un'abilità che normalmente non viene utilizzain questo modo**. Per esempio, permettere a un personaggio di utilizzare Discezione per colpire alle spalle un avversario uscendo dalle ombre (normalmente si utilizzerebbe Combattere).
+* **Fornire a un personaggio un bonus alle abilità grosso modo equivalente a +2**. Per esempio, quando un abile oratore crea un vantaggio con Influenzare, ottiene un'invocazione gratuita aggiuntiva.
+* **Permettere a un personaggio di dichiarare che un fatto minore è sempre vero**. Per esempio, un esperto di sopravvivenza ha sempre strumenti di sopravvivenza come i cerini sulla sua persona, anche in circostanze poco probabili- Questo tipo di talento stabilisce che non devi invocare aspetti per dettagli di storia per il fatto specifico.
+* **Permettere a un personaggio di aggirare le regole in un modo specifico**. Per esempio, un personaggio potrebbe avere due caselle ulteriori di stress o un'altro spazio di conseguenza moderata.
 
-### Stress and Consequences
-Stress and consequences are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
+Scrivi questo tipo di talenti come segue:
 
-Your rating in Physique affects how many total physical stress boxes you have. Will does the same for your mental stress. Refer to the following table:
+Poiché io **[descrivi in che modo sei straordinario o hai un particolare pezzo di equipaggiamento]**, posso **[descrivi la tua capacità straordinaria]**, ma solo **[descrivi una circostanza o una limitazione]**.
 
-Physique/Will	Physical/Mental Stress
-Mediocre (+0)	[1][1][1]
-Average (+1) or Fair (+2)	[1][1][1] [1]
-Good (+3) or Great (+4)	[1][1][1] [1][1][1]
-Superb (+5) and higher	[1][1][1] [1][1][1] and a second mild consequence slot specifically for physical or mental hits
-You’ll learn how stress and consequences work during play in “Taking Harm” (page XX).
+**Esempio di talento che cambia le regole:** Poiché io non credo nella magia, posso ignorare gli effetti di un'abilità sovrannaturale, ma solo una volta per sessione di gioco.
+
+### Stress e Conseguenze
+
+Lo stress e le conseguenze rappresentano come il tuo personaggio sopporta i prezzo mentale e fisico delle proprie avventure. I personaggi hanno almeno tre caselle da un punto per lo stress fisico e almeno tre caselle da un punto per lo stress mentale. Inoltre, ottengono uno spazio ognuna per le conseguenze lievi, moderate e gravi.
+
+Il tuo valore in Fisico influisce sul tuo numero di caselle di stress. Volontà fa lo stesso per lo stress mentale. Riferitevi alla tabella seguente:
+
+|Fisico/Volontà|Stress Fisico/Mentale|
+|--------------|:--------------------|
+|Mediocre (+0)|[1][1][1]|
+|Medio (+1) o Discreto (+2)|[1][1][1] [1]|
+|Buono (+3) o Ottimo (+4)|[1][1][1] [1][1][1]|
+|Eccellente (+5) e oltre|[1][1][1] [1][1][1] e una seconda conseguenza lieve specifica per colpi fisici o mentali|
+
+Imparerai come funzionano lo stress e le conseguenze in gioco nel capitolo “Ricevere danni”.
 
 Hang on, that’s not what I remember!
 In Fate Condensed, we’re using only one-point stress boxes. Fate Core System and Fate Accelerated both use a series of escalating-value boxes (one 1-point box, one 2-point box, etc). You can use that style of stress box if you like; for this version we decided to stick with one-point boxes because it’s simple—with the other method, folks can get confused just a little more easily.
