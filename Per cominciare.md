@@ -203,12 +203,12 @@ Il tuo valore in Fisico influisce sul tuo numero di caselle di stress. Volontà 
 
 |Fisico/Volontà|Stress Fisico/Mentale|
 |--------------|:--------------------|
-|Mediocre (+0)|[1][1][1]|
-|Medio (+1) o Discreto (+2)|[1][1][1] [1]|
-|Buono (+3) o Ottimo (+4)|[1][1][1] [1][1][1]|
-|Eccellente (+5) e oltre|[1][1][1] [1][1][1] e una seconda conseguenza lieve specifica per colpi fisici o mentali|
+|Mediocre (+0)|**[1][1][1]**|
+|Medio (+1) o Discreto (+2)|**[1][1][1] [1]**|
+|Buono (+3) o Ottimo (+4)|**[1][1][1] [1][1][1]**|
+|Eccellente (+5) e oltre|**[1][1][1] [1][1][1]** e una seconda conseguenza lieve specifica per colpi fisici o mentali|
 
-Imparerai come funzionano lo stress e le conseguenze in gioco nel capitolo “Ricevere danni”.
+Imparerai come funzionano lo stress e le conseguenze in gioco nel capitolo _“Ricevere danni”_.
 
 #### Aspetta, non è come lo ricordo!
 
@@ -220,7 +220,7 @@ Come vedrete, con le caselle da 1 punto puoi segnarne quante ne vuoi quando vien
 
 Questo stile procede con la concezione di indicatori di stress Fisico e Mentale separati, invece che utilizzare un solo indicatore come in _Fate Accelerato_. Se siete inclini a un indicatore unificato, aggiungete altre tre caselle per bilanciarlo, e utilizzate il valore più altro tra Fisico e Volontà per allungarlo come indicato.
 
-Tre punti di assorbimento dello stress per indicatore non è molto! Se i personaggi finiscono per sentirsi un po' fragili durante il gioco, potete voler aggiungere una o due caselle alla quantità di based. Si tratta di quanto velocemente si attivanole conseguenze (col metodo più vecchio, un indicatore di stress come [1][2] assorbe da due a tre punti di stress, uno come [1][2][3] assorbe da 3 a 6, uno come [1][2][3][4] assorbe da 4 a 10).
+Tre punti di assorbimento dello stress per indicatore non è molto! Se i personaggi finiscono per sentirsi un po' fragili durante il gioco, potete voler aggiungere una o due caselle alla quantità di based. Si tratta di quanto velocemente si attivanole conseguenze (col metodo più vecchio, un indicatore di stress come **[1][2]** assorbe da due a tre punti di stress, uno come **[1][2][3]** assorbe da 3 a 6, uno come **[1][2][3][4]** assorbe da 4 a 10).
 
 ### Tocchi finali
 Fornisci al tuo personaggio un nome e una descrizione, e discuti la sua storia con il resto dei giocatori. Se noin hai ancora scritto l'aspetto di relazione, fallo ora.
