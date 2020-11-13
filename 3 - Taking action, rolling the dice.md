@@ -1,34 +1,39 @@
-Taking Action, Rolling the Dice
-In a game of Fate Condensed, you will control the actions of the character you created, contributing to the story you are all telling together. In general, the GM will narrate the world and the actions of non-player characters (NPCs), and the other players will narrate their individual PCs’ actions.
+# Eseguire azioni, tirare i dadi
 
-To act, follow the principle of fiction first: say what your character is trying to do, then figure out how you’ll do that in the system. Your character’s aspects inform what they can attempt and help set the context for interpreting the results. Most people couldn’t even try to perform emergency surgery on a disemboweled ally, but with an aspect establishing a medical background, you can try. Without that aspect you might at best buy a few moments for some last words. When in doubt, check with your GM and the table.
+In una partita di _Fate Condensato_, controllerai le azioni del personaggio che hai creato, contribuendo alla storia che state raccontando insieme. In generale, il GM descriverà il mondo e racconterà le azioni dei personaggi non giocanti (PNG), e gli altri giocatori racconteranno le azioni dei propri G individuali.
 
-How do you know if you’re successful? Often, your character will simply succeed, because the action isn’t hard and nobody’s trying to stop you. But in difficult or unpredictable situations, you’ll break out the dice to find out what happens.
+Per agire, segui il principio di _fiction first_: racconta quello che il tuo personaggio sta provando a fare, quindi decidi come farlo nel sistema. Gli aspetti del tuo personaggio informano su ciò che possono tentare e aiutano a definire il contesto per interpretare i risultati- La maggior parte delle persone non potrebbero nemmeno tentare di eseguire interventi di chirurgia d'urgenza su un compagno sventrato, ma con un aspetto che stabilisce un contesto di medico, puoi tentare. Senza quell'aspetto potresti al massimo otteenre qualche momento per qualche ultima parola. Quando hai dei dubbi, confrontati col GM e col resto del tavolo.
 
-When a character wants to take an action, the group should think about these questions:
+Come sai se hai successo? Spesso, il tuo personaggio riuscirà semplicemente, perché l'azione non è difficile e nessuno sta provando a fermarti. Ma in situazioni difficili e imprevedibili, tirerai fuori i dadi per scoprire cosa succede.
 
-What’s stopping this from happening?
-What could go wrong?
-How is it interesting when it does go wrong?
-If no one has good answers to all of these questions, it simply happens. Driving to the airport doesn’t require a roll of the dice. Racing down the highway to a waiting plane while being pursued by cybernetically enhanced beasts from another world, on the other hand, is a perfect time to roll the dice.
+Quando un personaggio vuole eseguire un'azione, il gruppo dovrebbe porsi queste domande e rifletterci:
 
-Whenever you take action, follow these steps:
+* Cosa sta impedendo che succeda?
+* Cosa potrebbe andare male?
+* Come può essere interessante se andasse male?
 
-Fiction first: Describe what you’re trying to do, then choose the skill and action that fits.
-Roll four dice.
-Add up the symbols on the dice: a [+] is +1, [-] is -1, and [0] is 0. This will give you a dice result of -4 to 4.
-Add the dice result to your skill rating.
-Modify the dice by invoking aspects (page XX) and using stunts (page XX).
-Declare your total result, called your effort.
-Difficulty and Opposition
-If the character’s action faces a fixed obstacle or otherwise tries to alter the world rather than a character or creature, their action faces a static difficulty rating. These actions include picking locks, barring doors, and tactically assessing an enemy camp. The GM may decide that the presence of certain aspects (on the character, the scene, or something else) justifies changing the difficulty.
+Se nessuno ha delle buone risposte a tutte le domande, semplicemente accade. Guidare verso l'aereoporto non richiede un tiro di dadi. Correre sull'auostrada verso un aereo in attesa mentre si è inseguiti sa bestie migliorate ciberneticamente provenienti da un altro mondo, d'altra parte, è un momento perfetto per tirare i dadi.
 
-At other times, an enemy will provide opposition against the character’s action by using a defend action (page XX). In these cases, the GM will also roll the dice and follow the same rules as in the previous section, using any skills, stunts, or aspects the enemy has. Any time you roll to attack an enemy or to create an advantage directly against them, the enemy will roll to defend against it.
+Tutte le volte che tirate i dadi, seguite queste fasi:
 
-Opposition can take many forms. Struggling with a cultist over the ritual dagger has a clear opponent. Or you might be opposed by the power of an ancient ritual that must be overcome to save the world. Cracking the safe in the First Metropolitan Bank to access the safe deposit boxes is a challenge with risk of discovery, but it’s up to the GM if you’re rolling against opposition from the patrolling guards or the difficulty presented by the safe itself.
+* Fiction first: descrivi ciò che stai tentando di fare, quindi scegli l'abilità e l'azione adatte.
+* Tira i dadi.
+* Somma i simboli sui dadi: un [+] significa +1, [-] significa -1 e [0] significa 0. Questo ti fornirà un nrisultato dei dadi tra -4 e 4.
+* Somma il risultato dei dadi al valore della tua abilità.
+* Modifica il totale invocando aspetti e utilizzando talenti.
+* Dichiara il tuo risultato totale, chiamato il tuo **sforzo**.
 
-Modifying the Dice
-You may modify your dice by invoking aspects to get +2 to your roll or reroll the dice. Some stunts also give you a bonus. You may also invoke aspects to support an ally (page XX) or to increase the difficulty an enemy faces.
+## Difficoltà e opposizione
+
+Se l'azione del personaggio affronta un ostacolo fisso oppure tenta di modificare il mondo piuttosto che un personaggio o una creatura, la sua azione affronta un valore di **difficoltà** statico. Queste azioni includono scassinare, sbarrare porte e valutare tatticamente il campo nemico. Il GM può decidere che la presenza di certi aspetti (sul personaggio, sulla scena o altro) possa alterare la difficoltà.
+
+Altre volte, un avversario fornirà **opposizione** contro l'azione del personaggio utilizzando un'azione di difendere. In questi casi, anche il GM tirerà i dadi e seguirà le stesse regole della sezione precedente, utilizzando qualsiasi abilità, talenti o aspetti abbia l'avversario. Ogni volta che tiri per attaccare un avversario o per creare un vantaggio direttamente contro di lui, l'avversario tirerà per difendersi.
+
+L'opposizione può assumere qualsiasi forma. Lottare con un cultista sul pugnale rituale ha un'opposizione chiara. Oppure, potresti trovarti contrapposto al potere di un antico rituale che deve essere sconfitto per salvare il mondo.  Scassinare la cassaforte nella First Metropolitan Bank per accedere alle cassette di sicurezza è un'operazione col rischio di essere scoperti, ma è il GM a decidere se stai tirando contro l'opposizione rappresentata dalle guardie di pattuglia o contro la difficoltà rappresentata dalla cassaforte stessa.
+
+## Modificare i dadi
+
+Puoi modificare il risultato dei dadi invocando aspetti per ottenere +2 al tiro o per ritirare i dadi. Alcuni talenti forniscono inoltre un bonus. Puoi anche invocare aspetti per supportare un alleato o per aumentare la difficoltà affrontata da un avversario.
 
 Invoking Aspects
 When you take action but the dice come up short, you don’t have to sit back and accept failure. (Though you totally can. That’s fun too.) The aspects in play give you options and opportunity to succeed.
