@@ -111,9 +111,9 @@ Si seguito trovate le descrizioni delle abilità.
 
 **Artigianato**: L'abilità di creare o disfare macchinari, costruire marchingegni e realizzare imprese d'ingegno alla McGyver. I talenti di Artigianato ti permettono di avere a mano aggeggi, forniscono bonus nel costruire o disfare cose e offrono la giustificazione per utilizzare Artigianato al posto di abilità come Furtività o Accademiche in determinate situazioni.
 
-**Deceive**: Ability to lie and cheat convincingly and with aplomb. Deceive stunts might improve your ability to tell a particular breed of lie or help invent false identities.
+**Raggirare**: L'abilità di mentire e imbrogliare in modo convincente e con disinvoltura. I talenti di Raggirare possono migliorare la tua abilità di raccontare un certo tipo di bugie o aiutarti a inventare false identità.
 
-**Drive**: Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
+**Guidare**: Controllare veicoli nelle situazioni più ardue, eseguire manovre scellerate e semplicemente tirar fuori il meglio dalla tua corsa. Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
 
 **Empathy**: Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
 
