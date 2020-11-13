@@ -63,20 +63,21 @@ Sceglierai i valori delle abilità del tuo personaggio, organizzate in ua pirami
 #### La scala di aggettivi
 In _Fate Condensato_, e in _Fate_ in generale, tutti i valori sono organizzati in una scala di aggettivi, che mostriamo qui.
 
-
-+8	Leggendario
-+7	Epico
-+6	Fantastico
-+5	Eccellente
-+4	Ottimo
-+3	Buono
-+2	Discreto
-+1	Medio
-+0	Mediocre
--1	Scarso
--2	Pessimo
--3	Catastrofico
--4	Terribile
+|Valore|Aggettivo|
+|------|:-------:|
+|+8|Leggendario|
+|+7|Epico|
+|+6|Fantastico|
+|+5|Eccellente|
+|+4|Ottimo|
+|+3|Buono|
+|+2|Discreto|
+|+1|Medio|
+|+0|Mediocre|
+|-1|Scarso|
+|-2|Pessimo|
+|-3|Catastrofico|
+|-4|Terribile|
 
 #### Elenco delle abilità
 Si seguito trovate le descrizioni delle abilità.
@@ -103,41 +104,41 @@ Si seguito trovate le descrizioni delle abilità.
 
 **Accademiche**: Educazione e conoscenze umane mondane di tutti i giorni, comprese storia, scienze e medicina. i talenti di Accademiche spesso si riferiscono ad aree specializzate di conoscenze e abilità mediche.
 
+**Artigianato**: L'abilità di creare o disfare macchinari, costruire marchingegni e realizzare imprese d'ingegno alla McGyver. I talenti di Artigianato ti permettono di avere a mano aggeggi, forniscono bonus nel costruire o disfare cose e offrono la giustificazione per utilizzare Artigianato al posto di abilità come Furtività o Accademiche in determinate situazioni.
+
 **Atletica**: Una misura di potenziaale fisico. I talenti di Atletica si concentrano sul movimento: correre, saltare, parkour, e sull'evitare gli attacchi.
 
-**Furtività**: Conoscenza e abilità di superare i sistemi di sicurezza, scassinare e in generale commettere crimini. I telenti di Furtività forniscono bonus alle varie fasi dell'eseguire un crimine, dalla pianificazione all'esecuzione e alla fuga.
+**Combattimento**: L'abilità di eccellere nel combattimento corpo a corpo, con o senza armi. I talenti di Combattimento comprendono armi specifiche e tecniche speciali.
 
 **Contatti**: Conoscenza delle persone e dei collegamenti giusti che possono aiutarti. I talenti di Contatti ti forniscono alleati e una rete informativa dovunque tu vada nel mondo.
 
-**Artigianato**: L'abilità di creare o disfare macchinari, costruire marchingegni e realizzare imprese d'ingegno alla McGyver. I talenti di Artigianato ti permettono di avere a mano aggeggi, forniscono bonus nel costruire o disfare cose e offrono la giustificazione per utilizzare Artigianato al posto di abilità come Furtività o Accademiche in determinate situazioni.
+**Discrezione**: Riuscire a non farsi vedere o udire e fuggire quando hai bisogno di nasconderti. I talenti di Discrezione ti permettono di svanire in piena vista, mescolarti alla folla o procedere nelle ombre non visto.
 
-**Raggirare**: L'abilità di mentire e imbrogliare in modo convincente e con disinvoltura. I talenti di Raggirare possono migliorare la tua abilità di raccontare un certo tipo di bugie o aiutarti a inventare false identità.
+**Empatia**: L'abilità di giudicare accuratamente le intenzioni e l'umore di qualcuno. I talenti di Empatia possono riguardare il giudicare una folla, riconoscere le bugie, o aiutare gli altri a riprendersi da conseguenze mentali.
+
+**Fisico**: Forza bruta e robustezza. I talenti di Fisico ti permettono di eseguire imprese sovrumane di forza, utilizzare il tuo peso mentre lotti e scrollarti di dosso le conseguenze fisiche. In aggiunta, un valore alto in Fisico di fornisce ulteriori spazi di stress e conseguenze fisiche.
+
+**Folclore**: Conoscenze specializzate e arcane che ricadono fuori dall'ambito di Accademiche, compresi argomenti sovrannaturali di qualsiasi tipo. È qui che succede la roba strana. I talenti di Folclore supportano le applicazioni pratiche delle tue conoscenze arcane, come lanciare incantesimi. Alcune ambientazioni possono rimuovere Folclore, rimpiazzarla con un'altra abilità o associarla ad Accademie.
+
+**Furtività**: Conoscenza e abilità di superare i sistemi di sicurezza, scassinare e in generale commettere crimini. I telenti di Furtività forniscono bonus alle varie fasi dell'eseguire un crimine, dalla pianificazione all'esecuzione e alla fuga.
 
 **Guidare**: Controllare veicoli nelle situazioni più ardue, eseguire manovre scellerate e semplicemente tirar fuori il meglio dalla tua corsa. Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
 
-**Empathy**: Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
+**Influenzare**: Costruire connessioni con gli altri e lavorare insieme. Dove Provocare è manipolativo, Influenzare è sincerità, fiducia e buona volontà. I talenti di Influenzare ti permettono di convincere le folle, migliorare le relazioni o costruire contatti.
 
-**Fight**: Ability to excel at hand-to-hand combat, whether with weapons or fists. Fight stunts include signature weapons and special techniques.
+**Investigare**: Il deliberato studiare e risolvere misteri. Usala per mettere insieme gli indizi o ricostruire una scena del crimine. I talenti di Investigare ti aiutano a formarti brillanti deduzioni o mettere insieme le informazioni più velocemente.
 
-**Investigate**: Deliberate, careful study and puzzling out mysteries. Use this to piece together clues or reconstruct a crime scene. Investigate stunts help you form brilliant deductions or piece together information more quickly.
+**Percezione**: L'abilità di percepire dettagli al momento, avvistare pericoli prima che accadano e in generale essere percettivi. È in contrasto con Investigare, che riguarda l'osservazione lenta e deliberata. I talenti di Percezione affilano i tuoi sensi, migliorano il tuo tempo di reazione o rendono più difficile prenderti di sorpresa.
 
-**Lore**: Specialized, arcane knowledge that falls outside of the scope of Academics, including supernatural topics of one sort or another. This is where the weird stuff happens. Lore stunts often support practical applications of your arcane knowledge, such as casting spells. Some settings may remove Lore, replace it with a different skill, or combine it with Academics.
+**Provocare**: L'abilità di spingere le persone ad agire come vuoi. È volgare e manipolativo, non si tratta di un'interazione positiva. I talenti di Provocare ti permettono di spingere gli avversari ad agire in modo sconsiderato, attirare l'aggressività verso di te o impaurire gli avversari (posto che possano percepire la paura).
 
-**Notice**: Ability to pick up details in the moment, spot trouble before it happens, and generally be perceptive. It contrasts Investigate, which is for slow, deliberate observation. Notice stunts sharpen your senses, improve your reaction time, or make you harder to sneak up on.
+**Raggirare**: L'abilità di mentire e imbrogliare in modo convincente e con disinvoltura. I talenti di Raggirare possono migliorare la tua abilità di raccontare un certo tipo di bugie o aiutarti a inventare false identità.
 
-**Physique**: Raw power and durability. Physique stunts let you perform superhuman feats of strength, throw your weight around while wrestling, and shrug off physical consequences. In addition, a high Physique rating gives you more physical stress or consequence slots (page XX).
+**Risorse**: L'accesso a cose materiali, non solo denaro o proprietà diretta. Potrebbe rappresentare la tua abilità di ricevere prestiti da amici o attingere dall'armeria di un'organizzazione. I talenti di Risorse ti permettono di usarla al posto di Influenzare o Contatti o ti forniscono invocazioni gratuite aggiuntive quando paghi per avere il meglio.
 
-**Provoke**: Ability to push people to act the way you want them to. It’s coarse and manipulative, not a positive interaction. Provoke stunts let you push opponents into foolhardy action, draw aggression toward you, or scare enemies (assuming they can feel fear).
+**Sparare**: Tutte le forme di combattimento a distanza, che si utilizzino pistole, coltelli da lancio o archi e freccie. I talenti di Sparare ti permettono di eseguire colpi mirati, di estrarre velocemente o di avere sempre una pistola a disposizione.
 
-**apport**: Building connections with others and working together. Where Provoke is manipulation, Rapport is sincerity, trust, and goodwill. Rapport stunts let you sway the crowd, improve relationships, or build contacts.
-
-**Resources**: Access to material things, not just money or direct ownership. It might reflect your ability to borrow from friends or dip into an organization’s armory. Resources stunts let you use Resources in place of Rapport or Contacts or give you extra free invokes when you pay for the best.
-
-**Shoot**: All forms of ranged combat, whether guns, throwing knives, or bow and arrow. Shoot stunts let you make called shots, quick-draw, or always have a gun handy.
-
-**Stealth**: Staying unseen or unheard and escaping when you need to hide. Stealth stunts let you vanish in plain sight, blend into crowds, or advance through shadows unseen.
-
-**Will**: Mental fortitude, the ability to overcome temptation and to withstand trauma. Will stunts let you ignore mental consequences, withstand the mental agony of strange powers, and hold steady against enemies who provoke you. In addition, a high Will rating gives you more mental stress or consequence slots (page XX).
+**Volontà**: Resistenza mentale, l'abilità di resistere alle tentazioni e di sopportare i traumi. I talenti di Volontà ti permettono di ignorare le conseguenze mentali, sopportare l'agonia mentale di poteri sconosciuti e rimanere fermo contro nemici che ti provocano. In aggiunta, un valore alto in Volontà ti fornisce ulteriori slot di stress e conseguenze mentali.
 
 #### Alternative Skill Lists
 When building your own implementation of Fate, the first thing to think about is whether or not you’ll keep the same skill list. Often you can work with the one given, combining, changing, or splitting apart a few of the skills given. But it’s possible that the granularity of the default example skill list we’ve given above isn’t to your liking. Here are some things to think about.
