@@ -5,8 +5,8 @@ Qualsiasi partita di _Fate_ comincia con la definizione dell'ambientazione. Potr
 
 La vostra scelta dell'ambientazione forma le basi per il consenso al tavolo su ciò che è vero e su ciò che è accetabile in gioco e nei concetti dei personaggi. Se la vostra ambientazione non prevede persone volanti, allora un giocatore che sceglie di creare un personaggio con capacità di volo non verrebbe approvato. Se il vostro mondo prevede organizzazioni ombra e cospirazioni profonde, i giocatori possono aspettarsi trame scevre di conflitti ben chiari tra bene e male e prive di farseschi assassini-pagliacci. Dipende da voi!
 
-## Create Your Characters
-### Who Are You?
+## Creare i vostri personaggi
+### Chi sei?
 
 Una volta decisa l'ambientazione, è tempo che i giocatori creino i personaggi, noti anche come PG. Ogni giocatore veste i panni di uno degli eroi della vostra storia, controllandone ogni azione. Dovete creare i personaggi che volete vedere nel mondo. Tenete a mente che i personaggi in _Fate_ sono competenti, drammatici e volenterosi di affrontare le avventure che li aspettano.
 
@@ -37,7 +37,7 @@ Il tuo **concetto base** è un'ampia descrizione del personaggio, riguardante le
 #### Problema
 Poi viene il **problema** del personaggio: qualcosa che rende la vita del tuo personaggio più complicata. Potrebbe riguardare una debolezza personale, coinvolgimenti famigliari o altri tipi di obblighi. Scegli qualcosa che ti interessa mettere in scena!
 
-#### Relationship
+#### Relazione
 La tua relazione descrive una connessione con un altro PG. Possono già conoscersi, o essersi appena incontrati.
 
 Dei buoni aspetti di relazione dovrebbero introdurre o contenere indizi di un conflitto, o almeno uno squilibrio che dia un po' di slancio alla relazione. Questo non significa rendere i due personaggi apertamente antagonisti, ma non dovrebbero essere nemmeno tutte rose e fiori.
@@ -54,89 +54,92 @@ Ogni abilità ha un valore. Più altro il valore, più competente il personaggio
 
 Sceglierai i valori delle abilità del tuo personaggio, organizzate in ua piramide con l'abilità più alta in valore a Ottimo (+4), come segue:
 
-One Great (+4) skill
-Two Good (+3) skills
-Three Fair (+2) skills
-Four Average (+1) skills
-All other skills at Mediocre (+0)
-The Adjective Ladder
-In Fate Condensed, and Fate in general, all ratings are organized into a ladder of adjectives, shown here.
+* Un'abilità a Ottimo (+4)
+* Due abilità a buono (+3)
+* Tre abilità a discreto (+2)
+* Quattro abilità a Medio (+1)
+* Tutte le altre abilità a Mediocre (+0)
 
-Rating	Adjective
-+8	Legendary
-+7	Epic
-+6	Fantastic
-+5	Superb
-+4	Great
-+3	Good
-+2	Fair
-+1	Average
+#### La scala di aggettivi
+In _Fate Condensato_, e in _Fate_ in generale, tutti i valori sono organizzati in una scala di aggettivi, che mostriamo qui.
+
+
++8	Leggendario
++7	Epico
++6	Fantastico
++5	Eccellente
++4	Ottimo
++3	Buono
++2	Discreto
++1	Medio
 +0	Mediocre
--1	Poor
--2	Terrible
--3	Catastrophic
--4	Horrifying
-Skill List
-Descriptions for these skills are found below.
+-1	Scarso
+-2	Pessimo
+-3	Catastrofico
+-4	Terribile
 
-Academics
-Athletics
-Burglary
-Contacts
-Crafts
-Deceive
-Drive
-Empathy
-Fight
-Investigate
-Lore
-Notice
-Physique
-Provoke
-Rapport
-Resources
-Shoot
-Stealth
-Will
-Academics: Mundane, everyday human knowledge and education, including history, sciences, and medicine. Academics stunts often refer to specialized areas of knowledge and medical skills.
+#### Elenco delle abilità
+Si seguito trovate le descrizioni delle abilità.
 
-Athletics: A measurement of physical potential. Athletics stunts focus on movement—running, jumping, parkour—and dodging attacks.
+* **Accademiche**
+* **Artigianato**
+* **Atletica**
+* **Combattimento**
+* **Contatti**
+* **Discrezione**
+* **Empatia**
+* **Fisico**
+* **Folclore**
+* **Furtività**
+* **Guidare**
+* **Influenzare**
+* **Investigare**
+* **Percezione**
+* **Provocare**
+* **Raggirare**
+* **Risorse**
+* **Sparare**
+* **Volontà**
 
-Burglary: Knowledge of and ability to bypass security systems, pick pockets, and generally commit crimes. Burglary stunts give bonuses to the various stages of committing a crime, from the planning to the execution and escape.
+**Accademiche**: Educazione e conoscenze umane mondane di tutti i giorni, comprese storia, scienze e medicina. i talenti di Accademiche spesso si riferiscono ad aree specializzate di conoscenze e abilità mediche.
 
-Contacts: Knowledge of the right people and connections that can help you. Contacts stunts give you ready allies and an information network wherever you go in the world.
+**Atletica**: Una misura di potenziaale fisico. I talenti di Atletica si concentrano sul movimento: correre, saltare, parkour, e sull'evitare gli attacchi.
 
-Crafts: Ability to make or break machinery, build contraptions, and pull off MacGyver-esque feats of ingenuity. Crafts stunts let you have the gizmo on hand, give bonuses to building and breaking things, and provide justification for using Crafts in place of skills like Burglary or Academics under certain circumstances.
+**Furtività**: Conoscenza e abilità di superare i sistemi di sicurezza, scassinare e in generale commettere crimini. I telenti di Furtività forniscono bonus alle varie fasi dell'eseguire un crimine, dalla pianificazione all'esecuzione e alla fuga.
 
-Deceive: Ability to lie and cheat convincingly and with aplomb. Deceive stunts might improve your ability to tell a particular breed of lie or help invent false identities.
+**Contatti**: Conoscenza delle persone e dei collegamenti giusti che possono aiutarti. I talenti di Contatti ti forniscono alleati e una rete informativa dovunque tu vada nel mondo.
 
-Drive: Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
+**Artigianato**: L'abilità di creare o disfare macchinari, costruire marchingegni e realizzare imprese d'ingegno alla McGyver. I talenti di Artigianato ti permettono di avere a mano aggeggi, forniscono bonus nel costruire o disfare cose e offrono la giustificazione per utilizzare Artigianato al posto di abilità come Furtività o Accademiche in determinate situazioni.
 
-Empathy: Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
+**Deceive**: Ability to lie and cheat convincingly and with aplomb. Deceive stunts might improve your ability to tell a particular breed of lie or help invent false identities.
 
-Fight: Ability to excel at hand-to-hand combat, whether with weapons or fists. Fight stunts include signature weapons and special techniques.
+**Drive**: Controlling vehicles under the most grueling circumstances, pulling wicked maneuvers, and simply getting the most out of your ride. Drive stunts can be signature maneuvers, a special vehicle of your own, or the ability to use Drive in place of a skill like Burglary or Academics under certain circumstances.
 
-Investigate: Deliberate, careful study and puzzling out mysteries. Use this to piece together clues or reconstruct a crime scene. Investigate stunts help you form brilliant deductions or piece together information more quickly.
+**Empathy**: Ability to accurately judge someone’s mood and intentions. Empathy stunts can be about judging a crowd, picking up on lies, or helping others recover from mental consequences.
 
-Lore: Specialized, arcane knowledge that falls outside of the scope of Academics, including supernatural topics of one sort or another. This is where the weird stuff happens. Lore stunts often support practical applications of your arcane knowledge, such as casting spells. Some settings may remove Lore, replace it with a different skill, or combine it with Academics.
+**Fight**: Ability to excel at hand-to-hand combat, whether with weapons or fists. Fight stunts include signature weapons and special techniques.
 
-Notice: Ability to pick up details in the moment, spot trouble before it happens, and generally be perceptive. It contrasts Investigate, which is for slow, deliberate observation. Notice stunts sharpen your senses, improve your reaction time, or make you harder to sneak up on.
+**Investigate**: Deliberate, careful study and puzzling out mysteries. Use this to piece together clues or reconstruct a crime scene. Investigate stunts help you form brilliant deductions or piece together information more quickly.
 
-Physique: Raw power and durability. Physique stunts let you perform superhuman feats of strength, throw your weight around while wrestling, and shrug off physical consequences. In addition, a high Physique rating gives you more physical stress or consequence slots (page XX).
+**Lore**: Specialized, arcane knowledge that falls outside of the scope of Academics, including supernatural topics of one sort or another. This is where the weird stuff happens. Lore stunts often support practical applications of your arcane knowledge, such as casting spells. Some settings may remove Lore, replace it with a different skill, or combine it with Academics.
 
-Provoke: Ability to push people to act the way you want them to. It’s coarse and manipulative, not a positive interaction. Provoke stunts let you push opponents into foolhardy action, draw aggression toward you, or scare enemies (assuming they can feel fear).
+**Notice**: Ability to pick up details in the moment, spot trouble before it happens, and generally be perceptive. It contrasts Investigate, which is for slow, deliberate observation. Notice stunts sharpen your senses, improve your reaction time, or make you harder to sneak up on.
 
-Rapport: Building connections with others and working together. Where Provoke is manipulation, Rapport is sincerity, trust, and goodwill. Rapport stunts let you sway the crowd, improve relationships, or build contacts.
+**Physique**: Raw power and durability. Physique stunts let you perform superhuman feats of strength, throw your weight around while wrestling, and shrug off physical consequences. In addition, a high Physique rating gives you more physical stress or consequence slots (page XX).
 
-Resources: Access to material things, not just money or direct ownership. It might reflect your ability to borrow from friends or dip into an organization’s armory. Resources stunts let you use Resources in place of Rapport or Contacts or give you extra free invokes when you pay for the best.
+**Provoke**: Ability to push people to act the way you want them to. It’s coarse and manipulative, not a positive interaction. Provoke stunts let you push opponents into foolhardy action, draw aggression toward you, or scare enemies (assuming they can feel fear).
 
-Shoot: All forms of ranged combat, whether guns, throwing knives, or bow and arrow. Shoot stunts let you make called shots, quick-draw, or always have a gun handy.
+**apport**: Building connections with others and working together. Where Provoke is manipulation, Rapport is sincerity, trust, and goodwill. Rapport stunts let you sway the crowd, improve relationships, or build contacts.
 
-Stealth: Staying unseen or unheard and escaping when you need to hide. Stealth stunts let you vanish in plain sight, blend into crowds, or advance through shadows unseen.
+**Resources**: Access to material things, not just money or direct ownership. It might reflect your ability to borrow from friends or dip into an organization’s armory. Resources stunts let you use Resources in place of Rapport or Contacts or give you extra free invokes when you pay for the best.
 
-Will: Mental fortitude, the ability to overcome temptation and to withstand trauma. Will stunts let you ignore mental consequences, withstand the mental agony of strange powers, and hold steady against enemies who provoke you. In addition, a high Will rating gives you more mental stress or consequence slots (page XX).
+**Shoot**: All forms of ranged combat, whether guns, throwing knives, or bow and arrow. Shoot stunts let you make called shots, quick-draw, or always have a gun handy.
 
-Alternative Skill Lists
+**Stealth**: Staying unseen or unheard and escaping when you need to hide. Stealth stunts let you vanish in plain sight, blend into crowds, or advance through shadows unseen.
+
+**Will**: Mental fortitude, the ability to overcome temptation and to withstand trauma. Will stunts let you ignore mental consequences, withstand the mental agony of strange powers, and hold steady against enemies who provoke you. In addition, a high Will rating gives you more mental stress or consequence slots (page XX).
+
+#### Alternative Skill Lists
 When building your own implementation of Fate, the first thing to think about is whether or not you’ll keep the same skill list. Often you can work with the one given, combining, changing, or splitting apart a few of the skills given. But it’s possible that the granularity of the default example skill list we’ve given above isn’t to your liking. Here are some things to think about.
 
 The default skill list has 19 skills in it, and players rate their characters above the Mediocre (+0) default in 10 of them. If you change the number of skills, you may want to change how the ratings are allocated.
@@ -147,19 +150,19 @@ Fred decides he wants to do a space-faring Fate game with a shorter skill list t
 
 If you’re considering making your own skill list for your game and are looking for some ideas to kick-start your imagination, see page XX.
 
-Refresh
+### Refresh
 Your refresh is the minimum number of fate points (page XX) your character begins with at the start of each session. Your character begins with a refresh of 3.
 
 Each session, you start with fate points at least equal to your refresh. Be sure to keep track of the fate points you have left at the end of each session of play—if you have more fate points than your refresh, you’ll start the next session with the fate points you ended this session with.
 
 Charles earned a lot of fate points during today’s session, ending it with 5 fate points. His refresh is 2, so Charles will start the next session with 5 fate points. But Ethan ends the same session with just one fate point. His refresh is 3, so he’ll begin the next session with 3 fate points, not just the one he had left over.
 
-Stunts
+### Stunts
 While every character has access to all the skills—even if they are Mediocre (+0) at most of them—your character has some unique stunts. Stunts are the cool techniques, tricks, or bits of equipment that make your character unique and interesting. Where skills are about a character’s broad competencies, stunts are about specific areas of excellence; most of them give you a bonus in particular circumstances or let you do something that other characters simply can’t.
 
 Your character begins with three free stunt slots. You don’t have to define them all right away, and may fill them in as you play. You may purchase more stunts by spending 1 refresh each, to a minimum of 1 refresh.
 
-Writing Stunts
+#### Writing Stunts
 You write your own stunts when building a character. Broadly, there are two types of stunts.
 
 Bonus-granting stunts: The first type of stunt gives you a +2 bonus when you use a named skill within certain parameters, usually limited to a specific type of action (page XX) and type of narrative circumstance.
@@ -183,7 +186,7 @@ Because I [describe how you are amazing or have a cool bit of gear], I can [desc
 
 Example Rule-Changing Stunt: Because I don’t believe in magic, I can ignore the effects of a supernatural ability, but only once per game session.
 
-Stress and Consequences
+### Stress and Consequences
 Stress and consequences are how your character withstands the mental and physical toll of their adventures. Characters have at least three one-point boxes for physical stress and at least three one-point boxes for mental stress. They also get one slot each for mild, moderate, and severe consequences.
 
 Your rating in Physique affects how many total physical stress boxes you have. Will does the same for your mental stress. Refer to the following table:
