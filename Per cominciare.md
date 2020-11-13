@@ -1,4 +1,4 @@
-# Per comindiare
+# Per cominciare
 ## Definire la vostra ambientazione
 
 Qualsiasi partita di _Fate_ comincia con la definizione dell'ambientazione. Potrebbe essere un concetto portato al tavolo dal vostro GM, una proprietà mediatica popolare famigliare ai giocatori, o un esercizio di costruzione del mondo collaborativo che coinvolge tutti al tavolo. La discussione dell'ambientazione può essere veloce e leggera nei dettagli, oppure coinvolgere un'inera sessione con tutto il gruppo, o qualcosa nel mezzo.
