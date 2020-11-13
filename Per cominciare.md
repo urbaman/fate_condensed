@@ -210,13 +210,17 @@ Il tuo valore in Fisico influisce sul tuo numero di caselle di stress. Volontà 
 
 Imparerai come funzionano lo stress e le conseguenze in gioco nel capitolo “Ricevere danni”.
 
-Hang on, that’s not what I remember!
-In Fate Condensed, we’re using only one-point stress boxes. Fate Core System and Fate Accelerated both use a series of escalating-value boxes (one 1-point box, one 2-point box, etc). You can use that style of stress box if you like; for this version we decided to stick with one-point boxes because it’s simple—with the other method, folks can get confused just a little more easily.
+#### Aspetta, non è come lo ricordo!
 
-There are a few other angles on this style that you’ll want to keep in mind.
+In _Fate Condensato_, utilizziamo solo caselle di stress da un punto. _Fate Sistema Base_ e _Fate Edizione Accelerata_ utilizzano entrambi una seria di caselle di valore crescente (una casella da un punto, una casella da due punti, eccetera...). Puoi utilizzare qualsiasi stile di caselle di stress desideri, in questa versiona abbiamo deciso per le caselle da un punto perché è semplice: con l'altro metodo è ub po' più facile che le persone di confondano.
 
-As you’ll see on page XX, with 1-point boxes you may mark as many of them as you want when you get hit (the escalating-value style of Fate Core, meanwhile, has a “you can only mark one box per hit” proviso).
-This style goes with the Fate Core notion of separate Physical and Mental stress tracks, instead of a single unified track as with Fate Accelerated. If you’re inclined towards a unified track, add three more boxes to make up for it, and use the higher of Physique or Will to lengthen it as indicated.
-Three points of stress absorption on one track is not a lot! If characters end up feeling a little fragile in play, you may want to add one or two boxes to the default quantity. It’s all about how fast the consequences hit. (With the older style, a [1][2] track absorbs 2 to 3 stress, [1][2][3] = 3 to 6, [1][2][3][4] = 4 to 10.)
-Finishing Touches
-Give your character a name and description, and discuss their history with the other players. If you haven’t written down a relationship aspect yet, do so now.
+Ci sono alcune altri punti di vista su questo metodo che vorrete tenere a mente.
+
+Come vedrete, con le caselle da 1 punto puoi segnarne quante ne vuoi quando vieni colpito (la versione con i valori crescenti di _Fate Base_ ha la regola per cui "puoi segnarne solo una per colpo").
+
+Questo stile procede con la concezione di indicatori di stress Fisico e Mentale separati, invece che utilizzare un solo indicatore come in _Fate Accelerato_. Se siete inclini a un indicatore unificato, aggiungete altre tre caselle per bilanciarlo, e utilizzate il valore più altro tra Fisico e Volontà per allungarlo come indicato.
+
+Tre punti di assorbimento dello stress per indicatore non è molto! Se i personaggi finiscono per sentirsi un po' fragili durante il gioco, potete voler aggiungere una o due caselle alla quantità di based. Si tratta di quanto velocemente si attivanole conseguenze (col metodo più vecchio, un indicatore di stress come [1][2] assorbe da due a tre punti di stress, uno come [1][2][3] assorbe da 3 a 6, uno come [1][2][3][4] assorbe da 4 a 10).
+
+### Tocchi finali
+Fornisci al tuo personaggio un nome e una descrizione, e discuti la sua storia con il resto dei giocatori. Se noin hai ancora scritto l'aspetto di relazione, fallo ora.
