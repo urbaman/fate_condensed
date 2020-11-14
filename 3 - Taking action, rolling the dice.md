@@ -39,99 +39,115 @@ Puoi modificare il risultato dei dadi invocando aspetti per ottenere +2 al tiro 
 
 Quando esegui un'azione ma i dadi non ti soddisfano, non devi accetare il fallimento senza fare nulla (anche se puoi tranquillamente farlo). Gli aspetti in gioco ti forniscono opzioni e oppotrunità per riuscire.
 
-Quando un aspetto può legittimamente aiutare i tuoi sforzi, descrivi come ti aiuta e spendi un punto fato per invocarlo (o utilizza un'invocazione gratuita). Ciò che è o meno legittimo è soggetto alla regola della fesseria: chiunque può dire "Questa è una fesseria!" all'invocazione di un aspetto. Detto semplicemente, la regola della fesseria è uno strumento di calibrazione che tutti al tavolo possono utilizzare per aiutare il gruppo ad assicurarsi che la partita rimanga fedele alla sua visione e al suo concetto. Potete utilizzare gli strumenti di sicurezza in modo simile.
+Quando un aspetto può legittimamente aiutare i tuoi sforzi, descrivi come ti aiuta e spendi un punto fato per **invocarlo** (o utilizza un'invocazione gratuita). Ciò che è o meno legittimo è soggetto alla **regola della fesseria**: chiunque può dire "Questa è una fesseria!" all'invocazione di un aspetto. Detto semplicemente, la regola della fesseria è uno **strumento di calibrazione** che tutti al tavolo possono utilizzare per aiutare il gruppo ad assicurarsi che la partita rimanga fedele alla sua visione e al suo concetto. Potete utilizzare gli strumenti di sicurezza in modo simile.
 
 Hai due possibilità quando la tua invocazione sembra una fesseria. Per prima cosa, puoi ritirare la tua invocazione e provare qualcos'altro, megari un aspetto diverso. Come seconda possibilità, puoi avere una veloce discussione sul perché pensi che l'aspetto sia adeguato. Se la persona che ha dichiarato una fesseria l'invocazione non è ancora convinta, ritira l'invocazione e vai avanti. Se cambia idea e accetta la tua prospettiva, prosegui con l'invocazione come solito. La regola della fesseria esiste affinché tutti al tavolo si divertano. Utilizzatela quando qualcosa non vi suona giusto, non ha senso o non è adeguato al tono. Qualcuno che invoca ***Ottimo nelle prime impressioni*** per lanciare un'automobile è probabilmente uan fesseria. Ma magari quel personaggio ha un talento sovrannaturale che lo rende incredibilmente forte, forte abbastanza da rendere plausibile che lanci un'automobile, e quest'azione è la sua mossa d'apertura in un combattimento con un mostro orribile. In questo caso, forse ***Ottimo nelle prime impressioni*** è plausibile.
 
-Quando invochi un aspetto, puoi sia ottenere un bonus di +2 al tuo tiro, sia ritirare tutti i tuoi dadi, oppure puoi aggiungere +2 alla difficoltà del tiro di qualcun'altro, se giustificabile. Puoi invocare più di un aspetto per lo stesso tiro, ma non puoi invocare lo stesso aspetto più volte per lo stesso tiro. Esiste un'eccezione: puoi spendere tante invocazioni gratuite quante vuoi sullo stesso aspetto per lo stesso tiro.
+Quando invochi un aspetto, puoi sia **ottenere un bonus di +2 al tuo tiro**, sia **ritirare tutti i tuoi dadi**, oppure puoi aggiungere +2 alla difficoltà del tiro di qualcun'altro, se giustificabile. Puoi invocare più di un aspetto per lo stesso tiro, ma non puoi invocare lo stesso aspetto più volte per lo stesso tiro. Esiste un'eccezione: puoi spendere tante invocazioni gratuite quante vuoi sullo stesso aspetto per lo stesso tiro.
 
 Spesso invocherai uno dei tuoi aspetti. Puoi anche invocare un aspetto di situazione o eseguire un'invocazione ostile dell'aspetto di un altro personaggio.
 
 ### Usare i talenti
-Stunts may give you a bonus to your roll, provided you meet the criteria written in the stunt, such as the circumstances, action, or skill used. You may wish to use create advantage (page XX) to introduce aspects that line up with those circumstances. Keep your stunts’ circumstances in mind when you describe your actions too, and set yourself up for success.
 
-Normally, stunts give you a +2 bonus in a narrow circumstance with no cost; you may use them anytime they apply. Some rare and exceptionally powerful stunts may require you to spend a fate point to use them.
+I **talenti** possono firnirti un bonus a un tiro, a condizione che soddisfi il criterio scritto nel talento, e cioè le circostanze, l'azione o l'abilità utilizzate. Puoi anche voler creare un vantaggio per introdurre aspetti che possano ricreare quelle circostanze. Tieni sempre a mente le circostanze dei tuoi talenti quando descrivi le tua azioni, e imposta la descrizione verso il successo.
 
-Outcomes
-Whenever you roll dice, the difference between your effort and the target difficulty or opposition is measured in shifts. A shift has a value of 1. There are four possible outcomes:
+Normalmente, i talenti ti forniscono un bonus di +2 in una circostanza ben definita senza alcun costo; puoi usarli tutte le volte che si applicano. Alcuni talenti rari e potenti possono richiedere la spesa di un punto fato per essere attivati.
 
-If your effort is less than the target difficulty or opposition, you fail.
-If your effort is equal to the target, you tie.
-If your effort is one or two shifts more than the target, you succeed.
-If your effort is three or more shifts more than the target, you succeed with style.
-Some outcomes are obviously better for you than others, but all of them should advance the story in interesting ways. You started with fiction first (page XX); make sure you end with it too, to maintain focus on the story, and to ensure you interpret the results in a way that fits the fiction.
+## Risultati
 
-Ethan isn’t an adept safe-cracker (though he has the tools), and yet he’s in a sinister cult’s guarded secret headquarters, with a steel door between him and the ritual book he desperately needs. Can he get in?
+Tutte le volte che tiri i dadi, la differenza tra lo sforzo e l'obiettivo di difficoltà o opposizione viene misurata in **livelli di successo**. Un livello di successo ha un valore di 1. Ci sono quattro possibili risultati:
 
-Failure
-If your effort is less than the target difficulty or opposition, you fail.
+* Se il tuo sforzo è minore dell'obiettivo di difficoltà o opposizione, allora hai un  **fallimento**.
+* Se il tuo sforzo è uguale all'obiettivo, allora hai un **pareggio**.
+* Se il tuo sforzo è di uno o due livelli di successo superiore all'obiettivo, allora hai un **successo**.
+* Se il tuo sforzo è di tre o più livelli di successo superiore all'obiettivo, allora hai un **successo con stile**.
 
-This can play out in a few ways: simple failure, success at a major cost, or taking a hit.
+Alcuni risultati sono ovviamente meglio di altri, ma tutti dovrebbero portare la storia in avanti in modi interessanti. Sei partito dal fiction first; assicurati di terminare sempre con la fiction, mantenendo il focus sulla storia, e di interpretare i risultati in modo che si adattino alla narrazione.
 
-Simple Failure
-The first is the easiest to understand—simple failure. You don’t accomplish your goal, don’t make any progress, and are left wanting. Ensure this keeps the story moving—simply failing to crack the safe is stagnant and boring.
+Etan non è un buon scassinatore di cassaforti (anche se ha gli attrezzi), e nonostante questo si trova nel quartier generale segreto e sorvegliato di un culto sinistro con una porta d'acciaio tra di sé e il libro rituale di cui ha disperato bisogno. Riuscirà a entrare?
 
-Ethan pulls the handle triumphantly, but the safe remains resolutely closed while the alarms begin to blare. Failure has changed the situation and driven the story forward—now there are guards on the way. Ethan is faced with a new choice—try another way of opening the safe, now that subtlety is out the window, or cut his losses and run?
+### Fallimento
 
-Success at a major cost
-Second is success at a major cost. You do what you set out to do, but there’s a significant price to be paid—the situation gets worse or more complicated. GM, you can either declare this is the result or can offer it in place of failure. Both options are good and useful in different situations.
+Se il tuo sforzo è minore dell'obiettivo di difficoltà o opposizione, allora fallisci.
 
-Ethan fails his roll and the GM says, “You hear the click of the last tumbler falling into place. It’s echoed by the click of the hammer on a revolver as the guard tells you to put your hands in the air.” The major cost here is the confrontation with a guard he’d hoped to avoid.
+la situazione può svilupparsi in alcuni modi: fallimento semplice, successo a un costo maggiore, o subire un colpo.
 
-Take a Hit
-Lastly, you may take a hit, which you’ll need to absorb with stress or consequences, or suffer some other drawback. This sort of failure is most common when defending against attacks or overcoming dangerous obstacles. This is different from a simple failure because the character alone, not necessarily the whole group, is affected. It’s also different from success at a major cost, in that success isn’t necessarily on the table.
+#### Fallimento semplice
 
-Ethan is able to get the safe door open, but as he grasps the handle, he feels a jab in the back of his hand. He couldn’t disable the trap! He writes down the mild consequence Poisoned.
+Il primo è il pià facile da capire: un **semplice fallimento**. Non raggiungi il tuo obiettivo, non fai progressi, rimani a mani vuote. Assicurati che la storia si muova, il semplice fallimento a scassinare la cassaforte è stagnante e noioso.
 
-You can mix these options together: Harmful failure can be harsh but appropriate in the moment. Success at the cost of harm is certainly an option.
+Etan gira la maniglia trionfante, ma la cassaforte rimane risolutamente chiusa mentre gli allarmi iniziano a squillare. Il fallimento ha cambiato la situazione e spinto la storia in avanti: ora le guardie stanno arrivando. Etan deve affrontare una nuova scelta: provare ad aprire la cassaforte in un altro modo ora che la discrezione è fiori dalla finestra, o limitare i danni e fuggire?
 
-Tie
-If your effort is equal to the target difficulty or opposition, you tie.
+#### Successo a un costo maggiore
 
-Just like failure, ties should move the story forward, never stymie the action. Something interesting should happen. Similar to failure, this can play out a couple ways: success at a minor cost, or partial success.
+Il secondo è il **successo a un costo maggiore**. Riesci in quello che stai facendo, ma c'è un prezzo significativo da pagare: la situazione peggiora o si complica. GM, puoi sia dichiarare questo come risultato oppure offrirlo al posto del fallimento. entrambe le opzioni sono buone e utili a seconda della situazione.
 
-Success at a minor cost
-The first is success at a minor cost—a few points of stress, story details about difficulty or complication but aren’t hindrances themselves, and a boost (page XX) to the enemy are all minor costs.
+Etan fallisce il suo tiro e il GM dice, "Senti il rumore dell'ultimo ingranaggio che va a posto. Glifa eco il rumore del martello di una pistola mentre la guardia ti dice di alzare le mani." Il costo maggiore in questo caso è il confronto con uan guardia che sperava di evitare.
 
-Ethan’s first few attempts all fail. By the time he actually gets the door open, dawn has broken, and escape under cover of darkness is impossible. He got what he needed, but his situation is worse now.
+#### Subire un colpo
 
-Partial Success
-The other way to handle a tie is partial success—you succeeded but only got some of what you wanted.
+Come ultima opzione, puoi **subire un colpo**, che dovrai assorbire con stress o conseguenze, o risentire si un altro inconveniente. Questo tipo di fallimento è molto comune difendendosi contro gli attacchi o superando ostacoli pericolosi. È diverso da un semplice fallimento perché ne è interessato solo il personaggio, non per forza tutto il gruppo. È diverso anche dal successo con costo maggiore, visto che il successo non è necessariamente sul tavolo.
 
-Ethan can only open the safe door a crack—if the door opens more than an inch, the alarm will sound, and he can’t figure out how to disengage that. He manages to pull a couple pages of the ritual out through the narrow gap, but he’ll have to guess at the final steps.
+Etan riesce ad aprire la cassaforte, ma quando prende la maniglia, sente un colpo sul dorso della mano: non è riuscito a disabilitare la trappola! Si scrive la conseguenza lieve **Avvelenato**.
 
-Success
-If your effort is one or two more than the target, you succeed.
+Potete mescolare queste opzioni trra di loro: il fallomento doloroso potrebbe essere duro ma appropriato in un certo momento. Il successo al costo di un danno è sicuramente un'opzione valida.
 
-You get what you want with no additional cost.
+### Pareggio
 
-Opened! Ethan grabs the ritual and leaves before the guards notice him.
+Se lo sforzo è uguale all'obiettivo di difficiltà o opposizione, allora fallisci.
 
-Applying “Fiction First” to Success
-The fiction defines what success looks like. What if Ethan didn’t have the tools or experience needed to break into the safe? Perhaps that success is more like our “minor cost” example above. Similarly, if Ethan was on the team because he built the safe, that success might look more like our “with style” example.
+Proprio come in caso di fallimento, i pareggi dovrebbero muovere la storia in avanti, mai ostacolare l'azione. Dovrebbe succedere qualcosa di interessante. in modo simile al fallimento, questa situazione si può sviluppare un un paio di modi: successo a un costo minore, o successo parziale.
 
-Success with Style
-If your effort is three or more than the target, you succeed with style.
+#### Successo a un costo minore
 
-You get what you want, and you get a bit more on top of that.
+Il primo è il **successo a un costo minore**: alcuni punti di stress, dettagli di storia su difficoltà o complicazioni che non sono ostacoli di per sé, o un beneficio all'avversario sono tutti costi minori.
 
-Ethan is beyond lucky; the safe door opens almost instantly. Not only does he get the ritual, but he has enough time to poke through the other papers in the back of the safe. Amidst various ledgers and financial documents, he finds a map of the old Akeley mansion.
+Tutti i primi tentativi di Etan falliscono. Quando finalmente riesce ad aprire la porta è ormai l'alba, e la fuga nell'oscurità è impossibile. ha ciò che voleva, ma la situazione è peggiorata.
 
-Actions
-There are four actions you can roll, each with a specific purpose and effect on the story:
+#### Successo parziale
 
-Overcome to surmount obstacles with your skills.
-Create an advantage to change a situation to your benefit.
-Attack to harm the enemy.
-Defend to survive an attack, stop a foe from creating an advantage, or oppose an effort to overcome an obstacle.
-Overcome
-Overcome to surmount obstacles with your skills.
+L'altro modo di gestire un pareggio è il **successo parziale**: riesci ma ottieni solo parte di ciò che volevi.
 
-Every character will face untold challenges in the course of the story. The overcome action is how they face and surmount those obstacles.
+Etan riesca ad aprire la porta solo di una fessura: se la porta si aprisse per più di un centimetro, l'allarme suonerebbe, e lui non sa come disabilitarlo. Riesce a sfilare un paio di pagine del rituale attraverso la fessura, ma dovrà indovinare le fasi finali.
 
-A character good at Athletics can climb over walls and race through crowded streets. A detective with high Investigate can piece together clues others have missed. Someone skilled in Rapport will find it easier to avoid a fight in a hostile bar.
+### Successo
 
-Your outcomes when overcoming are:
+Se il tuo sforzo supera di uno o due livelli di successo l'obiettivo, allora hai un successo.
+
+ottieni quello che volevi senza costi aggiuntivi.
+
+Aperta! Etan arraffa il rituale e se la svigna prima che le guardie lo notino.
+
+#### Applicare il concetto di "fiction first" al successo
+
+La narrazione definisce come si sviluppa il successo. cosa succederebbe se Etan non avesse gli strumenti o l'esperienza per scassinare la cassaforte? Forse quel successo assomiglia di più al "costo minore" del nostro esempio precedente. Allo stessomodo, se Etan facesse parte della squadra perché aveva costruito la cassaforrte, quel successo assomiglierebbe di più all'esempio di "successo con stile".
+
+### Succesos con stile
+
+Se lo sforzo è di tee o più livelli di successo maggiore dell'obiettivo, allora ahi un successo con stile.
+
+Ottieni quello che volevi, e ottieni anche qualcosa in più.
+
+Etan è molto fortunato; la cassaforte si apre quasiistantaneamente. Non solo ottiene il libro del rituale, ma ha abbastanza tempo per dare un'occhiata agli altri incartamenti nel retro della cassaforte. Tra i vari registri e documenti finanziari, trova una mappa della vecchia villa Akeley.
+
+## Azioni
+
+Ci sono quattro azioni che puoi eseguire, ognuna con uno scopo e un effetto specifici sulla storia:
+
+* **Superare un ostacolo** per sormontare impedimenti con le tue abilità.
+* **Creare un vantaggio** per cambiare una situazione a tuo beneficio.
+* **Attaccare** per danneggiare l'avversario.
+* **Difendere** per sopravvivere a un attacco, fermare un avversario dal creare un vantaggio oppure per opporti a un tentativo di superare un ostacolo.
+
+### Superare un ostacolo
+
+Superi un ostacolo per sormontare impedimenti con le tue abilità.
+
+Ongi personaggio affornterà sfide indicibili nel costo della storia. L'azione di superare un ostacolo rappresenta il modo in cui affrontano e sormontano queste difficoltà.
+
+Un personaggio con una buona Atletica può scalare oltre i muri o correre attraverso strade affollate. Un investigatore con un'alta Investigazione può mettere insieme gli indizi che altri non hanno notato. Qualcuno capace nell'influenzare puà trovare facile evitare un combattimento in un locale ostile.
+
+I tuoi risultati quando superi un ostacolo sono:
 
 If you fail, discuss with the GM (and the defending player, if any) whether it’s a failure or success at a major cost (page XX).
 
