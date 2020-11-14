@@ -1,4 +1,4 @@
-# Eseguire azioni, tirare i dadi
+# Eseguire azioni, tirare i dadi
 
 In una partita di _Fate Condensato_, controllerai le azioni del personaggio che hai creato, contribuendo alla storia che state raccontando insieme. In generale, il GM descriverà il mondo e racconterà le azioni dei personaggi non giocanti (PNG), e gli altri giocatori racconteranno le azioni dei propri G individuali.
 
