@@ -161,16 +161,17 @@ Carlo è riuscito a raggiungere un centro di ricerca Antartico. Le costruzioni s
 
 Le azioni di superare un ostacolo vengono utilizzate spesso per determinare se un personaggio può accedere o notare un indizio o un fatto particolare. Tenete d'occhio le opzioni di successo con un costo quando è il caso. Se perdersi un dettaglio causasse lo stallo della storia, togliete il fallimento dalle possibilità, e concentratevi piuttosto sul costo.
 
-Create an Advantage
-Create A situation aspect or gain a benefit from an existing aspect.
+### Creare un vantaggio
 
-You can use the create an advantage action to change the course of the story. By using your skills to introduce new aspects or add invokes to existing aspects, you can stack the deck for yourself and your teammates. You might change the circumstances (barring a door or creating a plan), discover new information (learning a monster’s weakness through research), or take advantage of something already known (such as a CEO’s taste for scotch).
+*Creare un vantaggio* per cambiare una situazione a tuo beneficio.
 
-An aspect created (or discovered) by creating an advantage works like any other: It defines the narrative circumstances and can allow, prevent, or impede actions—for instance, you cannot read a spell if the room has been made Pitch Black. It can also be invoked (page XX) or compelled (page XX). In addition, creating an advantage gives you one or more free invokes of the created aspect. A free invoke, as the name suggests, lets you invoke an aspect without spending a fate point. You can even let your allies use free invokes you have created.
+Puoi usare l'azione di **Creare un vantaggio** per modificare il corso della storia. Utilizzando le tue abilità per introdurre nuovi aspetti, puoi truccare la partita per te e i tuoi amici. Potresti modificare le circostanze (sbarrando una porta o creando un piano), scoprire nuove informazioni (scoprendo la debolezza di un mostro tramite la ricerca) o avvantaggiarti di qualcosa che già conosci (come la passione del CEO per lo scotch).
 
-When you roll to create an advantage, specify whether you’re creating a new aspect or taking advantage of an existing one. If the former, are you attaching the aspect to an ally, opponent, or the environment? If you’re attaching it to an opponent, they can take the defend action to oppose you. Otherwise you’ll usually face a difficulty, but the GM can decide if something or someone opposes your efforts with a defend roll instead.
+Un aspetto creato (o scoperto) tramite l'azione di *Creare un vantaggio* funziona come gli altri: definisce le circostanze narrative e può permettere, prevenire o impedire certe azioni, per esempio non potrai leggere un incantesimo se la stanza è stata immersa nel **Buio pesto**. Possono anche essere invocati o tentati. In aggiunta, con *Creare un vantaggio* ottieni una o più invocazioni gratuite dell'aspetto creato. Un'invocazione gratuita, come suggerisce il nome, ti permette diinvocare l'aspetto senza spendere un punto fato. Puoi anche permettere ai tuoi alleati di utlizzare le invocazioni gratuite che hai creato.
 
-Your outcomes when creating a new aspect are:
+Quando tiri per *Creare un vantaggio*, specifica se stai creando un aspettonuovo o se ti stai avvantaggiando di uno già presente. Nel primo caso, stai appiccicando l'aspetto a un alleato, a un avversario o all'ambiente? Se lo stai appiccicando a un avversario, può utilizzare l'azione *Difendere* per opporsi al tuo tentativo. Altrimenti affronterai normalmente una difficoltà, ma il GM può decidere se qualcosa o qualcuno cerca invece di opporsi ai tuoi tentativi con un tiro di *Difendere*.
+
+I tuoi risultati quando crei un vantaggio sono:
 
 If you fail, you either don’t create the aspect (failure) or you create it but the enemy gets the free invoke (success at a cost). If you succeed at a cost, the final aspect may need to be rewritten to benefit the enemy. This may still be worth it because aspects are true (page XX).
 
