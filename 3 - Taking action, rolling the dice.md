@@ -143,23 +143,23 @@ Ci sono quattro azioni che puoi eseguire, ognuna con uno scopo e un effetto spec
 
 Superi un ostacolo per sormontare impedimenti con le tue abilità.
 
-Ongi personaggio affornterà sfide indicibili nel costo della storia. L'azione di superare un ostacolo rappresenta il modo in cui affrontano e sormontano queste difficoltà.
+Ongi personaggio affornterà sfide indicibili nel costo della storia. L'azione di **superare un ostacolo** rappresenta il modo in cui affrontano e sormontano queste difficoltà.
 
 Un personaggio con una buona Atletica può scalare oltre i muri o correre attraverso strade affollate. Un investigatore con un'alta Investigazione può mettere insieme gli indizi che altri non hanno notato. Qualcuno capace nell'influenzare puà trovare facile evitare un combattimento in un locale ostile.
 
 I tuoi risultati quando superi un ostacolo sono:
 
-If you fail, discuss with the GM (and the defending player, if any) whether it’s a failure or success at a major cost (page XX).
+* **Se fallisci**, discuti col GM (e col giocatore in difesa, se c'è) se sia un fallimento o un successo con un costo maggiore.
 
-If you tie, it’s success at a minor cost (page XX)—you’re in a tough spot, the enemy gets a boost (page XX), or you may take a hit. Alternatively, you fail but gain a boost.
+* **Se pareggi**, si tratta di successo con un costo minore: ti trovi in una posizione difficile, il nemico ottiene un beneficio o potresti subire un colpo. altrimenti, fallisci ma ottieni un beneficio.
 
-If you succeed, you meet your goal and the story moves on without hiccups.
+* **Se hai successo**, ottieni il tuo obiettivo e la storia prosegue senza intoppi.
 
-If you succeed with style, it’s a success and you also get a boost.
+* **Se hai successo con stile**, è un successo e ottieni anche un beneficio.
 
-Charles has made his way to an Antarctic research facility. The buildings have been wrecked, and the occupants are missing. He wants to search the wreckage for clues. The GM tells him to roll Investigate against Fair (+2) difficulty. Charles gets [0][0][+][+] on the dice, plus his Average (+1) Investigate, for a Good (+3) effort. A success! The GM describes the clue he finds: footprints in the snow, made by creatures walking on many thin, inhuman legs.
+Carlo è riuscito a raggiungere un centro di ricerca Antartico. Le costruzioni sono state distrutte, e gli occupanti sono scomparsi. Vuole esaminare le macerie alla ricerca di indizi. Il GM gli dice di tirare Investigare contro una difficoltà di valore Discreto (+2). Carlo ottiene [0][0][+][+] con i dadi, per uno sforzo Buono (+3).  Un successo! Il GM descrive gli indizi che trova: impronte nella neve, prodotte da creature che camminano su molte gambe, sottili e inumane.
 
-Overcome actions are often used to determine whether a character can access or notice a particular fact or clue. Keep a close eye on those success-at-a-cost options when that’s the case. If missing a detail would cause your story to stall, take failure off the table, and focus on the cost instead.
+Le azioni di superare un ostacolo vengono utilizzate spesso per determinare se un personaggio può accedere o notare un indizio o un fatto particolare. Tenete d'occhio le opzioni di successo con un costo quando è il caso. Se perdersi un dettaglio causasse lo stallo della storia, togliete il fallimento dalle possibilità, e concentratevi piuttosto sul costo.
 
 Create an Advantage
 Create A situation aspect or gain a benefit from an existing aspect.
