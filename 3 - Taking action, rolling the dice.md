@@ -57,10 +57,10 @@ Normalmente, i talenti ti forniscono un bonus di +2 in una circostanza ben defin
 
 Tutte le volte che tiri i dadi, la differenza tra lo sforzo e l'obiettivo di difficoltà o opposizione viene misurata in **livelli di successo**. Un livello di successo ha un valore di 1. Ci sono quattro possibili risultati:
 
-* Se il tuo sforzo è minore dell'obiettivo di difficoltà o opposizione, allora hai un  **fallimento**.
-* Se il tuo sforzo è uguale all'obiettivo, allora hai un **pareggio**.
-* Se il tuo sforzo è di uno o due livelli di successo superiore all'obiettivo, allora hai un **successo**.
-* Se il tuo sforzo è di tre o più livelli di successo superiore all'obiettivo, allora hai un **successo con stile**.
+* Se il tuo sforzo è minore dell'obiettivo di difficoltà o opposizione, allora ottieni un  **fallimento**.
+* Se il tuo sforzo è uguale all'obiettivo, allora ottieni un **pareggio**.
+* Se il tuo sforzo è di uno o due livelli di successo superiore all'obiettivo, allora ottieni un **successo**.
+* Se il tuo sforzo è di tre o più livelli di successo superiore all'obiettivo, allora ottieni un **successo con stile**.
 
 Alcuni risultati sono ovviamente meglio di altri, ma tutti dovrebbero portare la storia in avanti in modi interessanti. Sei partito dal fiction first; assicurati di terminare sempre con la fiction, mantenendo il focus sulla storia, e di interpretare i risultati in modo che si adattino alla narrazione.
 
@@ -149,13 +149,13 @@ Un personaggio con una buona Atletica può scalare oltre i muri o correre attrav
 
 I tuoi risultati quando superi un ostacolo sono:
 
-* **Se fallisci**, discuti col GM (e col giocatore in difesa, se c'è) se sia un fallimento o un successo con un costo maggiore.
+* **Se ottieni un fallimento**, discuti col GM (e col giocatore in difesa, se c'è) se sia un fallimento o un successo con un costo maggiore.
 
-* **Se pareggi**, si tratta di successo con un costo minore: ti trovi in una posizione difficile, il nemico ottiene un beneficio o potresti subire un colpo. altrimenti, fallisci ma ottieni un beneficio.
+* **Se ottieni un pareggio**, si tratta di successo con un costo minore: ti trovi in una posizione difficile, il nemico ottiene un beneficio o potresti subire un colpo. altrimenti, fallisci ma ottieni un beneficio.
 
-* **Se hai successo**, ottieni il tuo obiettivo e la storia prosegue senza intoppi.
+* **Se ottieni un successo**, ottieni il tuo obiettivo e la storia prosegue senza intoppi.
 
-* **Se hai successo con stile**, è un successo e ottieni anche un beneficio.
+* **Se ottieni un successo con stile**, è un successo e ottieni anche un beneficio.
 
 Carlo è riuscito a raggiungere un centro di ricerca Antartico. Le costruzioni sono state distrutte, e gli occupanti sono scomparsi. Vuole esaminare le macerie alla ricerca di indizi. Il GM gli dice di tirare Investigare contro una difficoltà di valore Discreto (+2). Carlo ottiene [0][0][+][+] con i dadi, per uno sforzo Buono (+3).  Un successo! Il GM descrive gli indizi che trova: impronte nella neve, prodotte da creature che camminano su molte gambe, sottili e inumane.
 
@@ -171,31 +171,31 @@ Un aspetto creato (o scoperto) tramite l'azione di *Creare un vantaggio* funzion
 
 Quando tiri per *Creare un vantaggio*, specifica se stai creando un aspettonuovo o se ti stai avvantaggiando di uno già presente. Nel primo caso, stai appiccicando l'aspetto a un alleato, a un avversario o all'ambiente? Se lo stai appiccicando a un avversario, può utilizzare l'azione *Difendere* per opporsi al tuo tentativo. Altrimenti affronterai normalmente una difficoltà, ma il GM può decidere se qualcosa o qualcuno cerca invece di opporsi ai tuoi tentativi con un tiro di *Difendere*.
 
-I tuoi risultati quando crei un vantaggio sono:
+I tuoi risultati quando crei un nuovo aspetto sono:
 
-If you fail, you either don’t create the aspect (failure) or you create it but the enemy gets the free invoke (success at a cost). If you succeed at a cost, the final aspect may need to be rewritten to benefit the enemy. This may still be worth it because aspects are true (page XX).
+* **Se ottieni un fallimento**, o non crei l'aspetto (fallimento) o lo crei ma l'avversario ne otttiene l'invocazione gratuita (successo con un costo). Se hai successo con un costo, l'aspetto finale potrebbe dover essere riscritto per beneficiare l'avversario. Potrebbe comunque valerne la pena perché gli aspetti sono veri.
 
-If you tie, you don’t create an aspect, but you do get a boost (page XX).
+* **Se ottieni un pareggio**, non crei l'aspetto, ma ottieni un beneficio.
 
-If you succeed, you create a situation aspect with one free invoke on it.
+* **Se ottieni un successo**, crei l'aspetto di situazione con un'invocazione gratuita.
 
-If you succeed with style, you create a situation aspect with two free invokes on it.
+* **Se ottieni un successo con stile**, If you succeed with style, you create a situation aspect with two free invokes on it.
 
-With an existing known or unknown aspect the outcomes are:
+Quando ti avvantaggi di un aspetto esistente, conosciuto o sconosciuto, i risultati sono:
 
-If you fail, and the aspect was known, the enemy gets a free invoke. If it was unknown, they may choose to reveal it to get a free invoke.
+* **Se ottieni un fallimento** e l'aspetto era conosciuto, l'avversario ne ottiene un'invocazione gratuita. Se era sconosciuto, può decidere di rivelarlo per ottenerne l'invocazione gratuita.
 
-If you tie, you gain a boost if the aspect was unknown; it stays unknown. If the aspect is known, you get a free invoke on it instead.
+* **Se ottieni un pareggio**, ottieni un beneficio nel caso che l'aspetto fosse sconosiuto, e rimane sconosciuto. Se l'aspetto era conosciuto, ne ottieni invece un'invocazione gratuita.
 
-If you succeed, gain a free invoke on the aspect, revealing it if unknown.
+* **Se ottieni un successo**, ottieni un'invocazione gratuita sull'aspetto, rivelandolo se era sconosciuto.
 
-If you succeed with style, gain two free invokes, revealing it if unknown.
+* **Se ottieni un successo con stile**; ottieni due invocazioni gratuite sull'aspetto, rivelandolo se era sconosciuto.
 
-Ethan is face-to-something with a shoggoth, a massive and tireless fleshy beast. He knows it’s too powerful to attack directly, so he decides his best bet is to distract it: “I’d like to make a Molotov cocktail and set this thing on fire!” he announces.
+Etan si trova faccia a qualcosa con uno shoggoth, un'enorme bestia carnosa e senza instancabile. Sa che è troppo potente per un attacco diretto, quindi decide che la sua possibilità migliore è di distrarlo: "Vorrei creare una molotov per dar fuoco a questa bestia!” annuncia.
 
-The GM decides that actually hitting the shoggoth is trivial, so this is a Crafts roll—how quickly can he find and weaponize something flammable? The difficulty is set at Good (+3). Ethan has Average (+1) Crafts but rolls [0][+][+][+], giving a Great (+4) effort.
+Il GM decide che colpire la bestia sia effettivamente triviale, per cui decide che si tratti di un tiro di Artigianato: quanto velocemente potrà trovare qualcosa di infiammabile e renderlo un'arma? La difficoltà viene impostata a Buono (+3). Etan ha Artigianato a Medio (+1) ma tira [0][+][+][+], per uno sforzo Ottimo (+4).
 
-Ethan cobbles together the Molotov and tosses it at the beast. The shoggoth is now On Fire, and Ethan has one free invoke on that aspect. The shoggoth is definitely distracted, and if it does try to chase him, Ethan can use that invoke to help himself get away.
+Etan assembla la molotov e la lancia alla bestia. Lo shoggoth ora è ***A fuoco***, ed Etan ha un'invocazione gratuita su quell'aspetto. Lo shoggoth è chiaramente distratto, e se provasse a inseguire Etan, egli potrebbe utilizzare quell'invocazione gratuita per autarsi a fuggire.
 
 Attack
 Attack to harm the enemy.
