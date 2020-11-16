@@ -101,30 +101,33 @@ Una tentazione a decisione è qualcosa di interno, in cui i difetti o i valori i
 In entrabi i casi, la complicazione che ne risulta è la chiave! Senza complicazione, non esiste tentazione.
 
 #### Invocazioni ostili o tentazioni?
-Don’t confuse hostile invocations and compels! Though they are similar—they are ways to give a character an immediate problem in exchange for a fate point—they work differently.
 
-A compel creates a narrative change. The decision to compel a character’s aspect isn’t something that happens in-universe; rather, it’s the GM or player proposing a change to the story. The effect can be broad, but the target gets the fate point immediately if they accept the compel, and may choose to refuse the compel.
+Non confindete le invocazioni ostili con le tentazioni! Sebbene siano simili, in quanto modi di fornire al personaggio un problema immediato in cambio di un punto fato, in realtà funzionano diversamente.
 
-A hostile invocation is a mechanical effect. The target doesn’t get a chance to refuse the invocation—but as with any invocation, you will need to explain how that aspect makes sense to invoke. And while they do get a fate point, they don’t get to use it in the current scene. However, the ultimate result is much more constrained: a +2 bonus or one reroll of the dice.
+Una tentazione crea un cambiamento narrativo. La decisione di tentare l'aspetto di un personaggio non è qualcosa che succede narrativamente. Si tratta piuttosto del GM o di un gocatore che propone un cambiamento della storia. L'effetto può essere ampio, ma la vittima ottiene il punto fato immediatamente nel caso accetti la tentazione, e può scegliere di rifiutarla.
 
-Compels let you, as a player or GM, change what a scene is about. They throw a wrench in the narrative. Using them against an opponent is a risky proposition—they might refuse, or accomplish their objective despite the complication thanks to the shiny new fate point you handed them.
+Un'invocazione ostile è un effetto meccanico. La vittima non ha la possibilità di difutare l'invocazione, ma come per ogni invocazione devi spiegare come e perché ha senso invocare l'aspetto. Sebbene ottenga il punto fato, la vittima non può utilizzarlo durante la scena attuale. Comunque, il risultato ultimo è molto più ristretto: un bonus di +2 o la possibilità di ritirare i dadi.
 
-Hostile invocations help you in the current moment. In addition to your own aspects, you have your opponent’s aspects available to invoke, giving you more options and making scenes more dynamic and connected.
+Le tentazioni ti permettono, come giocatore o come GM, di modificare ciò di cui parla la scena. Mettono i bastoni tra le ruote della narrazione. Utilizzarle contro un avversario è una prospettiva rischiosa: può rifutare, o riuscire nel proprio obiettivo nonostante la complicazione grazie al nuovo e brillante punto fato che gli hai fornito.
 
-## How Can I Add and Remove Aspects?
-You can create or discover a situation aspect using the create an advantage action (page XX). You may also create boosts that way, or as a result of a tie or success with style when you overcome an obstacle, attack, or defend.
+Le invocazioni ostili ti aiutano nel momento attuale. Oltre ai tuoi aspetti, hai a disposizione per le invocazioni anche gli aspetti del tuo avversario, fornendoti altre opzioni e rendendo la scena più dinamica e connessa.
 
-You can remove an aspect provided you can think of a way your character could do so—blast the Raging Fire with a fire extinguisher, use evasive maneuvers to escape the pursuing guard that’s On Your Tail. Depending on the situation, that might require an overcome action (page XX); in this case, an opponent could use a defend action to try to preserve the aspect, if they can describe how they do so.
+## Come aggiungo o rimuovo gli aspetti?
 
-However, if there’s no narrative block to removing an aspect, you can simply do so. If you’re All Tied Up and then a friend unties you, the aspect goes away. If there’s nothing stopping you, there’s no need to roll.
+Puoi cerare o scoprire un aspetto di situazione utilizzando l'azione _Creare un vantaggio_. Puoi anche creare benefici, in questo modo o come risultato di un successo con stile quando utilizzi _Superare un ostacolo_, _Attaccare_ o _Difendere_.
 
-## Other Kinds of Aspects
-We’ve covered the standard aspect types on page XX. These additional types are optional, but may add value to your game. To some extent these are variants on character aspects (if you expand your notion of what counts as a character) and situation aspects (if you change your notion of how long those last).
+Puoi rimuovere un aspetto a condizione che tu possa pensare a un modo in cui il tuo personaggio possa farlo: affogare un ***Fuoco impetuoso*** con un estintore, utilizzare manovre evasive per fusggire alla guarda inseguitrice che è ***Sulle tue tracce***. A seconda della sizuazione, potresti dover eseguire un'azione di _Superare un ostacolo_; in questo caso, uin avversario potrebbe utilizzare un'azione di _Difendere_ per tentare di preservare l'aspetto, se può descrivere come lo fa.
 
-Organization aspects: Sometimes you might be dealing with a whole organization that operates under a certain set of principles. Consider giving the organization aspects which any member of it can access as if it were their own.
+Comunque, se non c'è alcun impedimento narrativo aalla rimozione dell'aspetto, puoi semplicemente farlo. Se ti trovi ***Completamente legato*** e un amico di slega, l'aspetto svanisce. Se nulla ti ferma, non c'è bisogno di tirare.
 
-Scenario aspects: Sometimes a particular plot might introduce a new “trope” that shows up time and again in the storyline. Consider defining this as an aspect which is available to all characters in the story until that part of the story concludes.
+## Altri tipi di aspetti
 
-Setting aspects: Like a scenario aspect, the setting of your campaign itself may have recurring themes. Unlike a scenario aspect, these aspects don’t go away.
+Abbiamo parlato dei tipi di aspetti di base. Queste tipologie aggiuntive sono opzionali, ma possono aggiungere valore alla tua partita. In una certa misura sono variazioni degli aspetti del personaggio (se si amplia il concetto di cosa sia un personaggio) e degli aspetti di situazione (se si cambia il concetto di durata di questi ultimi).
 
-Zone aspects: You can attach situation aspects to a particular place on the map represented by a zone (page XX). This can add extra dynamism to your group’s interactions with the map. A GM can encourage this by making an “up for grabs” free invoke available on a zone aspect at the start of the scene, drawing characters (player and non-player alike) to leverage that aspect as part of their early strategy.
+**Aspetti di orgnanizzazione**: A volte potresti avere a che fare con un'intera organizzazione che opera secondo alcuni principi. Considera l'opportunità di fornire all'organizzazione degli aspetti cui qualsiasi suo membro può accedere come fossero suoi.
+
+**Aspetti di scenario**: A volte una certa trama introduce un ""tropo" che salta fuori di tanto in tanto lungo la linea narrativa. Condicera l'opportunità di definirlo come aspetto disponibile a tutti i personaggi finché quella parte di storia non si conclude.
+
+**Aspetti di ambientazione**: Come per gli aspetti di scenario, l'ambientazione stessa della tua partita potrebbe prevedere temi ricorrenti. Diversamente dagli aspetti di scenatio, questi aspetti non se ne vanno.
+
+**Aspetti di zona**: Puoi assegnare aspetti di situazione a luoghi particolari sulla mappa, rappresentati da zone. Questo può rendere ulteriomente dinamiche le interazioni del tuo gruppo con la mappa. Un GM può incoraggiare queste interazioni agigungendo un'invocazione gratuita "pronta per essere presa" su un aspetto di zona all'inizio della scena, attirando l'attenzione dei personaggi (PG e PNG allo stesso modo) per far leva su quell'aspetto come parte della loro strategia.
