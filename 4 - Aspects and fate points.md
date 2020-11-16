@@ -1,8 +1,10 @@
-Aspects and Fate Points
-An aspect is a word or phrase that describes something special about a person, place, thing, situation, or group. Almost anything you can think of can have aspects. A person might have a reputation as the Greatest Sharpshooter in the Wasteland (see below for more about these kinds of aspects). A room might be On Fire after you knock over an oil lamp. After an encounter with a monster, you might be Terrified. Aspects let you change the story in ways that go along with your character’s tendencies, skills, or problems.
+# Aspetti e punti fato
 
-Aspects Are Always True
-You can invoke aspects for a bonus to a roll (page XX) and compel them to create a complication (page XX). But even when those aren’t in play, aspects still affect the narrative. When you have that flesh-wrapped monstrosity Pinned in a Hydraulic Press, that is true. It can’t do much stuck in there, and it’s not getting out easy.
+Un **aspetto** è una parola o una frase che descrive qualcosa di speciale su una persona, un luogo, una cosa, una situazione o un gruppo di persone. Qualsiasi cosa tu possa pensare può avere degli aspetti. Una persona potrebbe avere una reputazione come ***Il più grande tiratore scelto delle Terre Desolate*** (si veda più sotto per i tipi di aspetti). Una stanza potrebbe andare ***A fuoco*** dopo che hai rovesciato una lampada a olio. Dopo l'incontro con un mostro, potresti essere rimasto ***Terrorizzato***. Gli Aspetti ti permettono di modificare la storia in modi che abbiano a che fare con le tendenze, le abilità e i problemi del tuo personaggio.
+
+## Gli aspetti sono sempre veri
+
+Puoi invocare gli aspetti per un bonus o per ritirare e puoi tentarli per creare una complicazione. Ma anche senza chiamare in campo queste meccaniche, gli aspetti influenzano comunque la narrazione. Quando hai ***Immobilizzato in una pressa idraulica*** quella mostruosità confezionata di carne, allora è vero. Non potrà fare molto incastrata lì, e non ne uscirà facilmente.
 
 In essence, “aspects are always true” means that aspects can grant or withdraw permission for what can happen in the story (they can also affect difficulty: see page XX). If the aforementioned monstrosity is Pinned, the GM (and everyone else) has to respect that. The creature has lost permission to move until something happens which removes that aspect, either a successful overcome (which itself might require a justifying aspect like Superhuman Strength) or someone foolishly reversing the press. Similarly, if you have Cybernetically Enhanced Legs, you’ve arguably gained permission to leap over walls in a single bound without even having to roll for it.
 
