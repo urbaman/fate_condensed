@@ -6,15 +6,15 @@ Molte volte riuscirete a risolvere un'azione con un solo tiro di dadi: riusciret
 
 **Una competizione è una situazione nella quale due o più gruppi perseguono obiettivi mutualmente esclusivi, ma senza danneggiarsi l'un l'altro**. Le competizioni sono perfette per gli inseguimenti, per i dibattiti e per le corse di ogni tipo (e solo perché non tentano di danneggiarsi attivamente l'un l'altro non vuo dire che i danni non possano cadergli addosso!)
 
-**Un conflitto è quando i personaggi possono e vogliono danneggiarsi l'iun l'altro**. Lotta nel fango con un cultista con i coltelli che affondano nelle pance, crivellare di proiettili un nugolo di ghoul mentre i loro artigli vi scorticano le carni e uno scambio di frecciatine feroci col vostro rivale sotto l'occhio vigile della regina: questi sono tutti conflitti.
+**Un conflitto è una situazione nella quale i personaggi possono e vogliono danneggiarsi l'un l'altro**. Lotta nel fango con un cultista con i coltelli che affondano nelle pance, crivellare di proiettili un nugolo di ghoul mentre i loro artigli vi scorticano le carni e uno scambio di frecciatine feroci col vostro rivale sotto l'occhio vigile della regina: questi sono tutti conflitti.
 
 ## Impostare la scena
 
-Regardless of the type of scene, the GM will start by setting the essential pieces into place, so that the players know what resources are available and what complications are in play.
+Qualsiasi sia il tipo di scena, il GM comincerà impostando gli elementi essenziali affinché i giocatori sappiano quali risorse hanno a disposizione e quali complicazioni sono in gioco.
 
-Zones
+### Zone
 
-Zones are a representation of the physical space—a quick map broken into a few discrete sections. A conflict in a remote farmhouse might have four zones: the first floor, second floor, front yard, and back woods. Two to four zones are sufficient to handle most conflicts. Large or complicated scenes may require more. Try to keep your zone map to a simple sketch, something that fits on a note card or can be quickly drawn on a whiteboard.
+Le **zone** sono una rappresentazione dello spazio fisico, una veloce mappa divisa in alcune sezioni discrete. Un conflitto in una remota fattoria potrebbe avere quattro zone: il primo piano, il secondo piano, il giardino frontale e il bosco sul retro. Da due a quattro zone sono sufficienti a gestire la maggior parte dei conflitti, ma scene più ampie e complicate possono necessitare di più zone. Cercate di mantenere la vostra mappa delle zone a livello di schizzo, qualcosa che possa adattarsi a un biglietto o che possa velocemente essere disegnata su una lavagna.
 
 Zones help guide the story by shaping what is possible. Who you can attack and where you can move depend on the zone you’re in.
 
