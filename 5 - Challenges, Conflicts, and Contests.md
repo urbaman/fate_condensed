@@ -12,7 +12,7 @@ Molte volte riuscirete a risolvere un'azione con un solo tiro di dadi: riusciret
 
 Qualsiasi sia il tipo di scena, il GM comincerà impostando gli elementi essenziali affinché i giocatori sappiano quali risorse hanno a disposizione e quali complicazioni sono in gioco.
 
-### Zones
+### Zone
 
 Le **zone** sono una rappresentazione dello spazio fisico, una veloce mappa divisa in alcune sezioni discrete. Un conflitto in una remota fattoria potrebbe avere quattro zone: il primo piano, il secondo piano, il giardino frontale e il bosco sul retro. Da due a quattro zone sono sufficienti a gestire la maggior parte dei conflitti, ma scene più ampie e complicate possono necessitare di più zone. Cercate di mantenere la vostra mappa delle zone a livello di schizzo, qualcosa che possa adattarsi a un biglietto o che possa velocemente essere disegnata su una lavagna.
 
