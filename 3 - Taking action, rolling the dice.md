@@ -147,7 +147,7 @@ Ongi personaggio affornterà sfide indicibili nel costo della storia. L'azione d
 
 Un personaggio con una buona Atletica può scalare oltre i muri o correre attraverso strade affollate. Un investigatore con un'alta Investigazione può mettere insieme gli indizi che altri non hanno notato. Qualcuno capace nell'influenzare puà trovare facile evitare un combattimento in un locale ostile.
 
-I tuoi risultati quando superi un ostacolo sono:
+I tuoi risultati quando esegui un *Superare un ostacolo* sono:
 
 * **Se ottieni un fallimento**, discuti col GM (e col giocatore in difesa, se c'è) se sia un fallimento o un successo con un costo maggiore.
 
@@ -171,7 +171,7 @@ Un aspetto creato (o scoperto) tramite l'azione di *Creare un vantaggio* funzion
 
 Quando tiri per *Creare un vantaggio*, specifica se stai creando un aspettonuovo o se ti stai avvantaggiando di uno già presente. Nel primo caso, stai appiccicando l'aspetto a un alleato, a un avversario o all'ambiente? Se lo stai appiccicando a un avversario, può utilizzare l'azione *Difendere* per opporsi al tuo tentativo. Altrimenti affronterai normalmente una difficoltà, ma il GM può decidere se qualcosa o qualcuno cerca invece di opporsi ai tuoi tentativi con un tiro di *Difendere*.
 
-I tuoi risultati quando crei un nuovo aspetto sono:
+I tuoi risultati quando esegui un *Creare un vantaggio* per un nuovo aspetto sono:
 
 * **Se ottieni un fallimento**, o non crei l'aspetto (fallimento) o lo crei ma l'avversario ne otttiene l'invocazione gratuita (successo con un costo). Se hai successo con un costo, l'aspetto finale potrebbe dover essere riscritto per beneficiare l'avversario. Potrebbe comunque valerne la pena perché gli aspetti sono veri.
 
@@ -197,52 +197,55 @@ Il GM decide che colpire la bestia sia effettivamente triviale, per cui decide c
 
 Etan assembla la molotov e la lancia alla bestia. Lo shoggoth ora è ***A fuoco***, ed Etan ha un'invocazione gratuita su quell'aspetto. Lo shoggoth è chiaramente distratto, e se provasse a inseguire Etan, egli potrebbe utilizzare quell'invocazione gratuita per autarsi a fuggire.
 
-Attack
-Attack to harm the enemy.
+### Attaccare
 
-The attack action is how you try to take out an opponent—whether you’re looking to kill a loathsome monster, or knock out an innocent guard who doesn’t know the truth about what he’s guarding. An attack can be unloading with a machine gun, throwing a solid punch, or casting a baleful spell.
+*Attaccare* per danneggiare l'avversario.
 
-Keep in mind whether or not harming your target is even possible. Not every attack is equal. You can’t just punch a kaiju and hope to hurt it. Determine whether the attack even has a chance of being successful before you start rolling the dice. A number of powerful beings may have specific weaknesses that need to be exploited, or some means of defense you must get through before you can even begin to hurt them.
+L'azione di attaccare rappresenta il modo in cui tenti di mettere fuori combattimento un avversario, che tu stia cercando di uccidere un odioso mostro o di stordire una guardia innocente che non conosce la verità su ciò che sta proteggendo. Un attacco può essere lo scaricare un mitragliatore, tirare un buon pugno o lanciare un incantesimo nefasto.
 
-Your outcomes when attacking are:
+considera sempre il fatto che il tuo bersaglio sia effettivamente colpibile. Non tutti gli attacchi sono uguali. Non puoi prendere a pugni un kaiju sperando di ferirlo. Stabilite se l'attacco ha una possibiità di avere successo ancora prima di tirare i dadi. Alcuni esseri molto potenti potrebbero possedere debilezze da sfruttare, oppure sistemi di difesa che dovrete superare prima di potergli arrecare danno.
 
-If you fail, you fail to connect—the attack is parried, dodged, or maybe just absorbed by armor.
+I tuoi risultati quando attacchi sono:
 
-If you tie, maybe you barely connect, maybe you cause the defender to flinch. Either way, you get a boost (page XX).
+* **Se ottieni un fallimento**, fallisci a colpire: l'attacco è parato, evitato o forse solo assorbito dall'armatura.
 
-If you succeed, you deal a hit equal to the difference between your attack’s total and the defense’s effort. The defender must absorb this hit with stress or consequences, or else be taken out (page XX).
+* **Se ottieni un pareggio**, forse hai colpito appena, forse obblichi l'avversario a indietreggiare. In ogni caso, ottieni un beneficio.
 
-If you succeed with style, you deal a hit just like a success, but you may reduce the shifts of the hit by one to get a boost.
+* **Se ottieni un successo**, infliggi un colpo uguale alla differenza tra il totale del tuo attacco e lo sforzo del difensore. Il difensore deve assorbire questo colpo con lo stress o le conseguenze, o essere messo fuori combattimento.
 
-Ruth has stumbled across a corpse raised by arcane powers to fulfill some dark purpose. She decides to punch it. She has Great (+4) Fight but rolls [-][-][0][0], giving a Fair (+2) effort.
+* **Se ottieni un successo con stile**, infliggi un colpo come nel caso di successo, ma puoi ridurre i livelli di successo del colpo per ottenere un beneficio.
 
-Defend
-Defend to survive an attack or interfere with a foe’s action.
+Rut è incappata in un cadavere resuscitato da poteri arcani per completare qualche oscuro fine. Decide di colpirlo con un pugno. Ha Combattere di valore Ottimo (+4), ma tira [-][-][0][0], fornendo uno sforzo Discreto (+2).
 
-Is a monster trying to eat your face? Is a foe pushing you out of the way as they flee your wrath? What about when that cultist tries to stab you in both kidneys? Defend, defend, defend.
+### Defendere
 
-Defend is the only reactive action in Fate Condensed. You use it to stop something from happening outside your turn, so you’re often facing an opposing roll rather than a set difficulty. Your enemy rolls, and you immediately roll to defend, so long as you’re the target or can justify your opposition (which often makes you the target). Aspects or stunts may provide justification.
+*Difendere* per sopravvivere a un attacco, fermare un avversario dal creare un vantaggio oppure per opporti a un tentativo di superare un ostacolo.
 
-Your outcomes when defending are:
+Un mostro sta cercando di mangiarti la faccia? Un avversario ti spinge via mentre fugge la tua ira? E quando quel cultista tenta di accoltellarti in entrambi i reni? Difendere, difendere, difendere.
 
-If you fail against an attack, you take a hit, which you must absorb with stress (page XX) or consequences (page XX). Regardless, the enemy succeeds as described for their action.
+Difendere è l'unica azione reativa in ___Fate Condensed___. La utilizzi per impedire che succeda qualcosa fuori dal tuo turno, quindi affronterai spesso il tiro di un avversario piuttosto che una difficoltà- Il tuo avversario tira, e tu tiri immediatamente per difenderti, sempre che tu sia la vittima o il bersaglio o possa giustiuficare il tuo opporti (che spesso ti rende il bersagio). Aspetti o talenti possono fornire la necessaria giustificazione.
 
-If you tie, proceed according to the tie result for the opposed action.
+I tuoi risultati quando ti difendi sono:
 
-If you succeed, you don’t take a hit or you deny the enemy’s action.
+* **Se ottieni un fallimento**, subisci un colpo, che dovrai assorbire con stress o conseguenze. In ogni caso, l'avversario ha successo nella sua azione come descritta.
 
-If you succeed with style, you don’t take a hit, you deny the enemy’s action, and you even get a boost as you gain the upper hand for a moment.
+* **Se ottieni un pareggio**, procedi col risultato di pareggio dell'azione opposta.
 
-Continuing from the previous example, the corpse gets to defend itself against Ruth. The GM rolls [-][0][0][+], which doesn’t change the creature’s Mediocre (+0) Athletics.
+* **Se ottieni un successo**, non subisci un colpo o neghji l'azione avversaria.
 
-Because Ruth’s effort was higher, her attack succeeds by two shifts, and the corpse is a little closer to being down for good. Had the corpse rolled better, then its defense would have succeeded, and the undead monstrosity would have avoided taking a hit.
+* **Se ottieni un success con stile**, non subisci il colpo, neghi l'azione dell'avversario e ottieni anche un beneficio perch* prendi il sopravvento per in istante.
 
-Which skills can be used to attack and defend?
-The default list of skills follows these guidelines:
+Continuan do con l'esempio precedente, il cadavere può difendersi da Rut. Il GM tira [-][0][0][+], che non modifica il valore di Atletica Mediocre (+0) dell acreatura.
 
-Fight and Shoot can be used to make physical attacks.
-Athletics can be used to defend against any physical attack.
-Fight can be used to defend against melee physical attacks.
-Provoke can be used to make a mental attack.
-Will can be used to defend against mental attacks.
-Other skills may gain permission to attack or defend under special circumstances, as determined by the GM or table consensus. Some stunts may grant broader, guaranteed permission when circumstances might otherwise not do so. When a skill can’t be used to attack or defend but might help with it, prepare for it by using that skill with the create an advantage action, and use the free invokes generated on your next attack or defend roll.
+Poiché lo sforzo di Rut è maggiore, il suo attacco riesce di due livelli di successo, e il cadavere è molto vicino ad essere messo fuori combattimento. Se il cadavere avesse tirato meglio, allora la difesa avrebbe avuto successo e la mostruosità nonmorta avrebbe evitato di essere colpita.
+
+### Quali abilità possono essere utilizzare per _Attaccare_ e _Difendere_?
+
+L'elendo base di abilità segue queste linee guida:
+
+Combattere e Sparare possono esserre utilizzate per eseguire attacchi fisici.
+Atletica può essere utilizzata per difendersi da attacchi fisici.
+Combattere può essrre utilizzata per difendersi da attacchi fisici in mischia.
+Provocare può essere utilizzata per eseguire attacchi mentali.
+Volontà può essere utilizzata per difendersi da attacchi mentali.
+Le altre abilità possono ottenere i permesso per attaccare o difendere in circostanze particolari, come determinato dal GM e dal tavolo. Alcuni talenti pososno fornire permessi pi ampi e garantiti quando le circostanze non lo permetterebbero. Quando un'abilità non può essere utilizzata per attaccare o difendere ma può aiutare nel farlo, utilizzala preparandoti tramite il _Creare un vantaggio_, e utilizzane le invocazioni gratuite generate nel prossimo tiro di attaccare o difendere.
