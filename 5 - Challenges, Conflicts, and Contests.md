@@ -2,11 +2,13 @@
 
 Molte volte riuscirete a risolvere un'azione con un solo tiro di dadi: riuscirete a scassinare la cassaforte, a evitare la sicurezza o a convincere il giornalista a consegnarvi i suoi appunti? Altre volte affronterete situazioni prolungate che richiedono molti tiri per essere risolte. In questi casi, proponiamo tre sistemi di risoluzione: **sfide**, **competizioni** e **conflitti**. Ognuna funziona un po' diversamente, a seconda dell'obiettivo della situazione e dell'opposizione incontrata.
 
-**Una sfida è una situazione complicata o dinamica**. You’ll be opposed by someone or something, but there isn’t a dominant “other side.” This is how you might play out a researcher looking for clues in an ancient tome, the party negotiator distracting the librarian, and the bruiser holding back untold horrors from entering the library all at the same time.
-A contest is a situation where two or more parties are pursuing mutually exclusive goals, but not actively harming one another. Contests are perfect for chases, debates, and races of all sorts. (And just because the parties are not trying to harm each other doesn’t mean that harm can’t befall them!)
-A conflict is when characters can and want to harm one another. Wrestling in the mud with a cultist as knives stab at bellies, riddling a swarm of ghouls with bullets as their claws rake at your flesh, and an exchange of vicious barbs with your rival under the watchful eye of the queen—these are all conflicts.
+**Una sfida è una situazione complicata o dinamica**. Troverete sempre l'opposizione di qualcuno o qualcosa, ma non c'è "un'altra parte" dominante. Può essere il caso di un ricercatore che cerca indizi in un antico tomo, col negoziatore del gruppo che distrae il bibliotecario e il picchiatore che tiene fuori dalla biblioteca orrori indicibili, tutto nello stesso momento.
 
-Setting Up Scenes
+**Una competizione è una situazione nella quale due o più gruppi perseguono obiettivi mutualmente esclusivi, ma senza danneggiarsi l'un l'altro**. Le competizioni sono perfette per gli inseguimenti, per i dibattiti e per le corse di ogni tipo (e solo perché non tentano di danneggiarsi attivamente l'un l'altro non vuo dire che i danni non possano cadergli addosso!)
+
+**Un conflitto è quando i personaggi possono e vogliono danneggiarsi l'iun l'altro**. Lotta nel fango con un cultista con i coltelli che affondano nelle pance, crivellare di proiettili un nugolo di ghoul mentre i loro artigli vi scorticano le carni e uno scambio di frecciatine feroci col vostro rivale sotto l'occhio vigile della regina: questi sono tutti conflitti.
+
+## Impostare la scena
 
 Regardless of the type of scene, the GM will start by setting the essential pieces into place, so that the players know what resources are available and what complications are in play.
 
@@ -60,7 +62,7 @@ Cassandra and Ruth have stumbled across a small group of cultists, led by an aco
 
 Unfortunately, now that all the PCs in the scene have acted, Ruth has no choice but to pick one of the cultists to go next. She chooses the masked acolyte. The GM smiles, because they know that once the acolyte acts, she can have the cultists act until the end of the round, at which point they can choose the masked acolyte to start the next exchange. The PCs may have gotten a good first hit in, but now the cultists get to fight back.
 
-This method of determining turn order goes by several names in online discussion: elective action order, and “popcorn,” “handoff,” or “Balsera Style” initiative, the last one named after Fate Core author Leonard Balsera, who planted the seed of the idea. You can learn more about this method and its strategies at https://www.deadlyfredly.com/2012/02/marvel/
+This method of determining turn order goes by several names in online discussion: elective action order, and “popcorn,” “handoff,” or “Balsera Style” initiative, the last one named after Fate Core author Leonard Balsera, who planted the seed of the idea. [You can learn more about this method and its strategies](https://www.deadlyfredly.com/2012/02/marvel/).
 
 Teamwork
 
