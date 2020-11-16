@@ -92,7 +92,7 @@ Per altre idee su come funziona o non fnziona una tentazione, [rimandiamo alla d
 
 #### Eventi e decisioni
 
-Esistono due tipi di tentazioni: eventi e decisioni.
+Esistono due tipi di tentazioni: **eventi** e **decisioni**.
 
 Una tentazione a evento è qualcosa che succede a un personaggio a causa di una forza esterna. La forza esterna è in qualche modo connessa con l'aspetto, provocando una sfortunata complicazione.
 
