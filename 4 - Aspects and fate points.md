@@ -111,14 +111,14 @@ Compels let you, as a player or GM, change what a scene is about. They throw a w
 
 Hostile invocations help you in the current moment. In addition to your own aspects, you have your opponent’s aspects available to invoke, giving you more options and making scenes more dynamic and connected.
 
-How Can I Add and Remove Aspects?
+## How Can I Add and Remove Aspects?
 You can create or discover a situation aspect using the create an advantage action (page XX). You may also create boosts that way, or as a result of a tie or success with style when you overcome an obstacle, attack, or defend.
 
 You can remove an aspect provided you can think of a way your character could do so—blast the Raging Fire with a fire extinguisher, use evasive maneuvers to escape the pursuing guard that’s On Your Tail. Depending on the situation, that might require an overcome action (page XX); in this case, an opponent could use a defend action to try to preserve the aspect, if they can describe how they do so.
 
 However, if there’s no narrative block to removing an aspect, you can simply do so. If you’re All Tied Up and then a friend unties you, the aspect goes away. If there’s nothing stopping you, there’s no need to roll.
 
-Other Kinds of Aspects
+## Other Kinds of Aspects
 We’ve covered the standard aspect types on page XX. These additional types are optional, but may add value to your game. To some extent these are variants on character aspects (if you expand your notion of what counts as a character) and situation aspects (if you change your notion of how long those last).
 
 Organization aspects: Sometimes you might be dealing with a whole organization that operates under a certain set of principles. Consider giving the organization aspects which any member of it can access as if it were their own.
