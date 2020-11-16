@@ -12,7 +12,7 @@ Questo non significa che puoi creare qualsiasi aspetto e utilizzarne le verità 
 
 Sicuramente potresti utilizzare l'azione di _Creare un vantaggio_ per infliggere l'aspetto ***Smebrato*** su quel super-soldato fungino, ma sicuramente questo pesta i piedi all'azione _Attaccare_, e d'altra parte ci vuole qualcosa più di questo per staccargli un braccio (potrebbe funzionare come conseguenza, però). Potresti dire di essere ***Il migliore del mondo***, ma dovrai supportarlo con le tue abilità. E per quanto tu voglia essere ***A prova di proiettile***, rimuovendo il permesso per qualcuno di colpirti con piccole armi da fuoco, è improbabile che possa funzionare se la paretita non prevede degli aspetti come superpoteri.
 
-## What Kinds of Aspects Are There?
+## Che tipo di aspetti ci sono?
 
 Esiste un'infinita varietà di aspetti, ma in qualsiasi modo vengano chiamati, funzinano tutti praticamente allo stesso modo. La differenza è per quanto a lungo rimangono in gioco prima di svanire.
 
