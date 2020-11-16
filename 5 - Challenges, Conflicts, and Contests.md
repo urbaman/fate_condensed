@@ -6,7 +6,7 @@ Molte volte riuscirete a risolvere un'azione con un solo tiro di dadi: riusciret
 
 **Una competizione è una situazione nella quale due o più gruppi perseguono obiettivi mutualmente esclusivi, ma senza danneggiarsi l'un l'altro**. Le competizioni sono perfette per gli inseguimenti, per i dibattiti e per le corse di ogni tipo (e solo perché non tentano di danneggiarsi attivamente l'un l'altro non vuo dire che i danni non possano cadergli addosso!)
 
-**Un conflitto è quando i personaggi possono e vogliono danneggiarsi l'iun l'altro**. Lotta nel fango con un cultista con i coltelli che affondano nelle pance, crivellare di proiettili un nugolo di ghoul mentre i loro artigli vi scorticano le carni e uno scambio di frecciatine feroci col vostro rivale sotto l'occhio vigile della regina: questi sono tutti conflitti.
+**Un conflitto è una situazione nella quale i personaggi possono e vogliono danneggiarsi l'un l'altro**. Lotta nel fango con un cultista con i coltelli che affondano nelle pance, crivellare di proiettili un nugolo di ghoul mentre i loro artigli vi scorticano le carni e uno scambio di frecciatine feroci col vostro rivale sotto l'occhio vigile della regina: questi sono tutti conflitti.
 
 ## Impostare la scena
 
