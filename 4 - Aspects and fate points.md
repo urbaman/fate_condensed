@@ -42,7 +42,7 @@ Un beneficio è un tipo speciale di aspetto, che raprpesenta una situazione estr
 
 ## Cosa posso fare con gli aspetti?
 
-### Aquisire punti fato
+### Ottenere punti fato
 
 Un nmodo a tua disposizione per ottenere punti fato è permettere che gli aspetti del tuo personaggio siano **tentati** contro di te per complicare la situazione o renderti la vita più difficile. Puoi ottenere un punto fato anche come pagamento se qualcuno utilizza un tuo aspetto contro di te con un'invocazione ostile o quando concedi.
 
