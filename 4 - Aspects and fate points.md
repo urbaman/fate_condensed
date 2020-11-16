@@ -16,78 +16,91 @@ Sicuramente potresti utilizzare l'azione di _Creare un vantaggio_ per infliggere
 
 Esiste un'infinita varietà di aspetti, ma in qualsiasi modo vengano chiamati, funzinano tutti praticamente allo stesso modo. La differenza è per quanto a lungo rimangono in gioco prima di svanire.
 
-Character Aspects
-These aspects are on your character sheet, such as your high concept and trouble. They describe personality traits, important details about your past, relationships you have with others, important items or titles you possess, problems you’re dealing with or goals you’re working toward, or reputations and obligations you carry. These aspects primarily change during milestones (page XX).
+### Aspetti del personaggio
 
-Examples: Leader of My Band of Survivors; Attention to Detail; I Must Protect My Brother
+Quasti aspetti si trovano sulla tua scheda del personaggio, per esempio il condetto base e il problema. Essi descrivono tratti della personalità, dettagli importanti del passato, relazioni che hai con altri, oggetti importanti o titoli che possiedi, problemi che stai affrontando, obiettivi verso cui ti adoperi o reputazioni e obblighi che ti porti appresso. Questi aspetti cambiano principalmente duranrte i traguardi.
 
-Situation Aspects
-These aspects describe the surroundings or scenario where the action is taking place. A situation aspect usually vanishes at the end of the scene it was part of, or when someone takes some action that would change or get rid of it. Essentially, they last only as long as the situation they represent lasts.
+**Esempi**: ***Capo della mia banda di supravvissuti***; ***Attenzione per i dettagli***; ***Devo proteggere mio fratello***
 
-Examples: On Fire; Bright Sunlight; Crowd of Angry People; Knocked to the Ground; Pursued by the Police
+### Aspetti di situazione
 
-Consequences
-These aspects represent injuries or other lasting trauma taken by absorbing a hit, often from attacks (page XX).
+Questi aspetti descrivono i dintorni o lo scenario in cui ha luogo l'azione. Un aspetto di situazione svanisce normalmente al termine della scene di cui era parte, o quando qualcuno fa qualcosa che potrebbe modificarlo o eliminarlo. Essenzialmente, durano tanto quanto la situazione che rappresentano.
 
-Examples: Sprained Ankle; Concussion; Debilitating Self-Doubt
+**Esempi**: ***A fuoco***; ***Luce del sole brillante***; ***Folla di persone arrabbiate***; ***Sbattuto a terra***; ***Inseguito dalla polizia***
 
-Boosts
-A boost is a special kind of aspect, representing an extremely temporary or minor situation. You cannot compel a boost or spend a fate point to invoke it. You may invoke it once for free, after which it vanishes. An unused boost vanishes when the advantage it represents no longer exists, which may be a few seconds or the duration of a single action. They never persist beyond the end of a scene, and you can hold off naming one until you’re using it. If you’re in control of a boost, you may pass it to an ally if there’s rationale for it.
+### Conseguenze
 
-Examples: In My Sights; Distracted; Unstable Footing
+Questi aspetti rappresentano ferite o altri traumi duraturi subiti assorbendo un colpo, spesso risultanti da attacchi.
 
-What Can I Do with Aspects?
-Earning Fate Points
-One way you can earn fate points is by letting your character’s aspects be compelled (page XX) against you to complicate the situation or make your life harder. You may also get a fate point payout if someone uses your aspect against you in a hostile invoke (page XX) or when you concede (page XX).
+**Esempi**: ***Caviglia slogata***, ***Insicurezza estenuiante***
 
-Remember, each session, you also start with fate points at least equal to your refresh. If you were compelled more than you invoked in the prior session, you’ll show up at the next one with more. See page XX for details.
+### Benefici
 
-Invokes
-To unlock the true power of aspects and make them help you, you’ll need to spend fate points to invoke them during dice rolls (page XX). Keep track of your fate points with pennies or glass beads or poker chips or some other tokens.
+Un beneficio è un tipo speciale di aspetto, che raprpesenta una situazione estremamente  temporanea o minore. Non si può tentare un beneficio o spendere punti fato per invocarlo. Puoi invocarlo una volta gratuitamente, dopo di che svanisce. Un beneficio inutilizzato svanisce quando il vantaggio che rappresenta non esiste più, che può significare alcuni secondi o la durata di una singola azione. Non durano mai oltre la durata di una scena, e puoi aspettare di dargli un nome finché non lo utilizzi. Se sei in controllo di un beneficio, puoi passarlo a un alleato se c'è un razionale dietro.
 
-You can also invoke aspects for free, _if_ you have a free invoke from you or an ally creating an advantage you can use (page XX).
+**Esempi**: ***Nel mirino***; ***Distratto***; ***Equilibrio instabile***
 
-The Ellipsis Trick
-If you want an easy way to ensure you have room to incorporate aspects into a roll, try narrating your action with an ellipsis at the end (“...”), and then finish the action with the aspect you want to invoke. Like this:
+## Cosa posso fare con gli aspetti?
 
-Ryan says, “So I’m trying to decipher the runes and...” (rolls the dice, hates the result) “...and If I Haven’t Been There, I’ve Read About It...” (spends a fate point) “...so I easily start rambling about their origin.”
+### Aquisire punti fato
 
-Hostile Invocations
-Most of the time an aspect is invoked, it’s a character aspect or a situation aspect. Sometimes you’ll invoke enemies’ character aspects against them. This is called a hostile invocation, and it works just like invoking any other aspect—pay a fate point and get a +2 to your roll or reroll the dice. There’s one small difference—when you make a hostile invocation, you give the fate point to the enemy. But they don’t get to use the fate point until after the scene is over. This payout only applies when a fate point is actually spent on a hostile invocation. Free invokes do not trigger a payout.
+Un nmodo a tua disposizione per ottenere punti fato è permettere che gli aspetti del tuo personaggio siano **tentati** contro di te per complicare la situazione o renderti la vita più difficile. Puoi ottenere un punto fato anche come pagamento se qualcuno utilizza un tuo aspetto contro di te con un'invocazione ostile o quando concedi.
 
-Invoking to Declare Story Details
-You may add an important or unlikely detail to the story based on an aspect in play. Don’t spend a fate point when “aspects are always true” (page 22) applies. Pay when it’s a stretch—or, table willing, when there’s no relevant aspect.
+Ricorda: cominci ogni sessione con un numeto di punti fato almeno uguale al tuo punteggio di **recupero**. Se durante la sessione precedente sei stato tentato più volte di quanto tu abbia invocato, ti presenterai alla prossima con con più punti fato.
 
-Compels
-Aspects can be compelled to complicate the situation and earn fate points. To compel an aspect, the GM or a player offers a fate point to the player whose character is being compelled, and tells them why an aspect is making things more difficult or complicated. If you refuse the compel, you must spend a fate point from your own supply and describe how your character avoids the complication. Yes, this means that if you don’t have any fate points, you can’t refuse a compel!
+### Invocazioni
 
-Any aspect can be compelled—whether it’s a character aspect, situation aspect, or consequence—but it must be something that affects the character being compelled.
+Per liberare il vero potere degli aspetti e far sì che ti aiutino, dovrai spendere **punti fato** per **invocarli** durante i tiri di dado. Tieni traccia dei tuoi punti fato con monetine, perline di vetro, fiches da poker o qualche altro tipo di segnalino.
 
-Anyone can offer a compel. The player proposing the compel must spend one of their own fate points. The GM then takes over running the compel for the affected target. The GM does not lose a fate point by offering a compel—they have a limited pool of fate points for invoking aspects, but can compel as much as they’d like.
+Puoi anche invocare aspetti gratuitamente, _se_ hai a disposizione un'invocazione gratuita proveniete da un _Creare un vantaggio_ tuo o di un tuo alleato.
 
-Compels can be retroactive. If a player finds they have roleplayed themself into a complication related to one of their aspects or a situation aspect that concerns them, they can ask the GM if that counts as a self-compel. If the group agrees, the GM slides the player a fate point.
+#### Il trucco dell'ellisse
 
-It’s okay to recognize a compel as off-the-mark and withdraw it. If the group agrees that a proposed compel wasn’t appropriate, it should be withdrawn at no cost to the compelled character.
+Se vuoi un modo semplice di assicurarti di avere spazio per incorporare aspetti in un tiro, prova a narrare la tua azione con un'ellissi alla fine ("..."), e quindi termina con l'aspetto che vuoi invocare, così:
 
-Compels Are Complications, Not Stymies
-When offering a compel, make sure that the complication is a course of action or major change in circumstance, not a denial of options.
+Ryan dice: "Allora tento di decifrare le rune e..." (tira i dadi, detesta il risultato) "... e ***Se non ci sono stato, ne ho letto a riguardo***..." (spende un punto fato) "... quindi inizio facilmente a farneticare sulle loro origini”.
 
-“Oh, you’ve got sand in your eyes, so you shoot at the creature and miss,” is not a compel. It denies action rather than complicating anything.
+#### Invocazioni ostili
 
-“You know, curse your luck, I think that the sand in your eyes means you can’t really see anything. Your shots at the shoggoth go wild, puncturing a few barrels that are now gushing gasoline toward the fire pit.” This is a much better compel. It changes the scene, ratchets up the tension, and gives the players something new to think about.
+La maggior parte delle volte che si invoca un aspetto, si tratta di un aspetto del personaggio o di un aspetto di situazione, A volte invocherai l'aspetto di un personaggio avversario contro di lui. Quasta viene chiamata **invocazione ostile**, e funziona come invocare un altro aspetto: paghi un punto fato e ottieni un +2 al tiro o ritiri i dadi. C'è una piccola differenza: **quando esegui un'invocazione ostile, fornisci il punto fato all'avversario**, che non può utilizzarlo fino al termine della scena. Il pagamento si applica solamente quando viene effettivamente speso un punto fato sull'invocazione ostile, le invocazioni gratuite non scatenano il pagamento.
 
-For some ideas about what does and doesn’t work as a compel, check out the discussion of types of compels found in Fate Core System starting on page 72 of that book, or online at: https://fate-srd.com/fate-core/invoking-compelling-aspects#types-of-compels
+#### Invocare per dichiarare dettagli di storia
 
-Events and Decisions
-There are two general kinds of compels: events and decisions.
+Puoi aggiungere dettagli importanti o improbabili alla storia in base a un aspetto che si trova in gioco. Non spendere punti fato quando si applica "gli aspetti sono sempre veri". Paga quando è un po' stiracchitaa o, col consenso del tavolo, quando non c'è un aspetto rilevante.
 
-An event compel is something that happens to a character because of an external force. That external force connects with the aspect in some way, resulting in an unfortunate complication.
+### Tentazioni
 
-A decision compel is internal, where the character’s flaws or competing values get in the way of better judgment. The aspect guides the character to make a particular choice—and the fallout of that choice creates a complication for them.
+Gli aspetti possono essere **tentati** per complicare la situazione e ottenere punti fato. Per tentare un aspetto, il GM o un giocatore offre un punto fato al giocatore il cui personaggio viene tentato, e gli dice perché un certo aspetto gli rende le cose più difficili o complicate. Se rifiuti la tentazione, devi spendere un punto fato dalla tua riserva e descrivere come il tuo personaggio evita la complicazione. Sì, questo siggnifica che se non hai punti fato, non puoi rifiutare una tentazione!
 
-In either case, a resulting complication is key! Without a complication, there is no compel.
+**Può essere tentato qualsiasi aspetto**, che sia del personaggio, di situazione o una conseguenza, ma deve essere qualcosa che influisce sul personaggio che viene tentato.
 
-Hostile Invocations or Compels?
+**Chiunque può offire una tentazione**. Il giocatore che la propone deve spendere uno dei propri punti fato. Il GM prende quindi le redini giocando la tentazione per la vittima designata. Il GM non perde un punto fato offrendo una tentazione: lui a una riserva limitata di punti fato, ma può tentare quanto vuole.
+
+**Le tentazioni possono essere retroattive**. Se uin personaggio scopre di aver interpretato il proprio personaggio infilandolo in una complicazione legata a uno dei suoi aspetti o a un aspetto di situazione che lo riguarda, può chiedere al GM se conta come **auto-tentazione**. Se il gruppo è d'accordo, il GM allunga un punto fato al giocatore.
+
+**Va benissimo riconoscere una tentazione come fuori luogo e ritirarla**. Se il gruppo è d'accordo nel ritenere che una tentazione proposta non sia appropriata, allora dovrebbe essere ritirata senza costi per il personaggio tentato.
+
+#### Le tetntazioni sono complicazioni, non ostacoli
+
+Quando offri una tentazione, assicurati che la complicazione reppresenti un corso d'azione, non una negazione di opzioni.
+
+“Oh, hai della sabbia negli occhi, quindi spari alla creatura e la manchi” non è una complicazioone. Nega l'azione piuttosto che complicare alcunché.
+
+“Sai, maledetta sfortuna, penso che la sabbia che hai negli occhi significhi che non puoi veramente vedere nulla. I tuoi colpi allo shoggoth si disperdono in giro, bucando alcuni barili che ora zampillano benzina verso il focolare." Questa è una tentazione molto migliore. Cambia la scena, aumenta la tensione, e fornisce ai giocatori qualcosa a cui pensare.
+
+Per altre idee su come funziona o non fnziona una tentazione, [rimandiamo alla discussione in _Fate Sistema Base_](https://www.fateitalia.it/capitolo-4-aspetti-e-punti-fato-tentare-gli-aspetti/).
+
+#### Eventi e decisioni
+
+Esistono due tipi di tentazioni: eventi e decisioni.
+
+Una tentazione a evento è qualcosa che succede a un personaggio a causa di una forza esterna. La forza esterna è in qualche modo connessa con l'aspetto, provocando una sfortunata complicazione.
+
+Una tentazione a decisione è qualcosa di interno, in cui i difetti o i valori in competizione del personaggio si mettono in mezzo al buon giudizio. L'aspetto guida il personaggio verso una certa scelta, e le conseguenze di qualla scelta gli creano una complicazione.
+
+In entrabi i casi, la complicazione che ne risulta è la chiave! Senza complicazione, non esiste tentazione.
+
+#### Invocazioni ostili o tentazioni?
 Don’t confuse hostile invocations and compels! Though they are similar—they are ways to give a character an immediate problem in exchange for a fate point—they work differently.
 
 A compel creates a narrative change. The decision to compel a character’s aspect isn’t something that happens in-universe; rather, it’s the GM or player proposing a change to the story. The effect can be broad, but the target gets the fate point immediately if they accept the compel, and may choose to refuse the compel.
