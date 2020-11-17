@@ -162,32 +162,32 @@ Invece, il GM dichiara che Carlo sopravvive, messo K.O. e trascinato nella tana 
 
 Allora come evito di morire orribilmente, o peggio? Puoi interrompere qualsiasi azione durante un conflitto per **concedere** a patto che i dadi non abbiano ancora toccato i tavolo. Semplicemente, arrenditi. Dì a tutti che ne hai abbastanza, che non puoi continuare. Il tuo personaggio perde ed esce dal conflitto, ma **ottieni un punto fato** più un altro per ogni conseguenza presa durante il conflitto in essere.
 
-Also, concession means you declare the terms of your loss and how you exit the conflict. You can escape the monsters and live to fight another day. It is a loss, though. You’ll have to give your foe something they want. You can’t concede and describe how you heroically save the day—that’s not on the table anymore.
+Inoltre, la concessione significa che dichiari i termini della tua sconfitta e come esci dal conflitto. Puoi fuggire dai mostri e vivere per combattere un altro giorno. Rimane una sconfitta, comunque. Dovrai lasciare all'avversario qualcosa che vuole. Non puoi concedere e descrivere come eroicamente salvi la giornata: non è più sul tavolo.
 
-Conceding is a powerful tool. You can concede to escape with an action plan for the next fight, a clue as to where to go, or some advantage going forward. You just can’t win this fight.
+Concedere è uno strumento potente. Puoi concedere per fuggire con un piano d'azione per il prossimo scontro, un indizio su dove andare o qualche vantaggio per il futuro. Semplicemente non vinci questo scontro.
 
-You must concede before your opponent rolls the dice. You can’t wait to see the outcome of the dice and concede when it’s obvious you can’t win—that’s poor form.
+Devi concedere prima che il tuo avversario tiri i dadi. Non puoi attendere per vedere il risultato dei dadi e concedere quando è ovvio che non puoi vincere: sarebbe mancanza di stile.
 
-Some negotiation is expected, here. Look for a solution that works for everyone at the table. If the opposition isn’t on board with the terms of your concession, they can push for rewording those terms, or ask that you sacrifice something different or extra. Because a concession is still a loss for you, that does mean the other side should gain at least part of what they’re after.
+è comunque possibile qualche negoziazione. Cerca una soluzione che vada bene a tutti al tavolo. Se l'opposizione non è d'accordo con i termini della tua concessione, spingenranno per modificare quei termini o per chiederti di sacrificare qualcosa di diverso o di aggiuntivo. Poiché la concessione rimane una sconfitta per te, significa che l'altra parte ottiene almeno in parte ciò che volevano.
 
-The more significant the cost you pay, the greater the benefit your side should receive as part of the concession—if certain doom is about to befall the entire group, one member choosing to concede as a heroic (and fatal) last stand could mean everyone else is spared!
+Più è significativo il costo che paghi, maggiore è il benefico che la tua parte dovrebbe ottenere come parte della concessione: se un certo destino sta per cadere sull'intero gruppo, un membro che sceglie di concedere come ultima resistenza eroica (e fatale) potrebbe significare che tutti gli altri sono salvi!
 
-Ending a Conflict
+#### Terminare un conflitto
 
-A conflict draws to a close when everyone on one side has either conceded or been taken out. At the end of a conflict, any players who conceded collect their fate points for the concession (page XX). The GM also pays out fate points owed to players for hostile invokes (page XX) that happened during the conflict.
+Un conflitto arriva al termine quando tutti da una parte hanno concesso o sono stati messi fuori combattimento. Al termine di un conflitto, chiunque abbia concesso colleziona i propri punti fato per la concessione. Il GM paga, inoltre, i punti fato dovuti alle invocazioni ostili successe durante il conflitto.
 
-Recovering from Conflicts
+#### Riprenderdi dai conflitti
 
-At the end of each scene, every character clears their stress boxes. Consequences take more time and effort to clear.
+Al termine di ogni scena, tutti i personaggi recuperano le proprie caselle di stress. Le conseguenze necessitano di più tempo e sforzo per essere recuperate.
 
-To start the recovery process, the person treating you will need to succeed at an overcome action with an appropriate skill. Physical injuries typically are addressed using medical knowledge via Academics, while mental consequences are healed with Empathy. This overcome action faces difficulty equal to the severity of the consequence: Fair (+2) for a mild consequence, Great (+4) for moderate, and Fantastic (+6) for severe. These difficulties increase by two when you’re trying to treat yourself (it’s easier to have someone else do that).
+Al fine di dare inizio al **processo di recupero**, la persona che ti sta fornendo le cure deve avere successo in un'azione di _Superare un ostacolo_ con un'abilità appropriata. Le ferite fisiche vengono normalmente trattate con conoscenze mediche tramite Accademiche, mentre le conseguenze mentali vengono guarite con Empatia. Quest'azione di _Superare un ostacolo_ affronta una difficoltà uguale alla gravità della conseguenza: Discreto (+2) per una conseguenza lieve, Ottimo (+4) per una conseguenza moderata e Fantastico (+6) per una conseguenza grave. Queste difficoltà aumentano di uno quando provi a curarti da solo (è più semplice avere qualcuno che lo fa per te).
 
-If you succeed on this roll, rewrite the consequence to indicate that it is healing. A Broken Arm may be rewritten as Arm in a Cast, for instance.
+Se riesci in questo tiro, riscrivi la conseguenza per indicare che sta guarendo. Un ***Braccio rotto*** può essere riscritto come ***Braccio ingessato***, per esempio.
 
-Success here is only the first hurdle—it takes time to clear the consequence.
+Il successo indica solo il primo trattamento: ci vuoel tempo per liberarsi della conseguenza.
 
-Mild consequences take one full scene after treatment to clear.
+Le conseguenze **lievi** necessitano di un'intera scena dopo il trattamento per guarire.
 
-Moderate consequences last longer, taking a full session after treatment to clear.
+Le conseguenze **moderate** durano più a lungo, necessitando di un'intera sessione dopo il trattamento per guarire.
 
-Severe consequences only clear when you reach a breakthrough (page XX) after treatment.
+Le conseguenze **gravi** guariscono solamente quando raggiungi una svolta dopo il trattamento.
