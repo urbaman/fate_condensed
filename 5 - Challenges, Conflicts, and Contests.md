@@ -122,19 +122,19 @@ Una serie di decisioni incresciose hanno messo Carlo in un umido seminterrato, a
 
 #### Stress
 
-Per farla breve, lo stress è "plot armor". Si tratta di una risorsa utilizzata per tenenre i vosdtri personaggi in piedi nel combattimento quando i loro avversari li colpiscono. Quando segni delle caselle di stress per assorbire un colpo, stai dicendo cose come "Mi ha mancato per poco", o "Whoa, mi ha tolto il fiato ma sto bene". Detto questo, è una risorsa limitata, in quanto la maggior parte dei personaggi hanno solo tre caselle di stress fisico e tre caselle di stress mentale, sebbene dei valori alti di _Fisico_ o _Volontà_ ne forniscano altre.
+Per farla breve, lo **stress** è "plot armor". Si tratta di una risorsa utilizzata per tenenre i vosdtri personaggi in piedi nel combattimento quando i loro avversari li colpiscono. Quando segni delle caselle di stress per assorbire un colpo, stai dicendo cose come "Mi ha mancato per poco", o "Whoa, mi ha tolto il fiato ma sto bene". Detto questo, è una risorsa limitata, in quanto la maggior parte dei personaggi hanno solo tre caselle di stress fisico e tre caselle di stress mentale, sebbene dei valori alti di _Fisico_ o _Volontà_ ne forniscano altre.
 
-Troverete due indicatori di stress sulla vostra scheda del personaggio, una per il danno fisico e una per il danno mentale. Quando subisci un colpo, puoi segnare le caselle vuote del tipo appropriato, per assorbirlo e rimanere in piedi. Ogni casella di stress assorbe un livello di successo. Puoi segnare tutte le caselle di cui hai bisogno.
+Troverete due **indicatori di stress** sulla vostra scheda del personaggio, una per il danno fisico e una per il danno mentale. Quando subisci un colpo, puoi segnare le caselle vuote del tipo appropriato, per assorbirlo e rimanere in piedi. Ogni casella di stress assorbe un livello di successo. Puoi segnare tutte le caselle di cui hai bisogno.
 
 Le caselle sono binarie: o sono vuote e possono essere segnate, oppure sono piene e non possono. Va bene, comunque. Svuoterete l'indicatore di stress appena superate la scena, sempre che i mostri non vi mengino prima.
 
 #### Conseguenze
 
-Le conseguenze sono nuovi aspetti che scrivi sulla scheda del tuo personaggio quando il personaggio subisce un colpo, per rappresentare il vero danno e le ferite sofferte dal personaggio.
+Le **conseguenze** sono nuovi aspetti che scrivi sulla scheda del tuo personaggio quando il personaggio subisce un colpo, per rappresentare il vero danno e le ferite sofferte dal personaggio.
 
 Quando prendi una conseguenza per assorbire un colpo, scrivi un aspetto in uno spazio di conseguenza libero che descriva quale danno si abbatte sul personaggio. Utilizzate la severità della conseguenza come guida: se siete stati morsi da una progenie stellare, una conseguenza lieve potrebbe essere ***Brutto morso***, mentre una conseguenza moderata potrebbe essere ***Morso che non smette di sanguinare***, e una grave potrebbe essere ***Gamba menomata***.
 
-Mentre lo stress trasforma un colpo in un quasi-mancato, prendersi una conseguenza significa che l'hai subito duramente. Perché dovresti subire una conseguenza? Perché a volte lo stress non è abbastanza. Ricorda, devi assorbire tutti i livelli si successo del colpo per rimanere in piedi nello scontro. Hai un numero di caselle si stress limitato. La buona notizia è che le conseguenze possono assorbire colpi piuttosto grossi.
+Mentre lo stress trasforma un colpo in un quasi-mancato, prendersi una conseguenza significa che l'hai subito duramente. Perché dovresti subire una conseguenza? Perché a volte lo stress non è abbastanza. Ricorda, devi assorbire *tutti* i livelli si successo del colpo per rimanere in piedi nello scontro. Hai un numero di caselle si stress limitato. La buona notizia è che le conseguenze possono assorbire colpi piuttosto grossi.
 
 Ogni personaggio inizia con tre spazi di conseguenza: lieve, moderata e grave. Prendersi una cosneguenza lieve assorbe due livelli di successo, una moderata ne assorbe quattro, una grave ne assorbe sei.
 
@@ -146,21 +146,21 @@ Carlo sta ancora combattendo contro il ghoul, che lo sta artigliando, questa vol
 
 #### Essere messi fuori combattimento
 
-Se non assorbi tutti i livelli di successo di un colpo con stress e conseguenze, vieni messo fuori combattimento.
+Se non assorbi tutti i livelli di successo di un colpo con stress e conseguenze, vieni **messo fuori combattimento**.
 
-Getting taken out is bad. Whoever took you out decides what happens. Given dangerous situations and powerful enemies, this could mean you’re dead, but that’s not the only possibility. The outcome must be in keeping with the scope and scale of the conflict at hand—you won’t die of shame if you lose an argument—but changes to your character sheet (and more) are possible. The outcome should also fit within the boundaries your group has established—if your group feels that characters should never get killed without the player’s consent, that’s perfectly valid.
+Venir messi fuori combattimento è brutto. Chiunque ti metta fuori combattimento decide cosa succede. Date le situazioni pericolose e i nemici potenti, questo potrebbe significare che sei morto, ma non è la sola possibilità. Il risultato deve rimanere all'interno della porttaa e della scala del conflitto in essere (non morirai di vergogna se perdi una discussione), ma sono possibili delle modifiche alla scheda del tuo personaggio (e anche altro). Il risultato dovrebbe anche adattarsi entro i limiti che il vostro gruppo ha stabilito: è perfettamente valido che il vostro gruppo ritenga che i personaggi non debbano mai venire uccisi senza il consenso del giocatore.
 
-But even when death is on the table (it’s best to be clear about that before a roll), GMs should remember that it’s usually a boring result. A PC that’s been taken out could be lost, kidnapped, imperiled, be forced to take consequences… the list goes on. A character’s death means someone has to make a new character and bring them into the story, but a fate worse than death is limited only by your imagination.
+Ma anche quando la morte è sul tavolo (è meglio essere chiari su questo prima di tirare), i GM dovrebbero ricordare che normalmente è un risultato noioso. Un PG che è stato messo fuori combattimento potrebbe essersi perso, rapito, in pericolo, costretto a prendere conseguenze... l'elenco continua. La morte di un personaggio significa che qualcuno deve creare un nuovo personaggio e portarlo nella storia, ma un fato peggiore della morte è limitato solo dalla vostra immaginazione.
 
-Follow the fiction when describing how someone—or something—is taken out. Was a cultist taken out by a barrage of machine gun fire? A spray of red fills the air as they slump with a wet thump to the ground. Were you hurled from the truck as it crossed the 26th Street overpass? You disappear over the edge and are left behind as the conflict rumbles on along the Dan Ryan. Keep death in mind when discussing the terms of being taken out, but often it’s just as interesting to cheat death.
+Seguite la narrazione del descrivere come qualcuno, o qualcosa, viene messo fuori combattiento. Il cultista è stato messo fuori combattimento da una raffica di fuoco di mitragliatori? Uno spruzzo di rosso riempe l'aria mentre crolla a terra con un tonfo umido. Sei stato scagliato dal camoin mentre attraversava il cavalcavia della 26esima Strada? Sparisci oltre il bordo e vieni lasciato indietro mentre il conflitto continua a rumoreggiare lungo la Dan Ryan. Tenete a mente la morte quando discutete i termini del venir messi fuori combattimento, ma spesso è altrettanto interessante ingannare la morte.
 
-The ghoul gets in a very lucky hit, dealing a Legendary (+8) attack against Charles’s Poor (-1) defense. By this point in the conflict, all of Charles’s stress boxes are full, as is his moderate consequence slot. Even if he were to take a mild and a severe consequence at once, absorbing eight shifts, it wouldn’t be enough. As a result, Charles is taken out. The ghoul gets to decide his fate. The GM would be within their rights to have the ghoul kill Charles then and there…but getting killed isn’t the most interesting result.
+Il ghoul mette a segno un colpo molto fortunato, assestando un attacco Leggendario (+8) contro la difesa Scarsa (-1) di Carlo. A questo punto del conflitto, tutte le caselle di stress di Carlo sono piene, come lo è lo spazio di consegnenza moderata. Anche se si prendesse una conseguenza lieve e una grave, assorbendo 8 livelli di successo, non sarebbe abbastanza. Come risultasto, Carlo viene messo fuori combattimento. Il ghoul ottiene di poterne decidere il destino. Il GM avrebbe tutto il diritto di far uccidere Carlo dal ghoul sul momento... ma venire uccisi non è il risultato più interessante.
 
-Instead, the GM declares that Charles survives, getting knocked out and dragged to the ghoul’s lair, consequences intact. Charles will wake up lost and very fragile in the pitch-dark catacombs beneath the city. Because he was taken out, Charles has no choice but to accept the terms laid before him.
+Invece, il GM dichiara che Carlo sopravvive, messo K.O. e trascinato nella tana del ghoul, le conseguenze intatte. Carlo si sveglierà perso e molto fragile nel buio pesto delle catacombe sotto la città. Essendo messo fuori combattimento, Carlo non ha altra scelta che accettare i termini stabiliti.
 
-Conceding
+#### Concedere
 
-So how do you keep from dying horribly—or worse? You can interrupt any action in a conflict to concede as long as the dice haven’t hit the table yet. Just give in. Tell everyone that you’re done, that you can’t keep going. Your character loses and exits the conflict, but you gain a fate point plus an extra one for each consequence they took in the current conflict.
+Allora come evito di morire orribilmente, o peggio? Puoi interrompere qualsiasi azione durante un conflitto per **concedere** a patto che i dadi non abbiano ancora toccato i tavolo. Semplicemente, arrenditi. Dì a tutti che ne hai abbastanza, che non puoi continuare. Il tuo personaggio perde ed esce dal conflitto, ma **ottieni un punto fato** più un altro per ogni conseguenza presa durante il conflitto in essere.
 
 Also, concession means you declare the terms of your loss and how you exit the conflict. You can escape the monsters and live to fight another day. It is a loss, though. You’ll have to give your foe something they want. You can’t concede and describe how you heroically save the day—that’s not on the table anymore.
 
