@@ -20,43 +20,43 @@ Le zone aiutano a guidare la storia dando forma a ciò che è possibile. Chi tu 
 
 **Tutti possono interagire con tutti coloro e con tutto ciò che si trova nella stessa zona**. Questo significa che puoi colpire, accoltellare o interagire fisicamente altrimenti con persone o cose nella tua stessa zona. Devi scassinare quella cassaforte da muro nella camera da letto? Dovrai trovarti in quella zona. Qualsiasi cosa al di fuori della stessa zona normalmente è fuori portata: dovrai muoverti per arrivarci, o utilizzare qualcosa che possa estendere la tua portata fino lì (la telecinesi, una pistola, eccetera...).
 
-Muoversi tra le zone è sempolice, a patto che nulla ti ostacoli. Puoi muoverti in una zona adiacente in aggiunta alla tua azione durante uno scambio, a patto che nulla ti ostacoli. Se il movimento è ostacolato, per farlo devi utilizzare la tua azione. Esegui un'azione di _Superare un ostacolo_ per scalare una parete, scattare oltre un gruppo di cultisti o saltare da un tetto all'altro. Se fallisci, rimani nella tua zona o il movimento ti costa qualcosa. Puoi anche utilizzare la tua azione per muoverti ovunque sulla mappa, sebbene il GM abbia tutto il diritto di impostare una difficoltà alta se tenti un movimento di proporzioni epiche.
+Muoversi tra le zone è sempolice, a patto che nulla ti ostacoli. **Puoi muoverti in una zona adiacente in aggiunta alla tua azione durante uno scambio, a patto che nulla ti ostacoli**. Se il movimento è ostacolato, per farlo devi utilizzare la tua azione. Esegui un'azione di _Superare un ostacolo_ per scalare una parete, scattare oltre un gruppo di cultisti o saltare da un tetto all'altro. Se fallisci, rimani nella tua zona o il movimento ti costa qualcosa. Puoi anche utilizzare la tua azione per muoverti _ovunque_ sulla mappa, sebbene il GM abbia tutto il diritto di impostare una difficoltà alta se tenti un movimento di proporzioni epiche.
 
-If something isn’t risky or interesting enough to merit a roll, then it isn’t an impediment to movement. For instance, you don’t need to use up your action opening an unlocked door—that’s just a part of the movement.
+Se qualcosa non è abbastanza rischiosa o importante da meritare un tiro, allora non è un impedimento al movimento. Per esempio, non devi sprecare la tua azione per aprire una porta non chiusa a chiave: è solo parte del tuo movimento.
 
-Shooting lets you attack from a distance. Ranged attacks can target enemies in adjacent zones or maybe further, if the zones are clear enough. If there’s a creature rooting around in the bedroom upstairs and around the corner, you can’t shoot it from the bottom of the stairs. Pay attention to the way the zones and situation aspects are set up when deciding what’s fair game or not.
+Sparare ti permette di attaccare dalla distanza. Gli attacchi a distanza possono avere come obiettivo avversari che si trovano nelle zone adiacenti o anche oltre, se le zone sono abbastanza libere. Se c'è una creatura che grufola in giro per la stanza da letto al piano superiore e dietro l'angolo, non puoi spararle dal fondo delle scale. Quando dovete decidere cosa sia fattibile o meno, prestate attezione al modo in cui le zone e gli aspetti di situazione sono impostati.
 
-Situation Aspects
+### Aspetti di situazione
 
-When setting the scene, the GM should think of interesting and dynamic environmental features that can constrain the action or provide opportunities to change the situation by using them. Three to five details are more than enough. Use these categories as a guide:
+Quando si imposta una scena, il GM dovrebbe pensare a caratteristiche ambientali interessanti e dinamiche che possano costringere l'azione o fornire opportunità, utilizzandole, di modificare la situazione. Un numero di dettagli tra tre e cinque è abbastanza. usate queste categorie come guida:
 
-Tone, mood, or weather—darkness, lightning, and howling winds
+* **Tono, atmosfera o clima**: oscurità, illuminazione e venti ululanti
 
-Impediments to movement—connected by ladders, covered in slime, and filled with smoke
+* **Ostacoli al movimento**: collegati da scale, coperto di melma e pieno di fumo
 
-Cover and obstructions—vehicles, pillars, and crates
+* **Coperture e ostruzioni**: veicoli, pilastri e casse
 
-Dangerous features—crates of TNT, barrels of oil, and eldritch artifacts crackling with electricity
+* **Caratteristiche pericolose**: casse di esplosivo, barili d'olio e artefatti arcani crepitanti di elettricità
 
-Usable objects—improvised weapons, statues or bookshelves to knock over, and doors to be barred
+* **Oggetti utilizzabili**: armi improvvisate, statue o librerie da rovesciare e porte da sbarrare
 
-Anyone can invoke and compel these aspects, so remember to take them into account when you wrestle that cultist to the ground amid the Caustic Slime Covering Everything.
+Chiunque può invocare e tentare questi aspetti, ricordatevi quindi di tenerli a mente quando lottate per terra con quel cultista in mezzo alla ***Melma caustica che ricopre tutto***.
 
-More situation aspects can be written down as the scene plays out. If it makes sense that there are Deep Shadows in the recesses of the catacombs, go ahead and write that down when a player asks if there are any shadows they can use to hide. Other aspects come into play because characters use the create an advantage action. Things like Flames Everywhere! don’t just happen without character action. Well. Usually.
+Puoi scrivere e mettere in gioco altri aspetti di situazione nel corso della scena. Se ha senso che ci siano ***Ombre profonde*** nei recessi delle catacombe, vai avanti e mettile in gioco quando un giocatore ti chiede se ci sono ombre da utilizzare per nascondersi. Altri aspetti entrano in gioco perché i giocatori utilizzano l'azione _Creare un vantaggio_. Cose come ***Fiamme ovunque!*** non accadono senza l'azione dei personaggi. Beh. Di solito.
 
-Free Invokes on the scene’s aspects?
+#### Invocazioni gratuite sugli aspetti di scena?
 
-It’s up to the GM to decide if a situation aspect arising from the scene’s setup provides a free invoke to the players (or even to the NPCs). Some of the scene’s aspects might provide a clever player just the advantage they need right away—and a free invoke can be a strong incentive to drive players to interact with the environment. Free invokes also might end up on the scene’s aspects at the start due to preparations made in advance.
+È responsabilità del GM decidere se un aspetto di situazione proveniente dall'impostazione della scena fornisca un'invocazione gratuita ai giocatori (o anche ai PNG). Alcuni degli aspetti di scena potrebbero fornire al giocatore furbo quel vantaggio di cui hanno bisogno proprio in quel momento: e un'invocazione gratuita può essere un forte incentivo nel guidare i giocatori a interagire con l'ambiente. Inoltre, le invocazioni gratuite possono finire sugli aspetti di una scena a causa delle preparazioni eseguite in precedenza.
 
-Zone Aspects
+#### Aspetti di zona
 
-A mentioned on page XX, Some situation aspects might apply to specific zones on the map, and not others. That’s okay—it can add some extra texture, opportunity, and challenge to the map that might be lacking otherwise.
+Come menzionato in precedenza, alcuni aspetti di situazione si applicano a zone specifiche sulla mappa, e non in altre. Va bene: può aggiungere trame, opportunità e sfide ulteriori all amappa che altrimenti potrebbero mancare.
 
-Turn Order
+### Ordine d'azione
 
-Often, you won’t need to know who is acting precisely when, but in contests and conflicts turn order can become important. These scenes take place over a series of exchanges. In an exchange, each involved character can take one overcome, create an advantage, or attack action, and can move once. (Contests work slightly differently; see page XX.) Because defending is a reaction to someone else’s action, characters can defend as many times as they need to during other characters’ turns, so long as they can justify their ability to interfere based on what’s already been established in the story.
+Non hai bisogno spesso di sapere esattamente chi agisce quando, ma durante le competizioni e i conflitti l'ordine d'azione può diventare importante. Queste scene hanno luogo lungo una serie di **scambi**. Durante uno scambio, ogni personaggio coinvolto può eseguire un'azione di _Superare un ostacolo_, _Creare un vantaggio_ o _Attaccare_, e può muoversi una volta (le competizioni funzionano in modo leggermente diverso). Poiché _Difendere_ è una reazione all'azione di qualcun'altro, i personaggi possono utilizzarla tutte le volte che vogliono duranrte i turni degli altri personaggi, a patto che possano giustificare la propria capacità di interferire in base a ciò che è già stato stabilito nella storia.
 
-At the start of a scene, the GM and players decide who goes first based on the situation, then the active player picks who goes next. The GM’s characters are selected in the turn order just like the PCs, with the GM deciding who goes next after the NPCs have acted. After everyone has taken a turn, the last player picks who goes next at the start of the next exchange.
+All'inizio di una scena, il GM e i giocatori decidono chi agisce per primo in base alla situazione, quindi il giocatore attivo sceglie il prossimo ad agire. I personaggi del GM vengono selezionati all'interno dell'ordine d'azione proprio come i PG, col GM che decide chi agisce dopo che i PG hanno terminato le proprie azioni. Dopo che tutti hanno agito, l'ultimo giocatore sceglie chi agisce per primo nel prossimo scambio.
 
 Cassandra and Ruth have stumbled across a small group of cultists, led by an acolyte in a golden mask, performing some arcane ritual. Because the cultists are focused on their work, the GM declares that the PCs will go first in this conflict. The players decide that Cassandra will act first: she creates an advantage against the masked cultist, Distracted, by running directly at them screaming. It’s crude but effective. To make the best use of the situation aspect, Cassandra’s player decides that Ruth should go next. Ruth throws a dagger at the masked acolyte, and immediately invokes Distracted to improve her attack. It’s not enough to take out the acolyte in one hit, but it is a one-two punch that leaves the cultist reeling.
 
