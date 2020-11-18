@@ -14,29 +14,29 @@ Come GM, sei il direttore delle sessioni di gioco. Nota che non sei il capo. _Fa
 
 ## Impostare le difficoltà e l'opposizione
 
-Sometimes, a PC’s action will face opposition via a defend roll from another character in the scene. In this case, the opposing character rolls dice and adds their relevant skill rating, just like the PC. If the opposing character has relevant aspects, they can be invoked; the GM can invoke NPCs’ aspects using the fate point in their pool (page XX).
+A volte, l'azione di un PG affronterà un'opposizione a causa di un tiro di _Difendere_ da parte di un altro personaggio in scena. In questo caso, il personaggio che si oppone tira i dadi e aggiunge il valore dell'abilità rilevante, come il PG. Se il personaggio che si oppone ha aspetti rilecanti, possono essere invocati; il GM può invocare gli aspetti dei PNG utilizzando i punti fato della sua riserva.
 
-But if there’s no opposition, you have to decide on the difficulty of the action:
+Ma se non c'è opposizione attiva, devi decidere la dififcoltà dell'azione:
 
-* Low difficulties, below the PC’s relevant skill rating, are best when you want to give them a chance to show off.
-* Moderate difficulties, near the PC’s relevant skill rating, are best when you want to provide tension but not overwhelm them.
-* High difficulties, much higher than the PC’s relevant skill rating, are best when you want to emphasize how dire or unusual the circumstances are and make them pull out all the stops, or put them in a position where they will need to suffer the consequences of failure.
+* **Difficoltà basse**, sotto il valore dell'abilità rilevante del PG, sono ottime per dargli una possibilità di brillare.
+* **Difficoltà moderate**, vicine al valore dell'abilità rilevante del PG, sono ottime quando vuoi fornire tensione senza soverchiarlo.
+* **Difficoltà alte**, molto più alte del valore dell'abilità rilevante del PG, sono ottime quando vuoi enfatizzare quanto inusuali o disperate siano le circostanze e constringere il PG a impegnarsi al massimo, o per metterlo in una posizione in cui dovrà subire le conseguenze del fallimento.
 
-Likewise, use the adjective ladder (page XX) of ratings to help you choose an appropriate difficulty. Is it superbly difficult? Then pick Superb (+5)! Here are a few rules of thumb to get you started.
+Allo stesso modo, usa la scala di aggettivi dei valori per aiutarti a scegliere la difficoltà appropriata. È estremamente difficile? Scegli il livello Fantastico (+5)! Ecco alcune regole pratiche per cominciare.
 
-If the task isn’t very tough at all, make it Mediocre (+0)—or just tell the player they succeed without a roll, as long as there’s no serious time pressure or the character has an aspect that suggests they’d be good at it.
+Se il compito non è per nulla difficile, rendi la difficoltà Mediocre (+0), o dì al giocatore che ha successo senza tirare, a patto che non ci siano presisoni serie di tempo o che il personaggio non abbia un aspetto che suggerisca che non è bravo a farlo.
 
-If you can think of at least one reason why the task is tough, pick Fair (+2); for every extra factor working against them, add another +2 to the difficulty.
+Se puoi pensare ad almeno una ragione per cui l'azione possa essere tosta, scegli Discreto (+2); per ogni fattore aggiuntivo che agisce contro il PG, aggiungi un altro +2 alla difficoltà.
 
-When thinking about those factors, consult what aspects are in play. When something is important enough to be made an aspect, it should get a little attention here. Since aspects are true (page XX), they might have influence over how easy or difficult something should be. That doesn’t mean that aspects are the only factors to consider, of course! Darkness is darkness regardless of whether or not you decided to make it an aspect on the scene.
+Quando pernsi a questi fattori, consulta gli aspetti attualmente in gioco. quando qualcosa è abbastanza importante da essere reso con un aspetto, è il momento di dargli attenzione. Poiché gli aspetti sono veri, possono influenzare quanto facile o difficile possa essere un'azione. Questo non significa che gli aspetti sono i soli fattori da considerare, ovviamente! L'oscurità è oscura indipendentemente dal fatto che tu abbia deciso di averci fatto un aspetto di scena.
 
-If the task is impossibly difficult, go as high as you think makes sense. The PC will need to drop some fate points and get lots of help to succeed, but that’s fine.
+Se il compito è impossibilmente difficile, vai alto quanto pensi abbia senso. Il PG dovrà lasciare qualche punto fato sul tavolo e ricevere molto aiuto per riuscire, ma va bene.
 
-For an expanded look at what you can do to create varied and interesting opposition and adversaries for your players, check out the Fate Adversary Toolkit, [available for sale as a PDF](https://www.dreamlord.it/prodotto/fate-strumenti-del-sistema/) or with its essentials [freely available in the online system reference documents](https://www.fateitalia.it/capitolo-1-introduzione-perche-siamo-qui/).
+Per avere uno sguardo più approfondito su cosa fare per creare opposizioni e avversari più vari e interessanti per i tuoi giocatori, leggiti _Fate Strumenti degli Avversari, [disponibile gratuitamente tra le SRD](https://www.fateitalia.it/tipi-di-avversari/).
 
-## NPCs
+## PNG
 
-NPCs include bystanders, supporting cast, allies, foes, monsters, and pretty much anything else that might complicate or oppose the efforts of the PCs. You will probably want to create other characters for the PCs to interact with.
+I PNG includono gli astanti, il cast di supporto, gli alleati, i nemici, i mostri e praticamente tutto quello che può complicare o contrastare gli sforzi dei PG. Vorrai probabilmente creare altri personaggi da far interagire con i PG.
 
 ### Major NPCs
 
