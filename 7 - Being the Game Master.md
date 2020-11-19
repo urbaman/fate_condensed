@@ -38,43 +38,43 @@ Per avere uno sguardo più approfondito su cosa fare per creare opposizioni e av
 
 I PNG includono gli astanti, il cast di supporto, gli alleati, i nemici, i mostri e praticamente tutto quello che può complicare o contrastare gli sforzi dei PG. Vorrai probabilmente creare altri personaggi da far interagire con i PG.
 
-### Major NPCs
+### PNG maggiori
 
-If someone is particularly important to the story, you can stat them out just like a PC. This is appropriate for someone who the PCs will deal with a lot, such as an ally, a rival, the representative of a powerful group, or a Big Bad.
+Se qualcuno è particolarmente importante per la storia, puoi costruirlo proprio come un PG. Questo metodo è appropriato per qualcuno che i PG affronteranno spesso, come un alleato, un rivale, il raprpesentante di un gruppo potente o un Cattivone.
 
-A major NPC doesn’t necessarily follow the same limits as a starting PC. If the NPC is going to be a recurring boss-level threat, give them a higher peak skill (see Setting Difficulty and Opposition on page XX), more stunts, and whatever else it takes to make them a danger.
+Un PG magigore non segue necessariamente gli stessi militi di un PG appena creato. Se il PNG sarà una minaccia ricorrente di livello alto, dagli un'abilità di picco più alta (vedere A major NPC doesn’t necessarily follow the same limits as a starting PC. If the NPC is going to be a recurring boss-level threat, give them a higher peak skill (vedere Impostare le difficoltà e l'opposizione), più talenti e qualsiasi altra cosa serva per renderlo un pericolo.
 
-### Minor NPCs
+### PNG minori
 
-NPCs that aren’t going to be major, recurring characters don’t need to be nearly as well-defined as major NPCs. For a minor NPC, only define what is absolutely necessary.
+I PNG che non saranno personaggi ricorrenti maggiori non devono essere così ben definiti come i PNG maggiori. Per un PNg minore, definisci solo quello che è assolutamente necessario.
 
-Most minor NPCs will have a single aspect, which is just what they are: Guard Dog, Obstructive Bureaucrat, or Enraged Cultist, etc.
+La maggior parte dei PNg minori avranno un singolo apsetto, che descrive semplicemente ciò che sono: ***Cane da guardia***, ***Burocrate ostruzionista*** o ***Cultista infuriato*** eccetera.
 
-If necessary, give them another aspect or two to reflect something interesting about them or a weakness. They may also have a stunt.
+Se necessario, gagli un altro aspetto per rappresentare qualcosa di interessante su di loro o una debolezza. Possono anche avere un talento.
 
-Give them one or two skills to describe what they’re good at. You can use skills from the skill list or make up something more specific, like Fair (+2) at Getting into Bar Fights or Great (+4) at Biting People.
+Dagli una o due abilità per descrivere cosa sanno fare. Puoi utilizzare le abilità dall'elenco delle abilità o creare qualcosa di più specifico, come Discreto (+2) in ***Finire in risse da bar*** o Ottimo (+4) in ***Mordere le persone***.
 
-Give them zero to three stress boxes; the more they have, the more of a threat they can be. Generally, they have no consequence slots; if they take a hit with more shifts than they can absorb with stress, they are simply taken out. Minor NPCs aren’t meant to stick around.
+Dagli da zero a tre caselle di stress. Più ne hanno, più potrenno essere una minaccia. Generalmente non anno spazi conseguenza. Se subiscono un colpo con più livelli di successo di quanti ne possono assorbire con lo stress, vengono semplicemente messo fuori combattimento. i PNG minori non esistono per rimanere.
 
-### Monsters, Big Bads, and Other Threats
+### Mostri, Cattivoni e altre minacce
 
-Like minor NPCs, monsters and other threats (like a storm, a spreading fire, or a squad of armored minions) are written up as characters, but are usually simpler than a PC. You only need to define what is absolutely necessary. Unlike minor NPCs, these threats can be defined really in any way. Break the rules. Give them whatever combination of aspects, skills, stunts, stress, and consequences it will take to make them dangerous, and think about what sort of difficulties they will present to the PCs when determining their ratings.
+Come per i PNG minori, i mostri e le altre minacce (come una tempesta, un incendio che si propaga o una squadra di tirapiedi) vengono costruiti come personaggi, ma sono generalmente più semplici di un PG. Hai bisogno definire soltanto ciò che è assolutamente necessario. Diversamente dai PNG minori, queste minacce possono essere definite veramente in qualsiasi modo. Rompi le regole. Dagli una qualsiasi combinazione di aspetti, abilità, talenti, stress e conseguenze possa serivre per renderli pericolosi, e pensa a che tipo di difficoltà presenteranno ai PG quando ne determini i valori.
 
-## Your Fate Points
+## I tuoi punti fato
 
-At the start of each scene, begin with a pool of fate points equal to the number of PCs. If the scene includes a major NPC or monster that conceded (page XX) a previous conflict, or received hostile invokes (page XX) in a previous scene, those fate points are added to your pool. If you received a compel in the prior scene that ended that scene, giving you no opportunity to spend the earned fate point, you may add that point to your pool as well.
+All'inizio di ogni scena, inizi con una riserva di punti fato uguale al numero dei PG. Se la scena include un PNG maggiore o un mostro che ha concesso in un conflitto precedente, o ha ricevuto un'invocazione ostile in una scena precedente, quei punti fato vengono aggiunti alla tua riserva. Se hai ricevuto una tentazione nella scena precednete che ha messo fine a quella scena, puoi aggiungere anche quel punto fato alla tua riserva.
 
-Charles, Ruth, Cassandra, and Ethan are headed for the final confrontation with Alice Westforth. Previously, she escaped from the heroes by conceding a conflict after she had taken a moderate consequence. That means the GM gets four fate points for the PCs and two more that Alice is bringing along.
+Carlo,, Ruth, Cassandra, ed Etan stanno per affrontare il confronto finale con Alice Westforth. In precedenza, era fuggita dagli eroi concedendo un conflitto dopo aver subito una conseguenza moderata. Questo significa che il GM ottiene quattro punti fato per i PG in scena e altri due punti fasto che Alice si è portata dietro.
 
-As the GM, you can spend fate points from this pool to invoke aspects, refuse compels that the players offer NPCs, and use any NPC stunts that require you to—all exactly as the players do.
+Come GM, puoi spendere punti fato da questa riserva per incvocare aspetti, rifiutare tentazioni che i giocatori offorno ai PNG e utilizzare qualsiasi talento dei PNG che lo richieda - esattamente quello che fanno i giocatori.
 
-However, you do not need to spend fate points to compel any aspects. You have an infinite supply of fate points for that purpose.
+Comunque, non hai bisogno di spedere punti fato per tentare gli aspetti. Hai una fornitura infinita di punti fato per questo scopo.
 
-## Safety Tools
+## Strumenti di sicurezza
 
-GMs (and truly, players as well) have a responsibility to ensure that everyone at the table feels safe in the game and space they’re playing. One way a GM can support this is by offering a framework for anyone at the table to voice a concern or objection. When this happens, it must take priority and must be addressed. Here are some tools that can help make that process more available to the players at the table and more easy to enact when necessary.
+Il GM (e sul serio, anchei giocatori) ha una responsabilità di assicurare che tutti al tavolo si sentano al sicuro nella partita e negli spazi in cui stanno giocando. Un modo in cui il GM può supportare questa responsabilità è offrire una struttura che permetta a tutti al tavolo di esprimere un'obiezione o una preoccupazione. Quando accade, deve prendere la priorità e deve essere gestito. Qui ci sono alcuni strumenti che possono aiutare a rendere quel processo più disponibile ai giocatori al tavolo e più semplice da attuare quando necessario.
 
-* **[The X-Card](http://tinyurl.com/x-card-rpg):** The X-Card is an optional tool (created by John Stavropoulos) that allows anyone in your game (including you) to edit out any content anyone is uncomfortable with as you play.
-* **[Script Change RPG Toolbox](http://tinyurl.com/nphed7m):** For something with a bit more nuance and granularity, look to Script Change by Brie Beau Sheldon, which provides options to pause, rewind, skip ahead, and more using an accessibly familiar media-player metaphor.
+* **[The X-Card](http://tinyurl.com/x-card-rpg):** La X-Card è uno strumento opzionale (creato da John Stavropoulos) che permette a chiunque durante la partita (incluso tu) di tagliare qualsiasi contenuto che metta a disagio qualcuno mentre giocate.
+* **[Script Change RPG Toolbox](http://tinyurl.com/nphed7m):** Se volete qualcosa con più sfumature e granularità, date un'occhiata allo Script Change di Brie Beau Sheldon, che fornisce opzioni per mettere in pausa, tornare indietro, saltare in avanti e altro, utilizzando una metafora familiare di riproduzione multimediale.
 
-Tools like these may also be used like the bogus rule (page XX) for calibration. They offer a way for players to comfortably advocate for what they’re looking for in the game. Give such tools the respect and support they deserve!
+Strumenti come questi possono essere utilizzati anche come regola della fesseria come calibrazione. Offrono au gicatori un modo per sostenere ciò che cercano nel gioco. Dai a questi strumenti il rispetto e il suporto che si meritano!
