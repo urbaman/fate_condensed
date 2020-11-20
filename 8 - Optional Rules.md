@@ -136,23 +136,23 @@ Se un giocatore vuole _Superare un ostacolo_ o _Creare un vantaggio_ contro un p
 
 ### Blocchi
 
-Where hazards exist to hurt the PCs, blocks prevent them from doing things they want to do. Blocks can cause stress, though they don’t always. The chief differences between blocks and hazards is that blocks don’t take actions and are more difficult to remove. Blocks provide passive opposition in certain circumstances, and can threaten or cause harm if not heeded.
+Se i pericoli servino a danneggiare i PG, i **blocchi** evitano che possano fare quello che vogliono. I blocchi possono causare danni ai PG, anche se non lo fanno sempre. Le differenze principali tra blocchi e pericoli è che i blocchi non eseguono azioni e sono più difficili da rimuovere. I Blocchi forniscono opposizione passiva in determinate circostanze, e possono minacciare o causare danni se non vi si presta attenzione.
 
-Like hazards, blocks have a name and a skill rating, and the name is both a skill and an aspect. Unlike hazards, a block’s skill rating shouldn’t be much higher than one step above the PCs’ highest skill rating; otherwise, things can get frustrating quickly. A block can have a Weapon rating as high as 4, but it doesn’t need to have one.
+Come i pericoli, i blocchi hanno un nome e un valore di abilità, e il nome è sia un'abilità che un aspetto. Diversamente dai pericoli, il valore di abilità di un blocco non dovrebbe essere molto più alta di un grado oltre il valore di abilità più altro dei PG, altrimenti le cose diventerebbero velocemente frustranti. Un blocco può avere un valore di abilità anche di 4, ma non necessitando di averne uno.
 
-Blocks only come into play under specific circumstances. A Vat of Acid only matters when someone tries to cross it or gets thrown into it. A Chain Link Fence only affects someone who tries to get past it. The Animate Statue only prevents entry into a specific room.
+I blocchi entrano in gioco solo in determinate circostanze. Una ***Vasca di acido*** importa soltanto quando qualcuno cerca di attraversarla o vi viene buttato dentro. Una ***Rete metallica*** influisce su qualcuno soltanto se cerca di oltrepassarla. La ***Statua animata*** evita solo l'eltrata in una specifica stanza.
 
-Blocks don’t attack and don’t have a turn in the initiative order. Instead, whenever a block would interfere with someone’s action, they’ll have to roll against the block’s rating as a set difficulty. If the block can’t cause harm, it simply prevents the PC from taking the action they wanted to. If it can cause harm and the PC fails to overcome the block, the PC takes a hit equal to the amount by which they missed the target.
+I blocchi non attaccano e non hanno un turno nell'ordine d'azione. Invece, tutte le volte che un blocco può interferire con l'azione di qualcuno, egli dovrà tirare contro il valore del blocco come difficoltà impostata. Se il blocco non può causare danno, semplicemente preclude al personaggio l'azione che voleva eseguire. Se il blocco può causare danno e il PG fallisce nel _Superare l'ostacolo_, il PG subisce un danno uguale all'ammontare di cui ha sbagliato il tiro.
 
-Characters may try to force someone into a block as an attack. If you do this, you’ll roll to attack as normal, but add a Weapon rating equal to half the block’s Weapon rating (rounded down, minimum 1).
+I personaggi possono tentare, come forma di attacco, di forzare qualcuno contro un blocco. Se lo fai, tirerai per _Attaccare_ come al solito, ma aggiungi un valore di arma uguale a metà del valore di arma del blocco (approssimato per difetto, minimo 1).
 
-Finally, some blocks can be used as cover or as armor. This is situational—for some blocks, it simply won’t make sense. You probably can’t hide behind a Vat of Acid, but a Chain Link Fence _is_ effective protection against a baseball bat, probably preventing the attack altogether.
+In fine, alcuni blocchi possono essere utilizzati come copertura o come armatura. Questo utilizzo è situazionale: per alcuni blocchi semplicemente non ha senso. Probabilmente non puoi nasconderti dietro una ***Vasca di acido***, ma una ***Rtee metallica*** _è_ una protezione efficace contro una mazza da baseball, e probabilmente impedisce del tutto l'attacco.
 
-When someone’s using a block as cover, decide whether it mitigates or negates the attack. If it negates it, the attack simply isn’t possible. If it mitigates it, the defender adds an Armor rating equal to half the block’s skill rating (rounded down, minimum 1).
+Quando qualcuno utilizza un blocco come copertura, decidi se mitiga o nega l'attacco. Se lo nega, l'attacco semplicemente non è possibile. Se lo mitiga, il difensore aggiunge un valore di armatura uguale a metà del valore di abilità del blocco (approssimato per difetto, minimo 1).
 
-Use blocks sparingly. Blocks make it harder for PCs to take certain actions—so they can be frustrating if you overuse them—but they can also lead the players to think creatively. They may see an opportunity to turn blocks to their advantage. If they figure out how, let them!
+Usate i blocchi con moderazione. I blocchi rendono certe azioni più difficili per i PG, tanto da diventare frustranti se ne abusate, ma possono anche portare i giocatori a pensare creativamente. Ptrebbero vedere un'opportunità di usare i blocchi a proprio vantaggio. Se capiscono come, faglielo fare!
 
-Sometimes players will just want to remove blocks outright. To do so, make an overcome roll against a set difficulty equal to the block’s rating plus two.
+A volte i giocatori vorranno semplicemente rimuovere i blocchi. Per farlo, si esegue un tiro di _Superare un ostacolo_ contro una difficoltà fissa uguale al valore del blocco più due.
 
 ### Distrazioni
 
