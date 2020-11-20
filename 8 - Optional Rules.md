@@ -219,7 +219,7 @@ Se utilizzate _Creare un vantaggio_ per vie sovrannaturali _e qualcuno può impe
 
 Altrimenti, tirate per _Creare un vantaggio_ senza scala (probabilmente contro una difficoltà impostata), ma il susseguente utilizzo dell'aspetto fornisce livello di potere quando appropriato.
 
-## Time Shifts
+## Spostamenti di tempo
 
 Quando determinate il tempo che impiegano i personaggi a fare qualcosa, potreste voler utilizzare un approccio leggermente più sistematico per decidere gli impatti delle opzioni successo, fallimento e "con un costo". Quanto più a lungo o più velocemente? Fate decidere ai livelli di successo, utilizzando queste linee guida.
 
