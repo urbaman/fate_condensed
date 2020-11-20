@@ -233,44 +233,51 @@ Nel caso di maggiore lentezza, il processo è identico ma nella direzione oppost
 
 ## Modi di rompere le regole per i Cattivoni
 
-Between combining skills and creating advantages for teamwork (page XX), a group of PCs can really overwhelm a single opponent. This is fine if you want to respect the advantage of numbers, but not great if you want to present a “big bad” that’s the equal of the whole group.
+Tra il combinare la abilità e il _Creare un vantaggio_ per la collaborazione, un gruppo di personaggi può veramente sopraffare un singolo avversario. Questo va bene se vuoi rispettare il vantaggio del numero, ma non è un gran che se vuoi presentare un "grosso cattivo" che sia pari all'intero gruppo.
 
-But remember, for monsters and other big threats it’s acceptable to break the rules (page XX)—so do so by looking at ways to counteract the group’s usual advantage of numbers, while still giving them a chance. Here are a few suggestions for ways you might do that. You can use one or more of these in combination for especially difficult or terrifying final bosses.
+Ricordati che per i mostri e per le altre grosse minacce è accettabile rompere le regole: fallo cercando modi di contrastare il normale vantaggio del numero del gruppo, lasciandogli comunque una possibilità. Ecco alcuni suggerimenti su come farlo. Puoi utilizzare uno o più di questi metodi in combinazione tra loro per cattivi finali particolarmente difficili o terrificanti.
 
-Challenge or Contest Immunity
-Both of these methods are about drawing out the final confrontation by running the group through a clock-is-ticking-down activity before they can actually go after the big bad directly.
+### Immunità da sfide o da competizioni
 
-With challenge immunity, your big bad cannot be affected directly (mentally, physically, or both) until the group beats a challenge (e.g., dismantling the source of its power, figuring out what its weakness is, etc). The big bad, meanwhile, can act freely and may attack them during their efforts, oppose their overcome or create advantage efforts with its defend rolls, assail their free invokes with its own overcomes, or prepare for their eventual breakthrough by creating advantages of its own.
+Entrambi questi metodi riguardano il progettare il confronto finale guidando il gruppo attraverso un'attività da "il tempo sta scadendo" prima che affrontino il cattivo direttamente.
 
-With contest immunity, the group must win a contest to be able to directly attack the big bad—and the big bad gets to attack them while they’re trying. If the big bad wins the contest, it gets to pull off its scheme and get away unscathed.
+Con l'**immunità da sfide**, il tuo cattivo non può essere influenzato direttamente (mentalmente, fisicamente o entrambi) finché il gruppo non supera una sfida (per esempio, smantellare la sorgente del suo potere, scoprire la sua debolezza, eccetera). Il cattivo nel frattempo, può agire liberamente e può attaccarli durante i loro tentativi, opporsi alle loro azioni di _Superare un ostacolo_ o di _Creare un vantaggio_ con i suoi tiri di _Difendere_ o prepararsi con delle azioni di _Creare un vantaggio_ all'eventuale confronto finale.
 
-Expendable Minion Armor
-Surrounding yourself with minions is one way to try to balance a big bad’s side against the PCs, but it only goes so far if the players can just decide to go after the big bad directly and ignore those pesky minions for a while.
+Con l'**immunità da competizioni**, il gruppo deve vincere una competizione per poter attaccare direttamente il cattivo, e il cattivo può attaccarli mentre ci provano. Se il cattivo vince la competizione, riesce a compiere il proprio piano e se ne va indenne.
 
-But with expendable minion armor in play, a big bad may always succeed at a cost on its defend rolls against attacks by forcing a minion into the path of the attack. That minion doesn’t roll to defend, they just take the hit that would have landed on the big bad otherwise. This forces the PCs to chew through the big bad’s army before the final confrontation.
+### Armatura di tirapiedi sacrificabili
 
-And remember, minions don’t have to be literal minions. For example, you might write up one or more “shield generators”, each one with a stress track and perhaps a skill for creating defensive advantages for the shielded big bad!
+Circondare il cattivo di tirapiedi è un modo per provare a bilanciare la parte del cattivo contro i PG, ma funziona finché i giocatori non decidono di andare contro il cattivo direttamente senza preoccuparsi dei tirapiedi per un po'.
 
-Reveal True Form
-Okay, the group has thrown everything they’ve got at the big bad, and—awesome!—they just took him out. There’s just one problem: that just frees him from his cage of flesh to reveal his true form!
+Quando è in gioco l'**armatura di tirapiedi sacrificabili**, un cattivo può sempre avere successo con un costo nei suoi tiri di _Difendere_ costringendo un tirapiedi a mettersi in mezzo alla linea d'attacco. Il tirapiedi non deve tirare per _Difendere_, semplicemente subisce il colpo che altrimenti si sarebbe beccato il cattivo. Questo costringe i PG a farsi strada attraverso l'esercito del cattivo prima del confronto finale.
 
-With reveal true form, your big bad isn’t just one character, it’s at least two characters which must be beaten sequentially, each one revealing new capabilities and stunts, higher skill ratings, fresh stress and consequence tracks, and even new “rule breaks.”
+ricordati, i tirapiedi non devono essere letteralmente tirapiedi. Per esempio, potresti definire uno o più "geneatori di scudi", ognuno con un indicatore di stress e forse un'abilità per _Creare un vantaggio_ difensivo nel proteggere il cattivo!
 
-If you want to gentle this a bit, carry the consequences the big bad has already taken forward between forms, dismissing the mild ones and downgrading the moderate and severe ones by one step each.
+### Rivelare la vera forma
 
-Scale Things Up
-You could scale things up to let your big bad operate at a higher scale than the PCs, using the scale option from page XX. You could do this even if scale isn’t normally in play in your campaign—these rules need only apply when a big bad takes the field!
+Bene, il gruppo ha lanciato tutto quello che ha al cattivo, e... magnifico! L'hanno tirato giù. Ma c'è un problema: questo semplicemente lo libera dalla sua gabbia di carne rivelando la sua vera forma!
 
-Solo Bonus
-Players may enjoy a teamwork bonus, sure—but why not give your big bad a complementary solo bonus when they’re the only one facing the heroes?
+Col **rivelare la vera forma**, il tuo cattivo non è solo un personaggio, ma è almeno due personaggi che devono essere sconfitti in sequenza, ognuno con nuove capacità e talenti da svelare, valori di abilità più alti, indicatori di stress e conseguenze freschi e anche nuove "rotture di regole".
 
-There are a few ways you could implement a solo bonus. You could use more than one of these, but be careful when combining them as they’ll add up fast.
+Se vuoi alleggerire un po' questo meccanismo, portati dietro tra le forme le conseguenze che il cattivo ha già subito, liberandoti di quelle lievi e scalando le moderate e le gravi di un livello ciascuna.
 
-The big bad gets a bonus to skill rolls that’s equal to the group’s maximum potential teamwork bonus (page XX) — the number of PCs acting against the big bad minus one (so a +2 vs a group of 3, etc). This bonus can’t do better than double the big bad’s affected skill, though, just as with PCs (or maybe you’ll break _that_rule too).
-The big bad may reduce the stress of successful attacks by the number of opposing PCs divided by two, rounded up. If you’re worried this will make the fight run too long, then hits reduced this way can’t be reduced below 1.
-The big bad has amplified invokes: when making a paid invoke of an aspect, their bonus is equal to the number of PCs they face. No such luck with free invokes, but this makes every fate point spent utterly terrifying.
-The big bad may suppress invokes: when facing two or more foes, the opposition’s invokes only provide a +1 bonus, or allow rerolls only, when used directly against the big bad. Optionally, the big bad might also remove the PCs’ ability to stack free invokes.
-The Threat is a Map (or a Hive of Characters)
+### Scalare le cose verso l'alto
+
+Potresti **scalare le cose verso l'alto** per permettere al tuo cattivo di agire a un livello di potere più alto rispetto ai PG, utilizzando l'opzione del livello di potere. Puoi farlo anche se il livello di potere non è normalmente in gioco nella tua campagna: queste regole hanno bisogno di essere presenti soltanto quando scende in campo un cattivo finale!
+
+### Bonus da solitario
+
+I giocatori possono beneficiare di un vantaggio di collaborazione, sicuro. Ma perché non dare al tuo cattivo un **bonus da solitario** complementare quando è l'unico ad affrontare gli eroi?
+
+Ci sono alcuni modi in cui si può implementare un bonus da solitario. Puoi utilizzarne più di uno tutti in una volta, ma attenzione quando li combini perché si sommano velocemente.
+
+* Il cattivo ottiene un **bonus ai tiri di abilità** uguale al bonus di collaborazione massimo potenziale del gruppo: il numeto di PG che agiscono contro il cattivo meno uno (quindi +2 per un gruppo di tre personaggi). Questo bonus non può far meglio che raddoppiare l'abilità del cattivo coinvolta, proprio come per i PG (o forse romperai anche _quella_ regola).
+* Il cattivo può **ridurre lo stress** di attacchi riusciti del numero di PG a lui contrapposti diviso per due, arrotondato per eccesso. Se sei preoccupato che questo possa allungare troppo il combattimento, allora i colpi ridotti in questo modo non possono essere ridotti sotto 1.
+* Il cattivo possiede **invocazioni amplificate**: quando invoca un aspetto pagando, il suo bonus è uguale al numero di PG che sta affrontando. Non è così fortunato con le invocazioni gratuite, ma rende i punti fato spesi assolutamente terrificanti.
+* Il cattivo può *sopprimere le invocazioni**: quando affronta uno o più nemici, le invocazioni dell'opposizione forniscono solo un bonus di +1, oppure permettono solo di ritirare, quando vengono usate direttamente contro il cattivo. Come alternativa, il cattivo potrebbe anche rimuovere la capacità dei Pg di sommare le invocazioni gratuite.
+
+### La minaccia è una mappa (o uno sciame di personaggi)
+
 In Fate, anything can be a character, so why not a map? When the threat is a map, your big bad has zones (page XX) which must be navigated to achieve victory.
 
 As you detail your big bad map, each zone might have its own skills, aspects, and stress capacity. Some zones might contain simple challenges that must be overcome in order to move deeper into the creature. Each zone may take an action as a separate character against PCs occupying that zone, or in the case of a zone representing a limb or similar, may be able to attack adjacent zones as well. If a zone is taken out by one of the PC’s attacks, it may be bypassed and no longer gets to take actions of its own, but the overall big bad isn’t defeated until the heroes can reach its heart and kill it true.
@@ -279,7 +286,8 @@ This method works particularly well if your big bad is a truly gigantic monster,
 
 Whether you fully engage the map idea or simply build the big bad as a hive, you’re sure to end up with a more dynamic fight where the big bad acts more frequently, and the players must figure out a plan of attack that eliminates the threat piece by piece before they can finally put it down.
 
-Ways to Handle Multiple Targets
+## Modi di gestire i bersagli multipli
+
 Inevitably, someone at your table will want to affect multiple targets at once. If it’s allowed, here are some methods you can use.
 
 If you wish to be selective about your targets, you may split your effort. Roll your skill, and if the resulting total is positive, you can split that total up however you like among the targets, who each get to defend against the effort you assigned to them. You must assign at least one point of effort to a target, or you didn’t target them at all.
