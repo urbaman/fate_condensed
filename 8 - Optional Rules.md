@@ -290,7 +290,7 @@ Tutte le volte che ingaggi interamente l'idea della mappa o che definisci il cat
 
 Inevitabilmente, qualcuno al tavolo vorrà avere effetto su più obiettivi alla volta. Se lo si permette, ecco alcuni metodi da eseguire.
 
-Se desideri essere selettivo rispetto ai tuoi bersagli, puoi dividere il tuo sforzo. Tira l'abilità, e se il totale risultante è positivo, puoi dividere quel totale come vuoi tra i bersagli, ognuno dei quali potrà eseguire l'azione _Difendere_ contro lo sforzo assegnatogli. Devi assegnare almeno un punto di sforzo per bersaglio, o non l'hai puntato.
+Se desideri essere selettivo rispetto ai tuoi bersagli, puoi **dividere il tuo sforzo**. Tira l'abilità, e se il totale risultante è positivo, puoi dividere quel totale come vuoi tra i bersagli, ognuno dei quali potrà eseguire l'azione _Difendere_ contro lo sforzo assegnatogli. Devi assegnare almeno un punto di sforzo per bersaglio, o non l'hai puntato.
 
 Sofia affronta un terzetto di scagnozzi e voel colpirli tutti e tre in una raffica di affondi col suo stocco. Grazie a un'invocazione e a un buon tiro, il suo Combattere è un Epico (+7). Lei assegna un attacco Buono (+3) a quello che sembra più veterano, e Discreto (+2) agli altri due, per un totale di sette. Ognuno di loro ora tira per _Difendere_.
 
