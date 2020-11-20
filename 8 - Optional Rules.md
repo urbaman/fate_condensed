@@ -33,12 +33,19 @@ Vari giochi pubblicati basati su _Fate_ utilizzano le condizioni al posto delle 
 Come abbiamo detto in precedenza gli elenchi delle abilità sono la prima cosa da considerare per eventuali modifiche quando create la vostra partita a _Fate_. Il nostro elenco di base presenta un elenco di 19 abilità organizzate in una piramide di 10. Quell'elenco è strutturato anche intorno a un concetto tradizionale di capacità in vari campi d'azione, rispondendo di fatto alla domanda "cosa so fare?". Altri elenchi di abilità non devono per forza essere lunghi uguali, organizzati allo stesso modo, o rispondere alla stessa domanda. Detto questo, ecco alcuni elenchi di abilità corti da tenere in considerazione, mutuare e modificare.
 
 * **Azioni:** Resistere, Combattere, Conoscere, Muoversi, Percepire, Pilotare, Intrufolarsi, Parlare, Armeggiare;
+
 * **Approcci:** Attento, Ingegnoso, Appariscente, Energico, Rapido, Elusivo;
+
 * **Attitudini:** Atletica, Combattimento, Leadership, Erudizione, Sotterfugio;
+
 * **Attributi:** Forza, Destrezza, Robustezza, Intelligenza, Fascino;
+
 * **Relazioni:** Guida, Collaborazione, Supporto, Solitario;
+
 * **Ruoli:** Pilota, Picchiatore, Hacker, Meccanico, Truffatore, Ladro, Stratega;
+
 * **Temi:** Aria, Fuoco, Metallo, Mente, Pietra, Vuoto, Acqua, Vento, Legno;
+
 * **Valori:** Dovere, Gloria, Giustizia, Amore, Potere, Sicurezza, Verità, Vendetta.
 
 Se volete un elenco più lungo, provate a iniziare dall'elenco di base, aggiungendo, combinando e rimuovendo abilità secondo necessità finché non arrivate dove volete. Potreste anche mescolare in qualche forma due o più abilità o più elenchi tra i precedenti.
@@ -79,39 +86,44 @@ Un conto alla rovescia può avere più di un'attivazione, se volete. Forse il co
 
 ## Conseguenze estreme
 
-Extreme consequences introduce an optional fourth severity of consequence to your game: something that permanently, irrevocably changes a character.
+Le conseguenze estreme introducono un quarto livello di severità opzionale alle conseguenze nella vostra partita: qualcosa che cambia il personaggio permanentementee irrovocabilmente.
 
-Taking an extreme consequence reduces stress taken by 8. When taken, you must replace one of your character’s existing aspects (other than their high concept, which is off-limits) with an aspect that represents the profound change to the character resulting from the harm they’ve taken.
+Prendere una conseguenza estrema assorbe lo stress subito di 8. Quando viene presa, devi rimpiazzare uno degli aspetti esistenti del personaggio (diverso dal concetto base, che è intoccabile) con un aspetto che rappresenta il cambiamento profodno del personaggio risultante dal danno subito.
 
-By default, there is no option to recover from an extreme consequence. It has become a part of the character now. At your next breakthrough you may rename it to reflect how you’ve come to terms with it, but you can’t go back to the original aspect.
+Di base, non ci sono opzioni di recupero per una conseguenza estrema. Ora è diventata parte integrante del personaggio. Durante la tua prossima svolta puoi rinominarla per riflettere come ci sei sceso a patti, ma non puoi tornare indietro all'aspetto precedenter.
 
-Between breakthroughs, a character may only use this option once.
+Tra le svolte, un personaggio può utilizzare quest'opzione solo una volta.
 
-Faster Contests
-Some groups may feel contests involve too many attempts to create advantages per exchange. For those groups, try the following method: In each exchange of a contest, each participant may choose only one of these three options:
+## Competizioni più veloci
 
-Make the overcome roll for their side (page XX).
-Roll to create an advantage, but no teamwork bonus (page XX).
-Provide their teamwork bonus to their side’s overcome roll or another’s attempt to create an advantage. Don’t roll.
-Full Defense
-Sometimes a player (or GM) may want their character to go all-in on using defend until their next turn, rather than taking an action on their turn. This is called full defense.
+Alcuni gruppi possono percepire che le competizioni prevedano troppi tentativi di creare vantaggi in ogni scambio. Per questi gruppi, provate il metodo seguente: in ogni scambiuo di un contesto, ogni partecipante può scegliere solo una di queste tre opzioni:
 
-When declaring full defense, you must be clear about the focus of your efforts. By default, you are defending yourself (from attacks and efforts to create advantages on you), but you may wish to specify someone you’re protecting, or a defense against a particular group of aggressors, or a particular effort or outcome you wish to oppose.
+* Eseguire il tiro di _Superare un ostacolo_ per la propria parte.
+* Tirare per _Creare un vantaggio_, senza bonus di collaborazione.
+* Fornire il proprio bonus di collaborazione al tiro di _Superare un ostacolo_ della propia parte o al tiro di _Superare un ostacolo_ di qualcun'altro. Non tirare.
 
-While on full defense you get a +2 to all defend rolls relevant to your declared focus.
+## DIfesa completa
 
-If nothing comes of it and you haven’t rolled to defend at all by the time your next turn comes around, you gain a boost (page XX) as you’ve gotten the opportunity to prepare for your next action. This offsets “losing a turn” because you focused your efforts on defending against something that didn’t happen at all.
+A volte un giocatore (o il GM) può volere che il proprio personaggio si metta completamente in posizione di difesa fino al turno seguente, invece che eseguire un'azione nel proprio turno. Qeusta viene chiamata **difesa completa**.
 
-Obstacles
-The defining quality of enemies is that they can be attacked and taken out. By contrast, the defining quality of obstacles is that they can’t. Obstacles make scenes demonstrably more difficult on the PCs, but the PCs cannot simply fight them. Obstacles must be circumvented, endured, or rendered irrelevant.
+Quando si dichiara la difesa completa, bisogna essere chiari sul proprio **obiettivo di difesa**. Di base, stai difendendo te stesso (dai tentativi di _Attaccare_ e _Creare un vantaggio_ su sé stessi), ma si può specificare qualcun altro che si sta proteggendo, o una difesa verso un particolare avversario o gruppo di aggressori, o contro un particolare tentativo che si desidera intralciare.
 
-While most obstacles are features of the environment, some might be characters that can’t be taken out using conventional methods. The dragon might be a boss, but it might just as easily be a hazard obstacle. The animate statue keeping you from getting to the evil wizard might be a threat, but it could also be a block or a distraction. It all depends on the adversary’s function in the scene, and how PCs must deal with it.
+**Mentre ti trovi in difesa completa ottieni un bonus di +2 a tutti i tiri di difesa rilevanti per il tuo obiettivo di difesa dichiarato.**
 
-Obstacles don’t appear in every scene. They serve to accent enemies in the scene, to make them more threatening or memorable, but overuse of obstacles can be frustrating to the PCs, particularly those focused on combat. You can use them to give less combative PCs something to do during a fight, though.
+Se non se ne fa nulla e non hai mai tirato per _Difendere_ quando arriva il proprio turno di agire, si ottiene un beneficio perché ci si è potuti preparare per la prossima azione. Questo bilancia il "perdere il proprio turno" a casua del fatto che ci si è concentrati nella difesa contro qualcosa che non è poi successo.
 
-There are three kinds of obstacles: hazards, blocks, and distractions.
+## Ostacoli
 
-Hazards
+Ciò che definisce i nemici è che possono essere attaccati e messi fuori combattimento. Al contrario, ciò che definisce gli **ostacoli** è che non possono essere attaccati. Gliostacoli rendono le scene palesemente più complicate per i PG, ma i PG non possono semplicemente combatterli. Gli ostacoli devono essere elusi, sopportati o resi irrilevanti.
+
+Mentre molti ostacoli sono caratteristiche dell'ambiente, alcuni possono essere personaggi che non possono essere messi fuori combattimento utilizzando metodi convenzionali. Il drago può essere il cattivone, ma può essere anche un ostacolo pericoloso. La statua animata che vi impedisce di arrivare al mago malvagio potrebbe essere una minaccia, ma potrebbe anche esssere un blocco o una distrazione. Dipende tutto dalla funzione dell'avversario nella scena, e da come lo affrontano i PG.
+
+Gli ostacoli non appaiono in tutte le scene. Servono per accentuare i nemici nella scena, per renderli più minacciosi o memorabili, ma l'abuso degli ostacoli può diventare frustrante per i PG, soprattutto quelli concentrati sul combattimento. Puoi però utilizzarli per fornire qualcosa da fare ai PG meno combattivi.
+
+Ci sono tre tipi di ostacoli: pericoli, blocchi e distrazioni.
+
+### Pericoli
+
 If an obstacle can attack the PCs, it’s a hazard. Fire jets, rolling boulders, or a sniper too far away to be dealt with directly—they’re all hazards. Every hazard has a name, a skill rating, and a Weapon rating (page XX) of 1 to 4.
 
 The hazard’s name is both a skill and an aspect; that is, the name defines what the hazard can do, and its skill rating defines how good it is at doing that, but the name can also be invoked or compelled like any aspect.
@@ -122,7 +134,8 @@ A hazard acts in the initiative just like the PCs and their enemies do. If your 
 
 If a player wants to overcome or create an advantage against a hazard, they’ll face passive opposition equal to the hazard's skill rating.
 
-Blocks
+### Blocchi
+
 Where hazards exist to hurt the PCs, blocks prevent them from doing things they want to do. Blocks can cause stress, though they don’t always. The chief differences between blocks and hazards is that blocks don’t take actions and are more difficult to remove. Blocks provide passive opposition in certain circumstances, and can threaten or cause harm if not heeded.
 
 Like hazards, blocks have a name and a skill rating, and the name is both a skill and an aspect. Unlike hazards, a block’s skill rating shouldn’t be much higher than one step above the PCs’ highest skill rating; otherwise, things can get frustrating quickly. A block can have a Weapon rating as high as 4, but it doesn’t need to have one.
@@ -141,7 +154,8 @@ Use blocks sparingly. Blocks make it harder for PCs to take certain actions—so
 
 Sometimes players will just want to remove blocks outright. To do so, make an overcome roll against a set difficulty equal to the block’s rating plus two.
 
-Distractions
+### Distrazioni
+
 Where hazards attack the PCs directly and blocks prevent them from taking certain actions, distractions force the PCs to figure out their priorities. Of the obstacles, distractions are often the least mechanically defined. They also don’t necessarily make the scene mechanically harder. Rather, they present the PCs with difficult decisions. Here are the distraction’s parts:
 
 A distraction’s name is a brief, punchy representation of what it is. It can be an aspect, if you need or want it to be.
@@ -152,17 +166,19 @@ If you’re afraid the PCs will deal handily with a fight you’ve got in store,
 
 Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence.
 
-Examples of Obstacles
+### Esempi di ostacoli
 
-Hazards
+#### Pericoli
 
 Great (+4) Machine-Gun Turret, Weapon:3
 Superb (+5) Distant Sniper, Weapon:4
-Blocks
+
+#### Blocchi
 
 Fair (+2) Chain Link Fence, Great (+4) difficulty to remove
 Good (+3) Vat of Acid, Weapon:4, Superb (+5) difficulty to remove
-Distractions
+
+#### Distrazioni
 
 Bus Full of Civilians—Choice: Will the bus plunge off the bridge? Opposition: Good (+3) Repercussion (leave them): All of the civilians on the bus die. Repercussion (save them): The villain gets away!
 The Glittering Gem—Choice: Can you take the gem from the pedestal? Repercussion (leave the gem): You don’t get the (priceless) gem. Repercussion (take the gem): You activate the traps in the temple.
@@ -275,4 +291,4 @@ A weapon value adds to the shift value of a successful hit. If you have Weapon:2
 
 An armor value reduces the shifts of a successful hit. So, Armor:2 makes any hit worth 2 less than usual. If you hit but the target’s Armor reduces the attack’s shifts to 0 or below, you get a boost to use on your target but don’t do any harm.
 
-Choose your range of ratings carefully. Keep an eye on how likely they make a consequence (or worse) on a tie. We recommend a range of 0 to 4 at most.
+Choose your range of ratings carefully. Keep an eye on how likely they make a consequence (or worse) on a tie. We recommend a range of 0 to 4 at most
