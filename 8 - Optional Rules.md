@@ -294,20 +294,20 @@ Se desideri essere selettivo rispetto ai tuoi bersagli, puoi **dividere il tuo s
 
 Sofia affronta un terzetto di scagnozzi e voel colpirli tutti e tre in una raffica di affondi col suo stocco. Grazie a un'invocazione e a un buon tiro, il suo Combattere è un Epico (+7). Lei assegna un attacco Buono (+3) a quello che sembra più veterano, e Discreto (+2) agli altri due, per un totale di sette. Ognuno di loro ora tira per _Difendere_.
 
-In some special circumstances, as with an explosion or similar, you may make a zone attack against everyone in one zone, friend and foe alike. Here, you don't split your effort; every target must defend against your total roll. The circumstances and method must be right for doing this; often the GM will require you to invoke an aspect or use a stunt to gain permission.
+In alcue circostanze speciali, come per esempio nel caso di esplosioni o simili, potreste trovarvi a gestire un **attacco di zona** contro tutti in una certa zona, amici e nemici allo stesso modo. In questo caso, non separare il tuo sforzo. Ogni bersaglio deve difendersi contro il tuo sforzo totale. Le circostanze e il metodo devono essere quelli giusti per poterlo fare, spesso il GM ti richiederà diinvocare un aspetto o utilizzare u talento per ottenerne il permesso.
 
-If you wish to create an advantage affecting a whole zone or group, target the scene instead: place a single aspect on the zone or the scene itself rather than placing separate aspects on each of the targets. This has the added advantage of reducing overall book-keeping. If someone insists on creating a separate aspect on each target, they should be constrained to the effort splitting method.
+Se desideri _Creare un vantaggio_ che influisca su un'intera zona o gruppo, è meglio **mirare alla zona**: mettee un singolo aspetto sulla zona o sulla scena stessa invece che mettere aspetti separati su ognuno dei bersagli. Questo ha il vantaggio aggiunto di ridurre la contabilità complessiva. Se qualcuno insiste nel _Creare un vantaggio_ su ogni bersaglio, dovrebbe essere vincolato al metodo della separazione dello sforzo.
 
-With any of these methods, all of the targets should occupy the same zone. The GM may allow the occasional exception due to method and circumstance.
+Con qualsiasi metodo tra questi, tutti i bersagli dovrebbero occupare la stessa zona. Il GM può permettere l'eccezione occasionale dato il metodo e la circostanza.
 
-Only one action type should be used—such as attacking several targets in one blow, solving two problems at once with overcome, or swaying the minds of a few key NPCs with create an advantage. A GM might allow two different action types under special circumstances, but those actions should make sense for the skill used by both.
+Dovrebbe essere utilizzato solo un tipo d'azione, come attaccare vari bersagli in un colpo, risolvere due problemi in una volta con _Superare un ostacolo_  o influenzare le menti di alcuni PNG chiave con _Creare un vantaggio_. Un GM potrebbe permettere due tipi d'azione in certe situazioni, ma queste azioni dovrebbero avere senso per l'abilità utilizzata da entrambe.
 
 ## Valori di arma e armatura
 
-Want to tap into a little bit of that combat equipment vibe other games have? Consider weapon and armor ratings. In short, getting hit by a weapon will damage you more, and having armor keeps that from happening. (You could model this with stunts, but using stunt slots might not feel right to you.)
+Volete attingere un po' da quell'atmosfera di equipaggiamento da combattimento che trovate in altri giochi? Prendere in considerazione i valori di arma e armatura. In breve, venir colpiti da un'arma produrrà più danni, e avere un'armatura eviterà che succeda (potreste modellare tutto questo con dei talenti, ma usare spazi di talenti potrebbe non essere la soluzione giusta per voi).
 
-A weapon value adds to the shift value of a successful hit. If you have Weapon:2, it means that any hit inflicts 2 more shifts than normal. This counts for ties; you inflict stress on a tie instead of getting a boost.
+Un **valore di arma** viene aggiunto ai livelli di successo di un colpo riuscito. Se hai Arma:2, significa che qualsiasi colpo infligge 2 livelli di successo aggiuntivi rispetto al normale. Questo conta anche per i pareggi: infliggi danno con un pareggio invece di ottenere un beneficio.
 
-An armor value reduces the shifts of a successful hit. So, Armor:2 makes any hit worth 2 less than usual. If you hit but the target’s Armor reduces the attack’s shifts to 0 or below, you get a boost to use on your target but don’t do any harm.
+Un **valore di armatura** riduce i livelli di successo di un colpo riuscito. In questo modo, Armaura:2 rende qualsiasi colpo più debole di 2 rispetto al normale. Se colpisci ma il beraglio riduce i livelli di successo a 0 o meno, ottieni un beneficio da utilizzare sul tuo bersaglio ma non infliggi alcun danno.
 
-Choose your range of ratings carefully. Keep an eye on how likely they make a consequence (or worse) on a tie. We recommend a range of 0 to 4 at most
+Scegliete il vostro intervallo di valori con accortezza. Tenete d'occhio quanto facilmente creano una conseguenza (o peggio) su un pareggio. Racocmandiamo un intervallo da 0 a 4 al massimo.
