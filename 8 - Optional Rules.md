@@ -156,62 +156,71 @@ A volte i giocatori vorranno semplicemente rimuovere i blocchi. Per farlo, si es
 
 ### Distrazioni
 
-Where hazards attack the PCs directly and blocks prevent them from taking certain actions, distractions force the PCs to figure out their priorities. Of the obstacles, distractions are often the least mechanically defined. They also don’t necessarily make the scene mechanically harder. Rather, they present the PCs with difficult decisions. Here are the distraction’s parts:
+SE i pericoli attaccano i PG e i blocchi evitano che eseguano certe azioni, le **distrazioni** costringono i PG a capire le proprie priorità. Tra gli ostacoli, sono spesso i meno definiti meccanicamente. Inoltre non rendono la scena necessariamente più difficile sotto l'aspetto meccanico. Piuttosto, presentano ai PG delle scelte difficili. Ecco le parti di una distrazione:
 
-A distraction’s name is a brief, punchy representation of what it is. It can be an aspect, if you need or want it to be.
-A distraction’s choice is a simple question that codifies the decision it gives to the PCs.
-A distraction’s repercussion is what happens to the PCs if they don’t deal with the distraction. Some distractions might have multiple repercussions, including repercussions for successfully dealing with the distraction.
-A distraction’s opposition is its passive opposition against PCs rolling to deal with it. Not every distraction needs to provide opposition.
-If you’re afraid the PCs will deal handily with a fight you’ve got in store, adding a distraction or two can force them to decide whether it’s more important to trounce the bad guys or deal with the distractions.
+* Il **nome** di una distrazione ne è una rappresentazione breve e potente. Può essere un aspetto, se ne hai bisogno o se vuoi.
+* La **scelta** di una distrazione è una semplice domanda che codifica la decisione che pone ai PG.
+* la **ripercussione** di una distrazione è ciò che succede ai PG se non afforntano la distrazione. Alcune distrazioni potrebbero avere diverse ripercussioni, incluse le ripercussioni dell'aver affrontato con successo la distrazione.
+* L'**opposizione** di una distrazione è la sua opposizione passiva verso i PG che tirano per afforntarla. Non tutte le distrazioni devono fornire opposizione.
 
-Dealing with a distraction should always have a clear benefit or, failing that, not dealing with a distraction should always have a clear consequence.
+Se hai paura che i PG possano gestire facilmente un combattimento che hai pianificato, l'aggiunta di una distrazione o due potrebbe costringerli a decidere se sia più importante battere i cattivi o affrontare le distrazioni.
+
+Avere a che fare con le distrazioni dovrebbe sempre avere un chiaro beneficio o, se non quello, il non affrontarla dovrebbe sempre avere una chiara conseguenza.
 
 ### Esempi di ostacoli
 
 #### Pericoli
 
-Great (+4) Machine-Gun Turret, Weapon:3
-Superb (+5) Distant Sniper, Weapon:4
+Ottimo (+4) ***Torretta mitragliatrice***, Arma:3
+Eccellente (+5) ***Cecchino distante***, Arma:4
 
 #### Blocchi
 
-Fair (+2) Chain Link Fence, Great (+4) difficulty to remove
-Good (+3) Vat of Acid, Weapon:4, Superb (+5) difficulty to remove
+Discreto (+2) ***Rete metallica***, livello di difficoltà Ottimo (+4) per rimuoverla
+Buono (+3) ***Vasca di acido***, Arma:4, livello di difficoltà Eccellente (+5) per rimuoverla
 
 #### Distrazioni
 
-Bus Full of Civilians—Choice: Will the bus plunge off the bridge? Opposition: Good (+3) Repercussion (leave them): All of the civilians on the bus die. Repercussion (save them): The villain gets away!
-The Glittering Gem—Choice: Can you take the gem from the pedestal? Repercussion (leave the gem): You don’t get the (priceless) gem. Repercussion (take the gem): You activate the traps in the temple.
-Scale
-Scale is an optional subsystem that you can use to represent supernatural beings which operate on a level beyond the general range of capabilities of most characters in your game. Usually you don’t need to worry about the impact of scale within your game. There may be times, however, where it’s desirable to present the characters with a threat bigger than they typically face—or an opportunity for the characters to punch outside their usual weight class.
+**Autobus pieno di civili** - Scelta: ***L'autobus precipiterà oltre il ponte?*** Opposizione: Buono (+3) Ripercussione (lasciarli precipitare): **Tutti i civili sull'autobus muoiono** Ripercussione (salvarli): **Il nemico fugge!**
 
-As an example—you may wish to change the list to something more suitable to your setting—we’ll present you with five potential levels of scale: Mundane, Supernatural, Otherworldly, Legendary, and Godlike.
+**La gemma scintillante** - Scelta: ***Riuscirete a prendere la gemma dal piedistallo?*** Ripercussione (lasciare lì la gemma): **Non ottenete la gemma (senza prezzo).** Ripercussione (prendere la gemma): **Attivate le trappole nel tempio**.
 
-Mundane represents characters without access to supernatural power or technologies that would boost them beyond the capabilities of humans.
-Supernatural represents characters who do have access to supernatural powers or technologies reaching beyond human capacity but who are still effectively human at the core.
-Otherworldly represents unusual or unique characters whose powers set them apart from the normal concerns of humanity.
-Legendary represents powerful spirits, entities, and alien beings to whom humanity is more of a curiosity than a threat.
-Godlike represents the universe’s mightiest forces: archangels, gods, faerie queens, living planets, and so on.
-When applying scale to two opposing forces or individuals, compare the sides’ levels and determine who is higher, and by how many levels. They get one of the following benefits on any rolled action against their lesser:
+## Livello di potere
 
-+1 per level of difference to their action before the roll
-+2 per level of difference to the result after the roll, if the roll succeeds
-1 additional free invoke per level of difference to the results of a successful create advantage action
-Frequent and rigid application of scale rules may put player characters at a distinct disadvantage. Compensate by generously affording those players opportunities to subvert scale disadvantage in clever ways. Viable options include researching a target for weaknesses, changing the venue to one where scale doesn’t apply, or altering goals so that their opponent cannot leverage their scale advantage.
+Il **livello di potere** è un sotosistema opzionale che potete utilizzare per rappresentare esseri sovrannaturali che operano a un livello oltre l'intervallo di capacità generale della maggior parte dei personaggi nella vostra partita. Di solito non avete bisogno di preoccuparvi dell'impatto del livello di potere nella vostra partita. Possono rpesentarsi situazioni, comunque, in cui sia desiderabile presentare ai personaggi una minaccia più grande di quelle che affrontano tipicamente, o l'opportunità per i personaggi di colpire fuori dalla propria classe di peso.
 
-Aspects and Scale
-Active situation aspects sometimes represent a supernatural effect. In these cases, the GM may determine that invoking the aspect grants the additional benefit of its scale. Furthermore, a supernaturally created aspect may grant scale to some actions when invoked. It may also provide scale even without an invoke, such as in the case of a magical veil or high-tech camouflage suit; you need not invoke Veiled to gain Supernatural scale when sneaking about.
+Come esempio (potete voler cambiare questo elenco verso qualcosa di più adatto alla vostra ambientazione) presenteremo cinque possibili livelli di scala: Mondano, Sovrannaturale, ultraterreno, Leggendario e Divino.
 
-Does Scale Apply When Supernaturally Creating an Advantage?
-If you are creating an advantage and there is no opposition, rather than rolling you simply gain the aspect with one free invoke. That aspect grants scale as previously described.
+* **Mondano** rappresenta personaggi senza accesso a poteri sovrannaturali o tecnologie che possano potenziarli oltre le capacità degli umani.
+* **Sovrannaturale** rappresenta personaggi che hanno accesso a poteri sovrannaturali o tecnologie che superano le capacità umane ma che sono ancora effettivamente umani alla base.
+* **Ultraterreno** rappresenta personaggi inusuali o unici i cui poteri li mettono su un piano diverso rispetto alle normali preoccupazioni dell'umanità.
+* **Leggendario** rappresenta spiriti potenti, entità ed esseri alieni per i quali l'umanità è più una curiosità che una minaccia.
+* **DIvino** rappresenta le forze più potenti dell'universo: arcangeli, dei, regine delle fate, pianeti viventi e così via.
 
-If you are creating the advantage on someone else to their detriment, such as casting Entangled by Animated Vines on your foe, you may gain scale on your effort to create the advantage.
+Quando si applica il livello di potere a due forze o individui in opposisione, confrontate i livelli delle parti coinvolte e determinate chi abbia il livello più alto, che ottiene uno dei seguenti benefici su qualsiasi azione tirata contro l'inferiore:
 
-If you are creating an advantage via supernatural means and an opposing party can directly impede the effort via physical or supernatural interference, your scale may apply against their defend roll.
+* +1 per livello di differenza all'azione prima del tiro;
+* +2 per livello di differenza al risultato dopo il tiro, se il tiro ha successo;
+* 1 invocazione gratuita aggiuntiva per livello di differenza al risultato di un'azione di _Creare un vantaggio_.
 
-Otherwise, you roll to create the advantage without scale (likely against a set difficulty), but later use of that aspect grants scale when appropriate.
+L'applicazione rigida e frequente delle regole del livello di potere puiò mettere i personaggi in posizione di discreto svantaggio. Compensate offrendo generosamente ai personaggi l'opportunità di sovvertire gli svantaggi del livello di potere in modi ingegnosi. Opzioni valide includono fare ricerche sulle debolezzze di un obiettivo, modificare il luogo in uno nel quale il livello di potere non si applica o cambiare gli obiettivi affinché l'avversario non possa far leva sul proprio vantaggio di livello di potere.
 
-Time Shifts
+### Aspetti e livello di potere
+
+A volte gli aspetti di situazione attivi raprpesentano un effetto sovrannaturale. In questi casi, il GM può decidere che invocando l'aspetto di ottengono i benefici del suo livello di potere. Inoltre, un aspetto creato in modo sovrannaturale può fornire livello di potere ad alcune azioni, quando invocato. Potrebbe fornire livello di potere anche senza essere invocato, come nel caso di un velo magico o di una tuta di mimetizzazione tecnologica. Non c'è bisogno di invocare ***Velato*** per ottenere il livello di potere Sovrannaturale quando si sgattaiola in giro.
+
+### Si applica il livello di potere quando si agisce per _Creare un vantaggio_?
+
+Se state utilizzando _Creare un vantaggio_ e non c'è opposizione, piuttosto che tirare ottenete semplicemente l'aspetto con un'invocazione gratuita. L'aspetto fornisce livello di potre come descritto in precedenza.
+
+Se state utilizzando _Creare un vantaggio_ su qualcun altro a suo detrimento, come lanciare ***Impigliato in rampicanti animati*** sull'avversario, potete ottenere livello di potere sui vostro sforzo nel tiro.
+
+Se utilizzate _Creare un vantaggio_ per vie sovrannaturali e qualcuno può impedire direttamente il tentativo tramite interferenze fisiche o sovrannaturali, il vostro livello di potere può applicarsi contro il loro tiro di _Difendere_.
+
+Altrimenti, tirate per _Creare un vantaggio_ senza scala (probabilmente contro una difficoltà impostata), ma il susseguente utilizzo dell'aspetto fornisce livello di potere quando appropriato.
+
+## Time Shifts
+
 When determining how long it takes characters to do something, you may want to use a more systematic approach to decide the impacts of success, failure, and “at a cost” options. How much longer or faster? Let the shifts decide, using these guidelines.
 
 First, decide how long the task takes with a simple success. Use an approximate quantity plus a unit of time: “a few days,” “half a minute,” “several weeks,” and so on. Approximate quantities for use include: half, about one, a few, or several of a given unit of time.
