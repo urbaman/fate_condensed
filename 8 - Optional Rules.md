@@ -211,27 +211,28 @@ A volte gli aspetti di situazione attivi raprpesentano un effetto sovrannaturale
 
 ### Si applica il livello di potere quando si agisce per _Creare un vantaggio_?
 
-Se state utilizzando _Creare un vantaggio_ e non c'è opposizione, piuttosto che tirare ottenete semplicemente l'aspetto con un'invocazione gratuita. L'aspetto fornisce livello di potre come descritto in precedenza.
+Se state utilizzando _Creare un vantaggio_ e _non c'è opposizione_, piuttosto che tirare ottenete semplicemente l'aspetto con un'invocazione gratuita. L'aspetto fornisce livello di potre come descritto in precedenza.
 
-Se state utilizzando _Creare un vantaggio_ su qualcun altro a suo detrimento, come lanciare ***Impigliato in rampicanti animati*** sull'avversario, potete ottenere livello di potere sui vostro sforzo nel tiro.
+Se state utilizzando _Creare un vantaggio_ su _qualcun altro a suo detrimento_, come lanciare ***Impigliato in rampicanti animati*** sull'avversario, potete ottenere livello di potere sui vostro sforzo nel tiro.
 
-Se utilizzate _Creare un vantaggio_ per vie sovrannaturali e qualcuno può impedire direttamente il tentativo tramite interferenze fisiche o sovrannaturali, il vostro livello di potere può applicarsi contro il loro tiro di _Difendere_.
+Se utilizzate _Creare un vantaggio_ per vie sovrannaturali _e qualcuno può impedire direttamente il tentativo tramite interferenze fisiche o sovrannaturali_, il vostro livello di potere può applicarsi contro il loro tiro di _Difendere_.
 
 Altrimenti, tirate per _Creare un vantaggio_ senza scala (probabilmente contro una difficoltà impostata), ma il susseguente utilizzo dell'aspetto fornisce livello di potere quando appropriato.
 
 ## Time Shifts
 
-When determining how long it takes characters to do something, you may want to use a more systematic approach to decide the impacts of success, failure, and “at a cost” options. How much longer or faster? Let the shifts decide, using these guidelines.
+Quando determinate il tempo che impiegano i personaggi a fare qualcosa, potreste voler utilizzare un approccio leggermente più sistematico per decidere gli impatti delle opzioni successo, fallimento e "con un costo". Quanto più a lungo o più velocemente? Fate decidere ai livelli di successo, utilizzando queste linee guida.
 
-First, decide how long the task takes with a simple success. Use an approximate quantity plus a unit of time: “a few days,” “half a minute,” “several weeks,” and so on. Approximate quantities for use include: half, about one, a few, or several of a given unit of time.
+Per prima cosa, decidete quanto durerebbe l'azione con un semplice successo. Utilizzate una quantità approssimativa più un'unità di tempo: "alcni giorni", "mezzo minuto", "diverse settimane" e così via. Le quantità approssimate da usare includono: metà, circa uno, alcuni, diversi di quella unità di tempo.
 
-Then look at how many shifts the roll exceeds or misses the target by. Each shift is worth one quantity-step from wherever your starting point is.
+Quindi, guardate a quanti livelli di successo ha ottenuto il tiro, sia come successo che come fallimento. Ogni livello di successo vale un gradino di quantità da qualsiasi fosse il punto di partenza.
 
-So if your starting point is “a few hours,” then one shift faster jumps the quantity down to “about one hour,” two shifts down to “half an hour.” Going faster than “half” drops the unit down to the next smaller (hours to minutes, etc) and quantity up to “several”, so three shifts faster would be “several minutes.”
+Così, se il punto di partenza è "alcune ore", allora un livello di successo più velocemente fa passare la quantità giù a "circa un'ora", due livelli di successo la fanno abbassare a "mezz'ora". Andare più veloci di "mezzo" fa abbassare l'unità di tempo (da ore a minuti per esempio) e la quantità a "diversi", cosicché tre livelli si successo più velocemente significherebbe "diversi minuti".
 
-In the case of slower, it’s the same process in the opposite direction: one shift slower is “several hours,” two is “half a day,” three is “about one day.”
+Nel caso di maggiore lentezza, il processo è identico ma nella direzione opposta: un livellodi successo più lentamente è "diverse ore", due è "mezza giornata", tre è "circa un giorno" e via dicendo.
 
-Ways to Break the Rules for Big Bads
+## Modi di rompere le regole per i Cattivoni
+
 Between combining skills and creating advantages for teamwork (page XX), a group of PCs can really overwhelm a single opponent. This is fine if you want to respect the advantage of numbers, but not great if you want to present a “big bad” that’s the equal of the whole group.
 
 But remember, for monsters and other big threats it’s acceptable to break the rules (page XX)—so do so by looking at ways to counteract the group’s usual advantage of numbers, while still giving them a chance. Here are a few suggestions for ways you might do that. You can use one or more of these in combination for especially difficult or terrifying final bosses.
