@@ -288,11 +288,11 @@ Tutte le volte che ingaggi interamente l'idea della mappa o che definisci il cat
 
 ## Modi di gestire i bersagli multipli
 
-Inevitably, someone at your table will want to affect multiple targets at once. If it’s allowed, here are some methods you can use.
+Inevitabilmente, qualcuno al tavolo vorrà avere effetto su più obiettivi alla volta. Se lo si permette, ecco alcuni metodi da eseguire.
 
-If you wish to be selective about your targets, you may split your effort. Roll your skill, and if the resulting total is positive, you can split that total up however you like among the targets, who each get to defend against the effort you assigned to them. You must assign at least one point of effort to a target, or you didn’t target them at all.
+Se desideri essere selettivo rispetto ai tuoi bersagli, puoi dividere il tuo sforzo. Tira l'abilità, e se il totale risultante è positivo, puoi dividere quel totale come vuoi tra i bersagli, ognuno dei quali potrà eseguire l'azione _Difendere_ contro lo sforzo assegnatogli. Devi assegnare almeno un punto di sforzo per bersaglio, o non l'hai puntato.
 
-Sophie faces a trio of goons and wants to strike at all three in a flurry of thrusts with her rapier. Thanks to an invoke and a good roll, her Fight roll comes in at Epic (+7). She assigns a Good (+3) attack to the one that looks the most veteran, and Fair (+2) to each of the other two, for a total of seven. They each then roll to defend.
+Sofia affronta un terzetto di scagnozzi e voel colpirli tutti e tre in una raffica di affondi col suo stocco. Grazie a un'invocazione e a un buon tiro, il suo Combattere è un Epico (+7). Lei assegna un attacco Buono (+3) a quello che sembra più veterano, e Discreto (+2) agli altri due, per un totale di sette. Ognuno di loro ora tira per _Difendere_.
 
 In some special circumstances, as with an explosion or similar, you may make a zone attack against everyone in one zone, friend and foe alike. Here, you don't split your effort; every target must defend against your total roll. The circumstances and method must be right for doing this; often the GM will require you to invoke an aspect or use a stunt to gain permission.
 
