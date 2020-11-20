@@ -278,13 +278,13 @@ Ci sono alcuni modi in cui si può implementare un bonus da solitario. Puoi util
 
 ### La minaccia è una mappa (o uno sciame di personaggi)
 
-In Fate, anything can be a character, so why not a map? When the threat is a map, your big bad has zones (page XX) which must be navigated to achieve victory.
+In _Fate_, qualsiasi cosa può essere un personaggio, quindi perché non una mappa? Quando **la minaccia è una mappa**, il tuo cattivo ha zone tra le quali bisogna farsistrada per ottenere la vittoria.
 
-As you detail your big bad map, each zone might have its own skills, aspects, and stress capacity. Some zones might contain simple challenges that must be overcome in order to move deeper into the creature. Each zone may take an action as a separate character against PCs occupying that zone, or in the case of a zone representing a limb or similar, may be able to attack adjacent zones as well. If a zone is taken out by one of the PC’s attacks, it may be bypassed and no longer gets to take actions of its own, but the overall big bad isn’t defeated until the heroes can reach its heart and kill it true.
+Mentre dettagli la mappa del cattivo, ogni zona deve avere le sue proprie abilità, aspetti e indicatori di stress. Alcune zone potrebbero contenere semplici sfide che devono essere superate per potersi muovere più in profondità nella creatura. Ogni zona può eseguire un'azione come se fosse un personaggio separato contro i PG che la occupano, o nel caso di una zona che rappresenta un arto o qualcosa di simile, potrebbe poter attaccare anche zone adiacenti. Se una zona è messa fuori combattimento da uno degli attacchi dei PG, potrebbe essere superata e non poter più eseguire azioni autonome, ma complessivamenre il cattivo non è sconfitto finché gli eroi non raggiungono il suo cuore e lo uccidono sul serio.
 
-This method works particularly well if your big bad is a truly gigantic monster, but need not be limited to that situation. You can use the idea of treating the threat as a collection of interconnected characters, without requiring that the PCs actually enter or navigate the big bad as a literal map. Used this way, you’ve got a hybrid between a map and expendable minion armor (page XX)—a hive of characters, after a fashion. Some parts of the big bad must be defeated before the players can hit where it is truly vulnerable, and those parts get to take their own actions in the exchange.
+Questo metodo funziona particolarmente bene se il tuo cattivo è un mostro veramente gigante, ma non deve essere limitato a situazioni del genere. Puoi utlizzare l'idea di gestire la minaccia come collezione di personaggi interconnessi, senza richiedere che i PG entrino o attraversino il cattivo come fosse letteralmente una mappa. Usato in questo modo, hai un ibrido tra una mappa e un'armatura di tirapiedi sacrificabili: **uno sciame di personaggi**, per così dire. alcune parti del cattivo devono essere sconfitte prima che i personaggi possano colpire dove è veramente vulnerabile, e quelle parti eseguono le proprie azioni nello scambio.
 
-Whether you fully engage the map idea or simply build the big bad as a hive, you’re sure to end up with a more dynamic fight where the big bad acts more frequently, and the players must figure out a plan of attack that eliminates the threat piece by piece before they can finally put it down.
+Tutte le volte che ingaggi interamente l'idea della mappa o che definisci il cattivo come sciame, ti assicuri di avere un combattimento più dinamico dove il cattivo agisce più frequentemente, e i giocatori devono tirar fuori un piano d'attacco che elimini la minaccia pezzo per pezzo prima che possano in fine sconfiggerlo.
 
 ## Modi di gestire i bersagli multipli
 
@@ -302,7 +302,8 @@ With any of these methods, all of the targets should occupy the same zone. The G
 
 Only one action type should be used—such as attacking several targets in one blow, solving two problems at once with overcome, or swaying the minds of a few key NPCs with create an advantage. A GM might allow two different action types under special circumstances, but those actions should make sense for the skill used by both.
 
-Weapon and Armor Ratings
+## Valori di arma e armatura
+
 Want to tap into a little bit of that combat equipment vibe other games have? Consider weapon and armor ratings. In short, getting hit by a weapon will damage you more, and having armor keeps that from happening. (You could model this with stunts, but using stunt slots might not feel right to you.)
 
 A weapon value adds to the shift value of a successful hit. If you have Weapon:2, it means that any hit inflicts 2 more shifts than normal. This counts for ties; you inflict stress on a tie instead of getting a boost.
