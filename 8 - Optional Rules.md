@@ -124,15 +124,15 @@ Ci sono tre tipi di ostacoli: pericoli, blocchi e distrazioni.
 
 ### Pericoli
 
-If an obstacle can attack the PCs, it’s a hazard. Fire jets, rolling boulders, or a sniper too far away to be dealt with directly—they’re all hazards. Every hazard has a name, a skill rating, and a Weapon rating (page XX) of 1 to 4.
+Se un'ostacolo può attaccare i PG, è un **pericolo**. Getti di fuoco, macigni rotolanti o un cecchino troppo lontano da affrontare direttamente, sono tutti pericoli. Tutti i pericoli hanno un nome, un valore di abilità e un valore di arma da 1 a 4.
 
-The hazard’s name is both a skill and an aspect; that is, the name defines what the hazard can do, and its skill rating defines how good it is at doing that, but the name can also be invoked or compelled like any aspect.
+Il nome del pericolo è sia un'abilità che un aspetto. Perciò, il nome definisce cosa può fare il pericolo, e il suo valore di abilità definisce quanto è bravo a farlo, ma il nome può anche essere invocato o tentato come qualsiasi aspetto.
 
-Generally speaking, a hazard’s skill rating should be at least as high as the PCs’ highest skill rating, if not a little bit higher. A hazard with a very high skill rating and a very high Weapon rating will likely take out a PC or two. You could also make a hazard with a lower skill rating but a high Weapon rating, making for something that doesn’t hit often but hits hard when it does. Reversing that makes a hazard that hits frequently but doesn’t do much damage.
+Generalmente parlando, il valore di abilità di un pericolo dovrebbe essere alto quanto il maggior valore di abilità dei PG, se non un poco più alto. Un pericolo con un valore di abilità e di arma molto alti metterà molto probabilmente fuori combattimento un PG o due. Potresti anche creare un pericilo con un valore di abilità più basso ma con un valore di arma alto, per qualcosa che non colpisce spesso ma colpisce duro. Invertendo i valori si crea un pericolo che colpisce frequentemente ma non arreca molti danni.
 
-A hazard acts in the initiative just like the PCs and their enemies do. If your rules require everyone to roll for initiative, hazards will roll with their rating. On its turn each exchange, a hazard acts as implied by its name, and rolls with its rating. If it attacks and hits with a tie or better, add its Weapon rating to its shifts. Hazards can attack or create advantages; they can’t be attacked, and they don’t overcome obstacles.
+Un pericolo agisce nell'ordine d'azione come fanno i PG e i loro nemici. SE le regole richiedono di tirare per l'iniziativa, anche i pericoli tireranno con il proprio valore di abilità. Nel propio turno di ogni scambio, un pericilo agisce come definito dal nome e tira col proprio valore di abilità. Se attacca e colpisce con un pareggio o più, aggiungi il valore di arma ai livelli di successo. I pericoli possono _Attaccare_ o _Creare un vantaggio_. Non possono essere attaccati, e non possono _Superare ostacoli_.
 
-If a player wants to overcome or create an advantage against a hazard, they’ll face passive opposition equal to the hazard's skill rating.
+Se un giocatore vuole _Superare un ostacolo_ o _Creare un vantaggio_ contro un pericolo, affronterà una difficoltà passiva uguale al valore di abilità del pericolo.
 
 ### Blocchi
 
