@@ -8,70 +8,77 @@ Le **condizioni** sono un sostituto per le conseguenze, e le rimpiazzano interam
 
 La versione delle condizioni di _Fate Condensato_ prende ogni livello di condizione e lo separa in due condizioni di metà del valore.
 
-[1] Contuso (Lieve) [1] Spaventato (Lieve)
-[2] Ferito (Moderata) [2] Scosso (Moderata)
-[3] Lesionato (Grave) [3] Demoralizzato (Grave)
+**[1] Contuso** (Lieve) **[1] Spaventato** (Lieve)
+**[2] Ferito** (Moderata) **[2] Scosso** (Moderata)
+**[3] Lesionato** (Grave) **[3] Demoralizzato** (Grave)
 
 Queste condizioni corrispondono agli stati fisici e mentali, ma solo per il fatto di aver subito un colpo fisico non significa che tu non possa segnare anche una condizione mentale, e vice versa, a patto che abbia senso. Gli attacchi sono traumatici!
 
 Ci si riprende dalle condizioni proprio come dalle conseguenze, in base alla severità.
 
-Se dovessi acquisire un'altro spazio di conseguenza lieve, ottieni invece altre due caselle di Contuso o Spaventato, come appropriato.
+Se dovessi acquisire un'altro spazio di conseguenza lieve, ottieni invece altre due caselle di **Contuso** o **Spaventato**, come appropriato.
 
-### Moving Conditions Further Apart
+### Andare più lontano con le condizioni
 
-If you would prefer instead to keep physical and mental conditions separate, double the number of boxes on each. That said, there is a cutoff: if two boxes total are marked on either condition in a row, no more boxes may be marked on that row. So if you had one box (out of two) marked on Hurt and none on Scared, and then marked either the second Hurt box or first Scared box, you would no longer be able to mark any more boxes on that row.
+Se voleste invece tenere le condizioni fisiche e mentali separate, raddoppiate il numero di caselle in ognuna. Detto questo, c'è un limite: se vengono segnate due caselle di un a condizione in una riga, nessun'altra casella può essere segnata sulla stessa riga. Quindi se hai una casella (di due) segnata su **Contuso** e nessuna su **Spaventato**, per poi segnare o la seconda di **Contuso** o la prima di **Spaventato**, non potresti più segnare altre caselle su quella riga.
 
-If you would gain a mild consequence slot (from high Physique, Will, or a stunt), instead add two more boxes of Hurt or Scared as appropriate. These added boxes increase the cutoff threshold for that row, one for one.
+Se dovessi acquisire uno spazio di conseguenza lieve (per un valore alto in Fisico o Volontà, o per un talento), aggiungi invece altre due caselle di **Contuso** o **Spaventato** secondo appropriatezza. Queste caselle aggiuntive aumentano la soglia limite per quella riga, uno per uno.
 
-Other Versions of Conditions
-Several published Fate-based games use conditions instead of consequences. Feel free to adopt their implementation instead of this one if it better suits you. Each one achieves much the same purpose for the game: reducing pressure to figure out consequence aspects on the fly, and guiding the nature of the game by limiting the kinds of lasting harm characters can take.
+### Altre versioni delle condizioni
 
-Changing the Skill List
-As mentioned on page XX skill lists are the first thing to consider tinkering with when making your own Fate game. Our default skill setup presents a list of 19 skills arranged in a pyramid of 10. That list is also structured around a traditional notion of capabilities in various fields of action, in essence addressing the question “what can you do?” Other skill lists aren’t necessarily the same length, arranged the same way, or addressing the same question. With that said, here are some short skill lists to consider, borrow, and modify.
+Vari giochi pubblicati basati su _Fate_ utilizzano le condizioni al posto delle conseguenze. Sentitevi liberi di adottare quelle implementazioni invece di quella presentata qui, se si adatta meglio al vostro gusto. Ognuna persegue lo stesso scopo per la partita: ridurre la pressione nel trovare aspetti di conseguenza al volo, e fornire una guida sulla natura della partita limitando i tipi di danno duraturo che i personaggi possono subire.
 
-Actions: Endure, Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker.
-Approaches: Careful, Clever, Flashy, Forceful, Quick, Sneaky.
-Aptitudes: Athletics, Combat, Leadership, Scholarship, Subterfuge.
-Attributes: Strength, Dexterity, Toughness, Intelligence, Charm.
-Relationships: Leading, Partnering, Supporting, Solo.
-Roles: Driver, Hitter, Hacker, Gearhead, Grifter, Thief, Mastermind.
-Themes: Air, Fire, Metal, Mind, Stone, Void, Water, Wind, Wood.
-Values: Duty, Glory, Justice, Love, Power, Safety, Truth, Vengeance.
-If you want a longer list, try starting with the default list, adding, combining, and removing skills from it as needed until you land on what you’re after. You could instead blend together two or more lists from the above in some form.
+## Modificare l'elenco delle abilità
 
-Advancement: The smaller the number of skills in your list vs. the default, the less frequent you’ll want skill point awards from advancement. Perhaps allow them only during “power ups” (page XX), or restrict them another way.
+Come abbiamo detto in precedenza gli elenchi delle abilità sono la prima cosa da considerare per eventuali modifiche quando create la vostra partita a _Fate_. Il nostro elenco di base presenta un elenco di 19 abilità organizzate in una piramide di 10. Quell'elenco è strutturato anche intorno a un concetto tradizionale di capacità in vari campi d'azione, rispondendo di fatto alla domanda "cosa so fare?". Altri elenchi di abilità non devono per forza essere lunghi uguali, organizzati allo stesso modo, o rispondere alla stessa domanda. Detto questo, ecco alcuni elenchi di abilità corti da tenere in considerazione, mutuare e modificare.
 
-Alternatives to the pyramid:
+* **Azioni:** Resistere, Combattere, Conoscere, Muoversi, Percepire, Pilotare, Intrufolarsi, Parlare, Armeggiare;
+* **Approcci:** Attento, Ingegnoso, Appariscente, Energico, Rapido, Elusivo;
+* **Attitudini:** Atletica, Combattimento, Leadership, Erudizione, Sotterfugio;
+* **Attributi:** Forza, Destrezza, Robustezza, Intelligenza, Fascino;
+* **Relazioni:** Guida, Collaborazione, Supporto, Solitario;
+* **Ruoli:** Pilota, Picchiatore, Hacker, Meccanico, Truffatore, Ladro, Stratega;
+* **Temi:** Aria, Fuoco, Metallo, Mente, Pietra, Vuoto, Acqua, Vento, Legno;
+* **Valori:** Dovere, Gloria, Giustizia, Amore, Potere, Sicurezza, Verità, Vendetta.
 
-Diamond: A broad middle (about a third of them) that tapers towards the top and bottom of the range, e.g., 1 at +0, 2 at +1, 3 at +2, 2 at +3, 1 at +4.
-Column: A roughly equal number of skills rated at each tier. If your list is short enough, this might be a line, one skill per tier.
-Free + Cap: Give players enough skill points to make a pyramid (or other shape), but don’t mandate it. They can buy whatever, staying under the cap.
-Coverage: Make sure to consider how many skills you expect to be rated out of the total. The default list has ratings in 53% (10 of 19). The higher the percentage, the more overlap players might have. Preserve niche protection.
+Se volete un elenco più lungo, provate a iniziare dall'elenco di base, aggiungendo, combinando e rimuovendo abilità secondo necessità finché non arrivate dove volete. Potreste anche mescolare in qualche forma due o più abilità o più elenchi tra i precedenti.
 
-Combination: You may want to have two lists, with players adding together one from each to make their roll. The main thing to keep in mind is keeping the potential totals inside the zero-to-cap range. You might have ratings from +0 to +2 on each list, or -1 to +1 on one and +1 to +3 on the other, etc.
+**Avanzamento:** minore è il numero di abilità nel vostro elenco rispetto a quello di base, meno frequente vorrete l'acquisizione di punti abilità dall'avanzamento. Magari permetteteli solo durante i "potenziamenti", o limitateli in un'altro modo.
 
-Character Creation As You Play
-If a player is comfortable making quick creative decisions in the moment, they may enjoy creating characters as they play rather than ahead of time. This mimics the way characters reveal themselves and develop in other media. It’s not for everyone, but for groups where the method clicks it can be a real crowd-pleaser.
+### Alternative alla piramide
 
-With this method, characters start with only a name, high concept aspect, and highest skill—if that! As play progresses and they are called on to use an unrated skill, they can choose an empty slot and reveal their knowledge of it in the moment. Similarly, aspects and stunts can be filled in when the circumstances that call for them, right in the moment a fate point is spent or a bonus claimed.
+* **Diamante:** un ampio centro (circa un terzo di esse) che si assottiglia verso l'alto e verso il basso dell'intervallo, per esempio 1 a +0, 2 a +1, 3 a +2, 2 a +3, 1 a +4;
+* **Colonna:** all'incirca lo stesso numero di abilità valorizzate a ogni grado. Se l'elenco è abbastanza corto, potrebbe trattarsi di una linea, con un'abilità per gradino;
+* **Libero con massimale:** fornisci ai abbastanza pnti abilità per creare una piramide (o un'altra forma) senza richiederla. Possono acquisire qualsiasi abilità, rimanendo sotto il massimale.
 
-Countdowns
-A countdown adds urgency to an adversary or situation: deal with it now or things will get worse. Whether you’re talking about a ticking bomb, a ritual near completion, a bus teetering on the edge of a suspension bridge, or a soldier with a radio who’s about to call in reinforcements, countdowns force the PCs to act quickly or face a worse outcome.
+**Copertura:** assicurati di tenere presente quante abilità ti aspetti siano valorizzate rispetto al totale. L'elenco di base ha valori nel 53% (10 su 19) delle abilità. Maggiore la percentuale, maggiore la sovrapposizione che potranno avere i giocatori. Preserva la protezione degli ambiti specifici.
 
-Countdowns have three components: a countdown track, one or more triggers, and an outcome.
+**Combinazione:** ptreste voler avere due elenchi di abilità, con i giocatori che ne sommano una da ogni elenco per aggiungerle ai propri tiri. La cosa principale da tenere presente è di mantenere i totali potenziali entro l'intervallo zero-massimale. Potreste avere intervalli da +0 a +2 in entrambi gli intervalli, o da -1 a +1 in uno e da +1 a +3 nell'altro, eccetera.
 
-The countdown track looks a lot like a stress track: it’s a row of boxes that you mark from left to right. Every time you check off a box, the countdown gets closer to being over. The shorter the track, the faster their doom approaches.
+## Creazione del personaggio durante il gioco
 
-A trigger is an event that marks a box on the countdown track. It can be as simple as “a minute/hour/day/exchange elapses” or as specific as “the villain takes a consequence or gets taken out.”
+Se un giocatore si trova a suo agio nel prendere decisioni creative al momento, potrebbe piacergli creare il personaggio mentre gioca piuttosto che prima di cominciare. Questo imita il modo in cui i personaggi si rivelano e si sviluppano pian piano in altri media. Non è per tutti, ma per gruppi per i quali il metodo scatta può essere di grande gradimento.
 
-When you mark the last box, the countdown ends and the outcome happens, whatever it is.
+In questo metodo i personaggi cominciano soltanto col nome, un aspetto di concetto base e forse l'abilità più alta. Nel corso della partita, quando gli viene richiesto di utilizzare un'abilità non valorizzata, possono scegliere uno spazio vuoto e rivelare la propria competenza in quel momento. Allo stesso modo, gli aspetti e i talenti possono essere riempiti quando le circostanze lo richiedono, proprio nel momento in cui si spende un punto fato o si reclama un bonus.
 
-GMs might wish to reveal the existence of a countdown track to players without telling them what it represents, at first, as a kind of foreshadowing and to turn up the feeling of tension in the story.
+## Conti alla rovescia
 
-A countdown can have more than one trigger if you want; perhaps the countdown proceeds at a predictable pace until something happens that accelerates it. You could also give a different trigger to each box on the countdown track, if you want a specific series of events to set off the outcome.
+Un conto alla rovescia aggiunge urgenza a un avversario o situazione: affrontalo ora o le cose peggioreranno. Che si parli di una bomba che ticchetta, del completamento di un rituale, di un autobus che vacilla sul bordo di un ponte sospeso o di un soldato con una radio che sta per chiamare i rinforzi, i conti alla rovescia costringono i PG ad agire velocemente o ad affrontare conseguenze peggiori.
 
-Extreme Consequences
+I conti alla rovescia hanno tre componenti: un indicatore di conto alla rovescia, una o più attivazioni e un esito.
+
+L'**indicatore di conto alla rovescia** assomiglia a un indicatore di stress: si tratta di una riga di caselle che vengono segnate da sinistra a destra. Ogni volta che si segna una casella, il conto alla rovescia si avvicina a terminare. Pià corto l'indicatore, più rapidamente si approccia la sventra.
+
+Un'**attivazione** è un evento che porta a segnare una casella sull'indicatore di conto alla rovescia. Può essere semplice quanto "passa un minuto/un'ora/un giorno/uno scambio" o specifico come "il cattivo subisce una conseguenza o viene messo fuori combattimento”.
+
+Quando segli l'ultima casella, il conto alla rovescia termina e l'**esito** accade, qualsiasi cosa sia.
+
+I GM potrebbero voler rivelare l'esistenza di un conto alla rovescia ai giocatori senza dirgli cosa rappresenta, almeno inizialmente, come presagio e per aumentare il sentimento di tensione nella storia.
+
+Un conto alla rovescia può avere più di un'attivazione, se volete. Forse il conto alla rovescia procede con un certo ritmo finché non succede qualcosa che lo accelera. Potreste anche fornire un'attivazione diversa per ogni casella dell'indicatore di conto alla rovescia, se volete che sia una serie di eventi specifici a far scattare l'esito.
+
+## Conseguenze estreme
+
 Extreme consequences introduce an optional fourth severity of consequence to your game: something that permanently, irrevocably changes a character.
 
 Taking an extreme consequence reduces stress taken by 8. When taken, you must replace one of your character’s existing aspects (other than their high concept, which is off-limits) with an aspect that represents the profound change to the character resulting from the harm they’ve taken.

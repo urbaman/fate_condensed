@@ -150,7 +150,7 @@ Le nostre abilità di base si concentrano nel rispondere alla domanda "cosa puoi
 
 I valori delle abilità in _Fate_ sono strutturati per supportare gli specifici ambiti dei personaggi. È per questo che, di base, i giocatori cominciano con una forma a "piramide". Assicuratevi che la protezione degli ambiti specifici sia possibile in qualsiasi nuovo elenco creiate.
 
-Il valore dell'abilità inizialmente pià alta covrebbe rimanere intorno a Ottimo (+4). Potete variarlo in alto o in basso, ma asscuratevi di tenere in considerazione ciò che significa rispetto alle difficoltà e delle abilità oppositive che i vostri PG affronteranno.
+Il valore dell'abilità inizialmente pià alta dovrebbe rimanere intorno a Ottimo (+4). Potete variarlo in alto o in basso, ma asscuratevi di tenere in considerazione ciò che significa rispetto alle difficoltà e delle abilità oppositive che i vostri PG affronteranno.
 
 Frederico decide che vuole una partita di _Fate_ ambientata nello spazio con un elenco di abilità più corto, che si concentri su parole d'azione. Si ritrova con questo elenco di nove voci: Combattere, Conoscere, Percepire, Pilotare, Eludere, Parlare, Trafficare. Inoltre, gli piace l'idea di una forma "a diamante" per i valori delle abilità piuttosto che una piramide, quindi i giocatori valorizzeranno le proprie abilità come segue: 1 a Ottimo (+4), 2 a Buono (+3), 3 a Discreto (+2), 2 a Medio (+1), e 1 a Mediocre (+0). I suoi PG avranno molta sovrapposizione di ambiti d'azione e competenze di base a causa dell'ampio centro di questo diamante, mentre possono comunque godersi un po' di protezione degli ambiti specifici in cima alla "punta" del diamante.
 
