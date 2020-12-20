@@ -1,4 +1,5 @@
 # Per cominciare
+
 ## Definire la vostra ambientazione
 
 Qualsiasi partita di _Fate_ comincia con la definizione dell'ambientazione. Potrebbe essere un concetto portato al tavolo dal vostro GM, una proprietà mediatica popolare famigliare ai giocatori, o un esercizio di costruzione del mondo collaborativo che coinvolge tutti al tavolo. La discussione dell'ambientazione può essere veloce e leggera nei dettagli, oppure coinvolgere un'inera sessione con tutto il gruppo, o qualcosa nel mezzo.
@@ -6,6 +7,7 @@ Qualsiasi partita di _Fate_ comincia con la definizione dell'ambientazione. Potr
 La vostra scelta dell'ambientazione forma le basi per il consenso al tavolo su ciò che è vero e su ciò che è accetabile in gioco e nei concetti dei personaggi. Se la vostra ambientazione non prevede persone volanti, allora un giocatore che sceglie di creare un personaggio con capacità di volo non verrebbe approvato. Se il vostro mondo prevede organizzazioni ombra e cospirazioni profonde, i giocatori possono aspettarsi trame scevre di conflitti ben chiari tra bene e male e prive di farseschi assassini-pagliacci. Dipende da voi!
 
 ## Creare i vostri personaggi
+
 ### Chi sei?
 
 Una volta decisa l'ambientazione, è tempo che i giocatori creino i personaggi, noti anche come PG. Ogni giocatore veste i panni di uno degli eroi della vostra storia, controllandone ogni azione. Dovete creare i personaggi che volete vedere nel mondo. Tenete a mente che i personaggi in _Fate_ sono competenti, drammatici e volenterosi di affrontare le avventure che li aspettano.
@@ -20,12 +22,13 @@ Il tuo PG è definito da vari elementi:
 * **Recupero:** una misura dell'autorità narrativa del tuo eroe
 * **Tocchi finali:** I dettagli personali del tuo eroe
 
-### Aspects
+### Aspetti
+
 Gli **Aspetti** sono delle brevi frasi che descrivono chi è il tuo personaggio o quello che per lui è importante- Essi possono essere collegati a qualità fisiche o mentali del personaggio, alla sua storia, alle sue convinzioni, al suo addestramento o anche, in modo particolare, a equipaggiamento particolarmente importante.
 
 La prima cosa da sapere su di essi è questa: **gli Aspetti sono veri**. In  altre parole, il modo in cui definisci il tuo personaggio è reale e vero nel contesto della storia che vi accingete a raccontare. Se scrivi che il tuo personaggio è un **Cecchino precog**, allora è un cecchino precog. Hai detto a tutti che il tuo personaggio vede il futuro ed è un tiratore scelto con un fucile.
 
-Inoltre, utilizzerai gli aspetti per influenzare la storia. Ti forniscono il permesso di migliorare i tuoi tiri di dado e stabilire fatti riguardo al mondo. In ultimo, gli aspetti possono fareti guadagnare **punti fato** se creano complicazioni per il tuo personaggio, quindi per creare aspetti più versatili possibile dovresti puntare a crearli a doppio taglio, in modo che lavorino sia a tuo favore che contro di te.
+Inoltre, utilizzerai gli aspetti per influenzare la storia. Ti forniscono il permesso di migliorare i tuoi tiri di dado e stabilire fatti riguardo al mondo. In ultimo, gli aspetti possono farti guadagnare **punti fato** se creano complicazioni per il tuo personaggio, quindi per creare aspetti più versatili possibile dovresti puntare a crearli a doppio taglio, in modo che lavorino sia a tuo favore che contro di te.
 
 Per imparare di più sugli aspetti e come crearne di buoni, consigliamo di leggere parte del capitolo _Aspetti e Punti Fato_.
 
@@ -144,7 +147,7 @@ Si seguito trovate le descrizioni delle abilità.
 
 Quando progettate la vostra implementazione di _Fate_, la prima cosa a cui pensare è se mantenere l'elenco delle abilità così com'è. Spesso potete lavorare su quella fornita, combinando, cambiando o separando alcune delle abilità presenti. Però è possibile che la granularità dell'elenco di esempio che abbiamo fornito non è di vostro gradimento. Ecco alcune cose su cui ragionare.
 
-L'elenco di base contiene 19 abilità, e i giocatori valorizzano i propri personaggi oltre il valore di Mediocre (+0) in 10 di esse. Se volete modificare il numero di abilità, potreste voler modificare come i vaslori vengono allocati.
+L'elenco di base contiene 19 abilità, e i giocatori valorizzano i propri personaggi oltre il valore di Mediocre (+0) in 10 di esse. Se volete modificare il numero di abilità, potreste voler modificare come i valori vengono allocati.
 
 Le nostre abilità di base si concentrano nel rispondere alla domanda "cosa puoi fare?", ma il vostro elenco potrebbe non deve per forza seguire questa linea. Potreste volere un elenco che si concentra su "In cosa credi?", o sulla domanda "Come fasi le cose?" (come gli approcci in _Fate Accelerato_), o sui ruoli professionali in una squadra di ladri e truffatori, e così via.
 
